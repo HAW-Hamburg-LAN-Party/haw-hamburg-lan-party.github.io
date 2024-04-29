@@ -9,6 +9,14 @@
 	<meta property="og:title" content={data.meta.title} />
 </svelte:head>
 
-<section>
-	<svelte:component this={data.content} />
-</section>
+<article>
+  <!-- Title -->
+	<hgroup>
+		<h1>{data.meta.title}</h1>
+	</hgroup>
+
+  <!-- Post -->
+	<div class="prose">
+		<svelte:component this={data.content} />
+	</div>
+</article>
