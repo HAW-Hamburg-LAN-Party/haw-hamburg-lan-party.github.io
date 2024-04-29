@@ -1,21 +1,12 @@
-
 <script lang="ts">
-	export let data
+	export let data;
 </script>
 
+<!-- SEO -->
 <svelte:head>
-	<title>HAW-LAN</title>
+	<title>{data.meta.title}</title>
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content={data.meta.title} />
 </svelte:head>
 
-<h1>Hello HAW Hamburg LAN-Part y</h1>
-
-<!-- Posts -->
-<section>
-	<ul class="posts">
-		{#each data.posts as post}
-			<li class="post">
-				<a href={post.slug} class="title">{post.title}</a>
-			</li>
-		{/each}
-	</ul>
-</section>
+<svelte:component this={data.content} />

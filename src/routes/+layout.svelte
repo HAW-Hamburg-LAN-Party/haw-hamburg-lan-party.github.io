@@ -13,6 +13,6 @@ import Header from '$lib/components/Header.svelte';
 <style>
 	main {
 		min-height: calc(100vh - 4.5rem);
-		padding-top: 4.5rem;
+		padding-top: 6.5rem;
 	}
 </style>

@@ -9,7 +9,7 @@
 	<meta property="og:title" content={data.meta.title} />
 </svelte:head>
 
-<article>
+<section>
   <!-- Title -->
 	<hgroup>
 		<h1>{data.meta.title}</h1>
@@ -19,4 +19,4 @@
 	<div class="prose">
 		<svelte:component this={data.content} />
 	</div>
-</article>
+</section>
