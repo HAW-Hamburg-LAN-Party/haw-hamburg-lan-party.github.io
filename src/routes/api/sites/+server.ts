@@ -1,6 +1,8 @@
 import { json } from '@sveltejs/kit'
 import type { Site } from '$lib/types'
 
+export const prerender = true
+
 async function getSites() {
 	let sites: Site[] = []
 
