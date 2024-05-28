@@ -19,6 +19,9 @@ async function getSites() {
 		if (file && typeof file === 'object' && 'metadata' in file && slug) {
 			const metadata = file.metadata as Omit<Site, 'slug'>;
 			const site = { ...metadata, slug } satisfies Site;
+			if (site.published === false) {
+				continue;
+			}
 			sites.push(site);
 		}
 	}

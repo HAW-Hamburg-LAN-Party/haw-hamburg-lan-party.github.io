@@ -1,4 +1,7 @@
 export type Site = {
-	title: string
+	title?: string
+	seoTitle?: string
+	seoDescription?: string
 	slug: string
+	published?: boolean
 }

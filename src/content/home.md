@@ -1,5 +1,7 @@
 ---
-title: Homepage
+title: Übersicht - HAW-Lanparty
+seoTitle: Übersicht - HAW-Lanparty
+seoDescription: Willkommen auf der Website der HAW-Lanparty. Hier findet ihr alle Informationen rund um die Events und Turniere auf der nächsten Lan. Außerdem erfahrt ihr wie und wo ihr euch anmeldet. Viel Spaß beim zocken!
 ---
 <div class="row">
 
