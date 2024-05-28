@@ -2,21 +2,13 @@
 	import { page } from '$app/stores';
 
 	export let href: string;
-	$: active = href === $page.url.pathname;
 </script>
 
-<a {...$$props} {href} aria-current={active ? 'page' : undefined} class:active>
+<a
+	{...$$props}
+	{href}
+	aria-current={href === $page.url.pathname ? 'page' : undefined}
+	class="h-full px-4 {href === $page.url.pathname ? 'font-black' : ''}"
+>
 	<slot />
 </a>
-
-<style lang="scss">
-	a {
-		height: 100%;
-		padding: 0 1rem;
-		text-decoration: none;
-		color: #ffffff;
-		&.active {
-			font-weight: 900;
-		}
-	}
-</style>
