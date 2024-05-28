@@ -13,15 +13,23 @@ Es ist wieder soweit! Tauche ein in die ultimative Gaming-Erfahrung bei der HAW-
   
   
 **Wann?**  
-**03.05.2024 ab 19 Uhr**  
+**07.06.2024 ab 19 Uhr**  
 **Wo?**  
 **Berliner Tor 7 in der Mensa**  
 <br>
-<a class="button" href="https://www.instagram.com/hawhamburg_lan_party/" target="_blank">Jetzt Ticket sichern ></a>
+<a class="button" href="https://www.eventbrite.de/e/haw-lan-11-tickets-894499330577?aff=oddtdtcreator" target="_blank">Jetzt Ticket sichern ></a>
 </div>
 </div>
 
-## Termine & Turniere
+## Ablauf
+Die HAW LAN-Party 11 startet am 07.06. um 19 Uhr. Dann habt ihr erstmal Zeit eure Rechner aufzubauen und euch zurechtzufinden. Wir beginnen das offizielle Programm um 20 Uhr und erläutern dann wie der Abend abläuft.
+
+Dabei sind alle Studierenden der HAW Hamburg herzlich willkommen. Die Veranstaltung richtet sich nicht nur an "hardcore PC-Spieler*innen"! Wir haben verschiedenste Konsolen, VR-Spiele und Leih-Rechner vor Ort, um allen von euch einen tollen Abend zu bieten.
+
+Es wird auch dieses Mal wieder Turniere und Events geben. Es kann aber natürlich auch einfach frei das gespielt werden, worauf du gerade Lust hast.
+
+
+## Events & Turniere
 <br><br>
 <center>To be announced...</center>
 <br><br>
