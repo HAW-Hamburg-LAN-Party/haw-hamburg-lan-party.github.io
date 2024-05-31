@@ -9,6 +9,12 @@
 	--color-secondary-bg: 0 0 0;
 	--color-page: 0 0 0;
 	--color-border: 51 51 51;
+
+	--screen-sm: "640px";
+	--screen-md: "768px";
+	--screen-lg: "1024px";
+	--screen-xl: "1280px";
+	--screen-2xl: "1536px";
 }
 body {
 	@apply bg-page;
@@ -34,9 +40,7 @@ h3,
 h4,
 h5,
 h6 {
-	@apply font-black;
-	@apply mt-6;
-	@apply mb-2;
+	@apply font-black mb-2 mt-6 break-words;
 }
 h1 {
 	@apply text-5xl;
@@ -84,9 +88,13 @@ strong {
 //     }
 // }
 
-.center-content {
-	@apply mx-3 lg:w-[1024px] lg:mx-auto;
+@layer utilities {
+	.center-content {
+		@apply px-3 lg:w-[1024px] lg:mx-auto;
+	}
+
 }
+
 
 // .banner {
 // 	margin: 2rem 0;
