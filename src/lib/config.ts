@@ -1,3 +1,3 @@
-export const siteURL = 'https://haw-hamburg-lan-party.github.io/';
+export const siteURL = 'https://haw-lan.de/';
 export const staticRoutes = ['/'];
 export const blacklistMarkdownPage = ['home', 'navbar'];
