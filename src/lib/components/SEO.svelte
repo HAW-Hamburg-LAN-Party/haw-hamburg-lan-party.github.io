@@ -1,0 +1,12 @@
+<script>
+    export let meta
+</script>
+
+<!-- SEO -->
+<svelte:head>
+	<title>{meta.title} - HAW-Lanparty</title>
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content={meta.seoTitle} />
+	<meta property="og:description" content={meta.seoDescription} />
+	<meta name="description" content={meta.seoDescription}>
+</svelte:head>
