@@ -6,7 +6,7 @@
 </script>
 
 <Header />
-<main class="center-content">
+<main class="center-content pt-16">
 	<slot />
 </main>
 <Footer />
@@ -14,6 +14,5 @@
 <style>
 	main {
 		min-height: calc(100vh - 4.5rem);
-		padding-top: 6.5rem;
 	}
 </style>

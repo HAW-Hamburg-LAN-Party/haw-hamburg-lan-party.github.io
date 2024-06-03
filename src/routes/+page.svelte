@@ -1,14 +1,9 @@
 <script lang="ts">
+	import Seo from '$lib/components/SEO.svelte';
+
 	export let data;
 </script>
 
-<!-- SEO -->
-<svelte:head>
-	<title>{data.meta.title}</title>
-	<meta property="og:type" content="website" />
-	<meta property="og:title" content={data.meta.seoTitle} />
-	<meta property="og:description" content={data.meta.seoDescription} />
-	<meta name="description" content={data.meta.seoDescription}>
-</svelte:head>
+<Seo meta={data.meta} />
 
 <svelte:component this={data.content} />

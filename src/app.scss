@@ -2,36 +2,44 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-	--color-primary: 255 255 255;
-	--color-primary-bg: 255 255 255;
-	--color-secondary: 0 0 0;
-	--color-secondary-bg: 0 0 0;
-	--color-page: 0 0 0;
-	--color-border: 51 51 51;
 
-	--screen-sm: "640px";
-	--screen-md: "768px";
-	--screen-lg: "1024px";
-	--screen-xl: "1280px";
-	--screen-2xl: "1536px";
-}
-body {
-	@apply bg-page;
-	@apply text-primary;
-	font-family:
-		'Inter',
-		system-ui,
-		-apple-system,
-		BlinkMacSystemFont,
-		'Segoe UI',
-		Roboto,
-		Oxygen,
-		Ubuntu,
-		Cantarell,
-		'Open Sans',
-		'Helvetica Neue',
-		sans-serif;
+@layer base {
+	:root {
+		--color-primary: 255 255 255;
+		--color-primary-bg: 255 255 255;
+		--color-secondary: 0 0 0;
+		--color-secondary-bg: 0 0 0;
+		--color-page: 0 0 0;
+		--color-border: 51 51 51;
+	
+		--screen-sm: '640px';
+		--screen-md: '768px';
+		--screen-lg: '1024px';
+		--screen-xl: '1280px';
+		--screen-2xl: '1536px';
+	}
+	html {
+		// scroll-behavior: smooth;
+	}
+	body {
+		@apply bg-page;
+		@apply text-primary;
+		font-family:
+			'Inter',
+			system-ui,
+			-apple-system,
+			BlinkMacSystemFont,
+			'Segoe UI',
+			Roboto,
+			Oxygen,
+			Ubuntu,
+			Cantarell,
+			'Open Sans',
+			'Helvetica Neue',
+			sans-serif;
+	}
+	
+
 }
 
 h1,
@@ -40,8 +48,17 @@ h3,
 h4,
 h5,
 h6 {
-	@apply font-black mb-2 mt-6 break-words;
+	@apply font-black mb-2 mt-6 break-words flex flex-row scroll-m-20 ;
+	a {
+		@apply relative text-[1em] hidden;
+	}
+	.head-link-icon {
+		@apply fill-primary h-full w-[0.75em] absolute -right-[0.9375em] align-middle;
+	}
+
 }
+
+
 h1 {
 	@apply text-5xl;
 	@apply mb-4;
@@ -70,13 +87,11 @@ ol {
 strong {
 	@apply font-black;
 }
-
-.row {
-	@apply flex flex-col items-center gap-4;
-	& > * {
-		@apply flex-1;
-	}
+code {
+	@apply bg-border w-full p-2 my-2 block;
+	color: rgb(104, 117, 149)
 }
+
 
 // .banner {
 // 	@apply my-8;
@@ -92,9 +107,13 @@ strong {
 	.center-content {
 		@apply px-3 lg:w-[1024px] lg:mx-auto;
 	}
-
+	.row {
+		@apply flex flex-col items-center gap-4;
+		& > * {
+			@apply flex-1;
+		}
+	}
 }
-
 
 // .banner {
 // 	margin: 2rem 0;
@@ -149,4 +168,7 @@ a.button {
 	font-weight: 900;
 	text-decoration: none;
 	display: inline-block;
+	&:hover {
+		// background-color: ;
+	}
 }

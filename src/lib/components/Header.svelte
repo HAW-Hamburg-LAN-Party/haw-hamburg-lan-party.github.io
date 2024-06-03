@@ -1,12 +1,13 @@
 <script lang="ts">
 	// @ts-ignore
 	import Navbar from '../../content/navbar.md';
+	import { page } from '$app/stores';
 	import { fade, slide } from 'svelte/transition';
 
 	let showMobileMenu = false;
 </script>
 
-<header class="fixed top-0 left-0 right-0 sm:border-b-[1px] border-border">
+<header class="fixed top-0 left-0 right-0 sm:border-b-[1px] border-border z-20" style="--pathname: {$page.url.pathname}">
 	<div class="flex flex-col sm:flex-row items-center h-16 justify-between" class:showMobileMenu>
 		<div
 			class="center-content h-full w-full flex flex-row items-center justify-between bg-page max-sm:border-b-[1px] border-border"
