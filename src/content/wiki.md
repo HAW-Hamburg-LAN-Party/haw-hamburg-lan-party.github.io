@@ -2,13 +2,19 @@
 title: Wiki
 ---
 
+## Lageplan
+### Mensa - 1. Stock
+![](HAW-LAN%20Lageplan-Oben.svg)
+
+### Cafetaria - EG
+![](HAW-LAN%20Lageplan-Unten.svg)
+
 ## Server
 
 coming soon...
 
 ### Discord
 coming soon...
-
 ### Minecraft
 
 coming soon...
