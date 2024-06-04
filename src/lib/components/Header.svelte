@@ -7,7 +7,10 @@
 	let showMobileMenu = false;
 </script>
 
-<header class="fixed top-0 left-0 right-0 sm:border-b-[1px] border-border z-20" style="--pathname: {$page.url.pathname}">
+<header
+	class="fixed top-0 left-0 right-0 sm:border-b-[1px] border-border z-20"
+	style="--pathname: {$page.url.pathname}"
+>
 	<div class="flex flex-col sm:flex-row items-center h-16 justify-between" class:showMobileMenu>
 		<div
 			class="center-content h-full w-full flex flex-row items-center justify-between bg-page max-sm:border-b-[1px] border-border"
@@ -18,13 +21,17 @@
 				class="logo pl-0 h-full py-3 object-scale-down w-full"
 				on:click={() => (showMobileMenu = false)}
 			>
-				<img class="img-logo h-full w-auto object-cover" src="logo.png" alt="haw-hamburg-lan-party-logo" />
+				<img
+					class="img-logo h-full w-auto object-cover"
+					src="logo.png"
+					alt="haw-hamburg-lan-party-logo"
+				/>
 			</a>
 			<!-- mobile menu button -->
 			<!-- <div class="flex-1"></div> -->
 			<button
 				id="mobile-menu-toggle"
-				class="sm:hidden px-6 m-0 -mr-6 bg-transparent h-full "
+				class="sm:hidden px-6 m-0 -mr-6 bg-transparent h-full"
 				aria-expanded="false"
 				aria-controls="menu"
 				on:click={() => (showMobileMenu = !showMobileMenu)}
@@ -93,22 +100,20 @@
 	</div>
 </header>
 
-<style lang="scss">
-	nav {
-		:global(img) {
-			@apply h-full py-3 object-scale-down;
-		}
-		:global(a) {
-			@apply h-full flex items-center py-4 sm:px-4 max-sm:border-b-[1px] border-border max-sm:center-content;
-		}
-		:global(p) {
-			@apply flex flex-col w-full sm:h-full sm:w-auto sm:flex-row;
-		}
-		:global(p a:last-child) {
-			@apply max-sm:border-b-4;
-		}
-		:global(p:last-child a:last-child) {
-			@apply pr-0 max-sm:border-b-[1px];
-		}
+<style lang="postcss">
+	nav:global(img) {
+		@apply h-full py-3 object-scale-down;
+	}
+	nav:global(a) {
+		@apply h-full flex items-center py-4 sm:px-4 max-sm:border-b-[1px] border-border max-sm:center-content;
+	}
+	nav:global(p) {
+		@apply flex flex-col w-full sm:h-full sm:w-auto sm:flex-row;
+	}
+	nav:global(p a:last-child) {
+		@apply max-sm:border-b-4;
+	}
+	nav:global(p:last-child a:last-child) {
+		@apply pr-0 max-sm:border-b-[1px];
 	}
 </style>
