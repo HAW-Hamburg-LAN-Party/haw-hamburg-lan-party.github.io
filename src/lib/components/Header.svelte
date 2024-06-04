@@ -105,7 +105,7 @@
 		@apply h-full py-3 object-scale-down;
 	}
 	nav :global(a) {
-		@apply h-full flex items-center py-4 sm:px-4 max-sm:border-b-[1px] border-border max-sm:center-content;
+		@apply h-full flex items-center py-4 sm:px-4 max-sm:border-b-[1px] border-border;
 	}
 	nav :global(p) {
 		@apply flex flex-col w-full sm:h-full sm:w-auto sm:flex-row;
