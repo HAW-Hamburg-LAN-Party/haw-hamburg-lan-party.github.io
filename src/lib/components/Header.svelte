@@ -15,15 +15,16 @@
 			<!-- logo -->
 			<a
 				href="/"
-				class="logo pl-0 h-full py-3 object-scale-down"
+				class="logo pl-0 h-full py-3 object-scale-down w-full"
 				on:click={() => (showMobileMenu = false)}
 			>
-				<img class="img-logo h-full" src="logo.png" alt="haw-hamburg-lan-party-logo" />
+				<img class="img-logo h-full w-auto object-cover" src="logo.png" alt="haw-hamburg-lan-party-logo" />
 			</a>
 			<!-- mobile menu button -->
+			<!-- <div class="flex-1"></div> -->
 			<button
 				id="mobile-menu-toggle"
-				class="sm:hidden px-6 m-0 -mr-6 bg-transparent h-full"
+				class="sm:hidden px-6 m-0 -mr-6 bg-transparent h-full "
 				aria-expanded="false"
 				aria-controls="menu"
 				on:click={() => (showMobileMenu = !showMobileMenu)}
@@ -32,7 +33,7 @@
 					<svg
 						xmlns="http://www.w3.org/2000/svg"
 						viewBox="0 0 24 24"
-						class="fill-primary w-full h-full"
+						class="fill-primary w-[24px] h-full"
 					>
 						<title>close</title>
 						<path
@@ -42,7 +43,7 @@
 				{:else}
 					<svg
 						xmlns="http://www.w3.org/2000/svg"
-						class="fill-primary w-full h-full"
+						class="fill-primary w-[24px] h-full"
 						viewBox="0 0 24 24"
 					>
 						<title>menu</title>
