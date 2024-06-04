@@ -101,19 +101,19 @@
 </header>
 
 <style lang="postcss">
-	nav:global(img) {
+	nav :global(img) {
 		@apply h-full py-3 object-scale-down;
 	}
-	nav:global(a) {
+	nav :global(a) {
 		@apply h-full flex items-center py-4 sm:px-4 max-sm:border-b-[1px] border-border max-sm:center-content;
 	}
-	nav:global(p) {
+	nav :global(p) {
 		@apply flex flex-col w-full sm:h-full sm:w-auto sm:flex-row;
 	}
-	nav:global(p a:last-child) {
+	nav :global(p a:last-child) {
 		@apply max-sm:border-b-4;
 	}
-	nav:global(p:last-child a:last-child) {
+	nav :global(p:last-child a:last-child) {
 		@apply pr-0 max-sm:border-b-[1px];
 	}
 </style>
