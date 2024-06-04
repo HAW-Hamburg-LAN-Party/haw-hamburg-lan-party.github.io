@@ -107,3 +107,11 @@ Die Anzahl der Tickets ist begrenzt. Alle Tickets, die nicht benutzt wurden, ver
 ##### Es gibt keine Tickets mehr und ich brauche noch eins, kann ich jetzt nicht mehr kommen?
 
 Falls alle 200 Tickets schon gebucht wurden, hast du ggf. noch die Möglichkeit am LAN-Abend nach 21:00 Uhr ein Ticket zu buchen. Dies liegt daran, dass wir um 21:00 Uhr alle Tickets von nicht eingecheckten Personen storniert werden.
+
+## Sponsoren
+<div class="row">
+  <img alt="Sponsor: Asta der HAW Hamburg" src="sponsor-asta.svg" />
+  <img alt="Sponsor: Förderverein Elektrotechnik und Informatik der HAW Hamburg" src="sponsor-fvei.png" />
+  <img alt="Sponsor: Otto GmbH & Co KG" src="sponsor-otto.svg" />
+  <img alt="Sponsor: Techniker Krankenkasse" src="sponsor-tk.svg" />
+</div>
