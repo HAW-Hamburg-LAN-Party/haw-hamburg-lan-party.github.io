@@ -22,7 +22,7 @@
 				on:click={() => (showMobileMenu = false)}
 			>
 				<img
-					class="img-logo h-full w-auto object-cover"
+					class="img-logo h-full w-auto object-cover p-0"
 					src="logo.png"
 					alt="haw-hamburg-lan-party-logo"
 				/>
