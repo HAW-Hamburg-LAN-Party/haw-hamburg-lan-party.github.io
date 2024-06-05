@@ -3,6 +3,7 @@ import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
 import { mdsvex } from 'mdsvex';
 import rehypeSlug from 'rehype-slug';
 import rehypeAutolinkHeadings from 'rehype-autolink-headings';
+import rehypeExternalLinks from 'rehype-external-links';
 
 function getHeadings() {
 	let visit;
@@ -35,7 +36,7 @@ const svgIcon = {
 		viewBox: '0 0 24 24',
 		className: ['head-link-icon'],
 		width: '54px',
-		height: '54px',
+		height: '54px'
 	},
 	children: [
 		{
@@ -59,6 +60,13 @@ const mdsvexOptions = {
 			{
 				behavior: 'append',
 				content: svgIcon
+			}
+		],
+		[
+			rehypeExternalLinks,
+			{
+				rel: ['noopener'],
+				target: '_blank'
 			}
 		]
 	]
