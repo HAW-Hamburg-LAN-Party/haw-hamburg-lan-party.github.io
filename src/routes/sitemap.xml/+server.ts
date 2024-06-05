@@ -5,10 +5,6 @@ import type { Site } from '$lib/types';
 
 export const prerender = true
 
-interface BlogPost {
-  slug: string;
-}
-
 async function getSites() {
 	const sites: Site[] = [];
 
@@ -46,10 +42,10 @@ const generateSitemap = (routes: string[]): string => {
 };
 
 export const GET: RequestHandler = async () => {
-  const blogPosts: BlogPost[] = await getSites(); // Fetch blog posts from your API or database
-  const blogRoutes = blogPosts.map(post => `/${post.slug}`);
+  const sites: Site[] = await getSites(); // Fetch site from your API or database
+  const siteRoutes = sites.filter((site) => site.published !== false).map(site => `/${site.slug}`);
 
-  const allRoutes = [...staticRoutes, ...blogRoutes];
+  const allRoutes = [...staticRoutes, ...siteRoutes];
   const sitemap = generateSitemap(allRoutes);
 
   return new Response(sitemap, {
