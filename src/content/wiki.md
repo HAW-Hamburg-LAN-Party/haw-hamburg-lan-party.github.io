@@ -45,13 +45,19 @@ coming soon...
 coming soon...
 
 ### Games
+
 <!-- Bei Trailern immer defer hinzufügen, da sonst die Seite langsam lädt -->
+
 #### Counter-Strike 2
 
+<details>
+<summary>Trailer</summary>
 <iframe defer width="560" height="315" src="https://www.youtube-nocookie.com/embed/c80dVYcL69E?si=B8M2fxFf1I_7NB4K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</details>
 Für: PC
 
 #### Call of Duty 4
+
 Für: PC
 
 #### Coach Games
@@ -61,6 +67,10 @@ Auf: PC
 
 <iframe defer width="560" height="315" src="https://www.youtube-nocookie.com/embed/U8cnH1nNyrk?si=8w28n5NaGfrEsxIm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Auf: PC
+
+#### Guitar Hero
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/B2KnvCuOIqg?si=XQJfaCT5blqwjo67" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### Mario Kart 8 Deluxe
 
@@ -75,7 +85,9 @@ Für: Smartphone, Nintendo Switch
 #### Rocket League
 
 <iframe defer width="560" height="315" src="https://www.youtube-nocookie.com/embed/KE07hpCDllU?si=FkUlrz0e0L-niKH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Für: PC
+Für: PC (kostenlos)
+
+Unser Rocket League Turnier ⚽️🚗 wird im spannenden 2v2 KO-System ausgetragen. Gespielt wird im lokalen Multiplayer-Modus, wobei alle Plattformen (PC, PS4 etc.) zugelassen sind. Es können maximale 8 Teams antreten. Vor Turnierbeginn treffen wir uns am Orga-Tisch, und die weitere Kommunikation erfolgt über Discord oder alternativ über TS3.
 
 #### Street Fighter
 
