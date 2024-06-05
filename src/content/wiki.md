@@ -50,10 +50,7 @@ coming soon...
 
 #### Counter-Strike 2
 
-<details>
-<summary>Trailer</summary>
 <iframe defer width="560" height="315" src="https://www.youtube-nocookie.com/embed/c80dVYcL69E?si=B8M2fxFf1I_7NB4K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</details>
 Für: PC
 
 #### Call of Duty 4
