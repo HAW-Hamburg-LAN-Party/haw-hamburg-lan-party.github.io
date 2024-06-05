@@ -38,7 +38,13 @@
 
 <style lang="scss">
 	:global(.wiki-content > *:first-child) {
-		@apply mt-0;
+		@apply mt-0 #{!important};
+	}
+
+	.wiki-content {
+		:global(h2){
+			@apply border-b border-border pb-2 mt-20;
+		}
 	}
 
 	.wiki-content {
