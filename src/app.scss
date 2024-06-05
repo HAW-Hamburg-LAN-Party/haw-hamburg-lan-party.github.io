@@ -136,6 +136,10 @@ hr {
 	@apply my-4;
 }
 
+iframe {
+	@apply max-w-full;
+}
+
 .row {
 	display: flex;
 	flex-direction: column;
