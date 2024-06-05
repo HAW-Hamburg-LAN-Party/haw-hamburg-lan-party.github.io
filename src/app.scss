@@ -132,6 +132,10 @@ code {
 // 	z-index: -1;
 // }
 
+hr {
+	@apply my-4;
+}
+
 .row {
 	display: flex;
 	flex-direction: column;
