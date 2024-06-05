@@ -22,7 +22,7 @@
 <Seo meta={data.meta} />
 
 <div class="flex flex-col sm:flex-row">
-	<aside class="flex-shrink-0 sm:w-1/5 sm:sticky sm:top-16 h-full sm:pr-8 sm:pt-10">
+	<aside class="flex-shrink-0 sm:w-1/5 sm:sticky sm:top-16 h-full sm:pr-8 sm:pt-10 sm:pb-24 max-h-dvh overflow-x-scroll ">
 		<h1 class="sm:mt-0 max-sm:text-center max-sm:inline-block max-sm:w-full">{data.meta.title}</h1>
 		<ul class="list-none max-sm:hidden text-2xl">
 			<SidebarEntry entryList={data.headers}></SidebarEntry>

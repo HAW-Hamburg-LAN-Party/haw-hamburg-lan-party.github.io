@@ -1,3 +1,4 @@
+import { wikiMaxNavDepth } from '$lib/config';
 import { error } from '@sveltejs/kit';
 import GithubSlugger from 'github-slugger';
 
@@ -12,8 +13,6 @@ export interface IHeading {
 	level: number;
 	subtitles?: IHeading[];
 }
-
-const WIKI_MAX_NAV_DEPTH = 3;
 
 function pushHeading(headingList: IHeading[], currentHeader: IHeading) {
 	const size = headingList.length;
@@ -45,7 +44,7 @@ export async function load() {
 		const slugger = new GithubSlugger();
 
 		const headers = headings.reduce((resaltArray, curr) => {
-			if (curr.level > WIKI_MAX_NAV_DEPTH) {
+			if (curr.level > wikiMaxNavDepth) {
 				return resaltArray;
 			}
 			const currentHeading: IHeading = {
