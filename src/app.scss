@@ -139,7 +139,7 @@ code {
 	gap: 1rem;
 	> * {
 		flex: 1 1 0px;
-		@apply max-sm:w-0;
+		@apply sm:w-0;
 	}
 	@media (min-width: 640px) {
 		flex-direction: row;
