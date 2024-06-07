@@ -44,6 +44,11 @@ Es wird auch dieses Mal wieder Turniere und Events geben. Es kann aber natürlic
 ## Wiki
 </div> -->
 
+<div class="banner">
+  <h2>Bock zu helfen?</h2>
+  <a class="button" href="/wir-suchen-dich">Join the Team →</a>
+</div>
+
 ## FAQ
 
 ##### Wie läuft der Abend ab?
