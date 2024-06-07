@@ -16,6 +16,10 @@ seoDescription: Hier findet ihr alle Informationen rund um die Events und Turnie
 
 ## Server
 
+### Discord
+
+Link: [https://discord.gg/MQPK3DFC](https://discord.gg/MQPK3DFC)
+
 ### Counter-Strike 2
 
 Euch wird vor jedem eurer Spiele gesagt, auf welchen Server ihr euch verbinden sollt. Nutzt dafür einfach diese Links:
@@ -44,10 +48,6 @@ Wenn ihr bereit seid, könnt ihr "!ready" in den Counter-Strike 2 Global-Chat sc
 Sollte es während eines Spieles technische Probleme geben, könnt ihr "!pause" in den Global-Chat schreiben, wodurch das Match während der nächsten Freezetime pausiert wird.
 
 Das Team, welches pausiert hat, kann durch "!unpause" das Spiel fortsetzen.
-
-### Discord
-
-coming soon...
 
 ### File-Server
 
