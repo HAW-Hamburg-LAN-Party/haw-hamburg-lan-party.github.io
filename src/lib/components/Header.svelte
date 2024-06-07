@@ -11,7 +11,7 @@
 	class="fixed top-0 left-0 right-0 sm:border-b-[1px] border-border z-20"
 	style="--pathname: {$page.url.pathname}"
 >
-	<div class="flex flex-col sm:flex-row items-center h-16 justify-between" class:showMobileMenu>
+	<div class="flex flex-col sm:flex-row items-center h-16 justify-between bg-page" class:showMobileMenu>
 		<div
 			class="center-content h-full w-full flex flex-row items-center justify-between bg-page max-sm:border-b-[1px] border-border"
 		>
