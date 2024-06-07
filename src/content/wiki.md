@@ -20,10 +20,24 @@ seoDescription: Hier findet ihr alle Informationen rund um die Events und Turnie
 
 Euch wird vor jedem eurer Spiele gesagt, auf welchen Server ihr euch verbinden sollt. Nutzt dafür einfach diese Links:
 <div class="row" style="margin:10px">
-    <a class="button" style="padding: 1.125rem 2rem" href="steam://connect/10.0.131.149:27015">Server 1</a>
-    <a class="button" style="padding: 1.125rem 2rem" href="steam://connect/10.0.131.149:27115">Server 2</a>
-    <a class="button" style="padding: 1.125rem 2rem" href="steam://connect/10.0.131.149:27215">Server 3</a>
-    <a class="button" style="padding: 1.125rem 2rem" href="steam://connect/10.0.131.149:27315">Server 4</a>
+    <div style="display: flex; flex-direction: column">
+        <a class="button" href="steam://connect/10.0.131.149:27015">Server 1</a>
+        <p style="color: #4f4f4f; text-align:center; font-size: 13px">10.0.131.149:27015</p>
+    </div>
+    <div style="display: flex; flex-direction: column">
+        <a class="button" href="steam://connect/10.0.131.149:27115">Server 2</a>
+        <p style="color: #4f4f4f; text-align:center; font-size: 13px">10.0.131.149:27115</p>
+    </div>
+</div>
+<div class="row" style="margin:10px">
+    <div style="display: flex; flex-direction: column">
+        <a class="button" href="steam://connect/10.0.131.149:27215">Server 3</a>
+        <p style="color: #4f4f4f; text-align:center; font-size: 13px">10.0.131.149:27215</p>
+    </div>
+    <div style="display: flex; flex-direction: column">
+        <a class="button" href="steam://connect/10.0.131.149:27315">Server 4</a>
+        <p style="color: #4f4f4f; text-align:center; font-size: 13px">10.0.131.149:27315</p>
+    </div>
 </div>
 Wenn ihr bereit seid, könnt ihr "!ready" in den Counter-Strike 2 Global-Chat schreiben (wichtig: nicht den Team-Chat). Mit "!unready" könnt ihr euch wieder als nicht bereit markieren. Sobald alle 10 Spieler bereit sind, endet die Warmup-Phase.
 
