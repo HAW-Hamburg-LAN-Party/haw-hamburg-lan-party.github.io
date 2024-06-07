@@ -20,10 +20,8 @@
 		--screen-xl: '1280px';
 		--screen-2xl: '1536px';
 	}
-	html {
-		// scroll-behavior: smooth;
-	}
 	body {
+		word-break: break-word;
 		@apply bg-page;
 		@apply text-primary;
 		font-family:
@@ -51,7 +49,8 @@ h4,
 h5,
 h6 {
 	@apply font-black mb-2 mt-6 flex flex-row scroll-m-20;
-	word-wrap: break-word;
+	// word-wrap: break-word;
+	word-break: break-word;
 	a {
 		@apply relative text-[1em] hidden;
 	}
