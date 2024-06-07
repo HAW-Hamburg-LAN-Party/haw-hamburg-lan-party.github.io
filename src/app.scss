@@ -50,7 +50,8 @@ h3,
 h4,
 h5,
 h6 {
-	@apply font-black mb-2 mt-6 break-words flex flex-row scroll-m-20 ;
+	@apply font-black mb-2 mt-6 flex flex-row scroll-m-20;
+	word-wrap: break-word;
 	a {
 		@apply relative text-[1em] hidden;
 	}
@@ -118,7 +119,7 @@ code {
 	}
 }
 .banner:before {
-	@apply bg-primary text-secondary absolute h-full w-[40000px] -left-[20000px] -z-10;
+	@apply bg-primary text-secondary absolute h-full -z-10 w-dvw;
 	content: '';
 }
 
