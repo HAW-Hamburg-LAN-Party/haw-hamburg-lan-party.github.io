@@ -94,6 +94,26 @@ Für Details zu der Serververbindung und Commands schaut unter Wiki/Server/Count
 #### Call of Duty 4
 
 Für: PC
+Liebe CoD 4 Enthusiasten,
+
+wir freuen uns, dass wir euch zwei Turniere anbieten können, bei der ihr eure Fähigkeiten in zwei beliebten Mods unter Beweis stellen könnt: Gungame und Hide and Seek.
+
+Turnierplan:
+•⁠  ⁠Gungame: Startet um 23 Uhr auf dem Server cod4-1.haw.lan
+•⁠  ⁠Hide and Seek: Startet um 1:30 Uhr auf dem Server cod4-2.haw.lan
+
+Gungame: In diesem Modus beginnt jeder Spieler mit einer einfachen Waffe. Mit jedem Abschuss steigt man eine Waffenkategorie höher. Das Ziel ist es, als Erster durch alle Waffenstufen zu gelangen und den letzten Kill mit der finalen Waffe zu erzielen.
+
+Hide and Seek: Dieser Modus dreht sich um Verstecken und Suchen. Ein Spieler übernimmt die Rolle des Suchenden, während die anderen sich verstecken. Das Spiel endet, wenn alle Versteckten gefunden wurden oder die Zeit abläuft.
+
+So verbindest du dich mit einem CoD 4
+
+1.⁠ ⁠Starte das Spiel: Öffne Call of Duty 4: Modern Warfare.
+2.⁠ ⁠Öffne die Konsole: Drücke die Tilde-Taste (^) auf deiner Tastatur, um die Konsole zu öffnen.
+3.⁠ ⁠Serveradresse eingeben: Gib connect [Server-IP] ein und drücke Enter. (Beispiel: connect cod4-1.haw.lan)
+4.⁠ ⁠Verbinden: Das Spiel wird nun versuchen, eine Verbindung zum angegebenen Server herzustellen.
+
+Wir freuen uns auf spannende Matches und eine tolle Zeit mit euch!
 
 #### Coach Games
 
@@ -169,4 +189,5 @@ Wir haben kostenlose Getränke für euch vorbereitet. Ihr findet sie am Orga-Tis
 
 ### Essen & Snacks
 
-coming soon...
+Wir haben essen für euch bereitgestellt, den Standort findet im auf dem [→ Lageplan ←](#lageplan)
+

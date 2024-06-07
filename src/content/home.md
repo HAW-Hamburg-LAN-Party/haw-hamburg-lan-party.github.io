@@ -10,17 +10,11 @@ seoDescription: Willkommen auf der Website der HAW-Lanparty. Hier findet ihr all
 </p>
 <div>
 
-# Vol. 11 is coming...
-
-Es ist wieder soweit! Tauche ein in die ultimative Gaming-Erfahrung bei der HAW-Hamburg LAN-Party! Erlebe spannende Turniere, epische Multiplayer-Schlachten und unvergesslichen Spaß. Sei dabei und erlebe Gaming auf einem neuen Level!
-
-**Wann?**  
-**07.06.2024 ab 19 Uhr**  
-**Wo?**  
-**Berliner Tor 7 in der Mensa**  
-<br>
-<a class="button" href="https://www.eventbrite.de/e/haw-lan-11-tickets-894499330577?aff=oddtdtcreator" target="_blank">Jetzt Ticket sichern ></a>
-
+# Welcome to the LAN
+Wilkommen auf der LAN-Party 🥳🎉  
+Wir freuen uns, euch alle hier begrüßen zu dürfen. Macht euch bereit für eine Nacht voller spannender Matches, aufregender Spiele und bester Unterhaltung. Lasst uns gemeinsam die Controller schwingen und die Tastaturen zum Glühen bringen. Viel Spaß und gutes Gelingen an alle Teilnehmer! 🚀🎮
+**Infos zur LAN findet ihr in im Wiki** 
+<a class="button" href="/wiki" target="_blank">Zum Wiki</a>
 </div>
 </div>
 
