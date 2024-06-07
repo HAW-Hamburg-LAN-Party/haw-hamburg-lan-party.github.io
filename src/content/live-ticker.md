@@ -12,7 +12,7 @@ Hier erfährst du aktuelle News und Änderungen wie beispielsweise: Turnierversc
 
 <button onClick="window.location.reload(true);">Seite aktualisieren</button>
 
-### +++ 20:00 Turniere starten jeweils eine Stunde später als wie im Plan angegeben. +++
+### +++ 20:00 Turniere starten jeweils eine Stunde später als wie im Plan angegeben +++
 
 ### +++ 19:00 Wilkommen auf der LAN-Party 🥳🎉 +++
 Wir freuen uns, euch alle hier begrüßen zu dürfen. Macht euch bereit für eine Nacht voller spannender Matches, aufregender Spiele und bester Unterhaltung. Lasst uns gemeinsam die Controller schwingen und die Tastaturen zum Glühen bringen. Viel Spaß und gutes Gelingen an alle Teilnehmer! 🚀🎮

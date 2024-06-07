@@ -6,4 +6,4 @@
 [Home](/)
 [Wiki](/wiki)
 [Insta](https://www.instagram.com/hawhamburg_lan_party/)
-[Liev-Ticker](/live-ticker)
+[⚡️ Liev-Ticker](/live-ticker)
