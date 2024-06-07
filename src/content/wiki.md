@@ -74,10 +74,15 @@ Auf: PC
 <iframe defer width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZKB9FEXhJ68?si=Dk_JhnXGVyEBoE41" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Auf: Nintendo Switch
 
+Die Mario Kart Meisterschaft findet unten in der Cafeteria im vorderen Teil bei den Switches statt. Alle die teilnehmen wollen können dort sich auch auf dem Whiteboard mit ihrem Namen Eintragen.
+Das Turnier wird als Single-Elimination ausgetragen. Pro Spiel wird mit 4 Teilnehmen ein GrandPrix auf 150cc gespielt. Die besten 2 Spieler kommen in die nächste Runde.
+
 #### Pokemon Unite
 
 <iframe defer width="560" height="315" src="https://www.youtube-nocookie.com/embed/wVFnPHyAyPg?si=49k5jjZhKv0yUieS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Für: Smartphone, Nintendo Switch
+
+Das Spiel kann auf Switch oder Mobiltelefonen (Android und iOS) gespielt werden. Das Gameplay beinhaltet Spiele zwischen zwei Teams, die jeweils aus 3 bis 5 Spielern bestehen. Ziel ist es, die höchste Gesamtpunktzahl zu erreichen, bevor der Kampf endet. Der Spielmodus für das Turnier wird ein Standardkampf sein, der 10 Minuten dauert. Alle weiteren Informationen zum Spiel werden über Discord geteilt.
 
 #### Rocket League
 
@@ -95,6 +100,11 @@ Auf: PC
 
 <iframe defer width="560" height="315" src="https://www.youtube-nocookie.com/embed/HXiezkZfby0?si=QTCV1h4rXkSWM_-l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Auf: Nintendo Switch
+
+<details>
+<summary>Regelwerk</summary>
+<img src="regelwerk-super-smash-bros-ultimate.jpeg" alt="Regelwerk Super Smash Bros. Ultimate">
+</details>
 
 ## Regeln
 
