@@ -17,8 +17,13 @@ seoDescription: Hier findet ihr alle Informationen rund um die Events und Turnie
 ## Server
 
 ### Discord
+**⚠️ Experimental: Alternativ Teamspeak3 ⚠️**
 
 Link: [https://discord.gg/MQPK3DFC](https://discord.gg/MQPK3DFC)
+
+### Teamspeak 3
+Serveradresse: 
+**ts3.haw.lan**
 
 ### Counter-Strike 2
 
