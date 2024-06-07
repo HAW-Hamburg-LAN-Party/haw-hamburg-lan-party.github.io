@@ -55,8 +55,8 @@ Sollte es während eines Spieles technische Probleme geben, könnt ihr "!pause" 
 Das Team, welches pausiert hat, kann durch "!unpause" das Spiel fortsetzen.
 
 ### File-Server
-
-coming soon...
+Ihr könnt eure Daten austauschen unter:  
+smb://files2.haw.lan
 
 ### Minecraft
 
