@@ -24,6 +24,9 @@ Es ist wieder soweit! Tauche ein in die ultimative Gaming-Erfahrung bei der HAW-
 </div>
 </div>
 
+## Events & Turniere
+![Turnierplan Vol. 11](/turnier-plan.png)
+
 ## Ablauf
 
 Die HAW LAN-Party 11 startet am 07.06. um 19 Uhr. Dann habt ihr erstmal Zeit eure Rechner aufzubauen und euch zurechtzufinden. Wir beginnen das offizielle Programm um 20 Uhr und erläutern dann wie der Abend abläuft.
@@ -31,13 +34,6 @@ Die HAW LAN-Party 11 startet am 07.06. um 19 Uhr. Dann habt ihr erstmal Zeit eur
 Dabei sind alle Studierenden der HAW Hamburg herzlich willkommen. Die Veranstaltung richtet sich nicht nur an "hardcore PC-Spieler\*innen"! Wir haben verschiedenste Konsolen, VR-Spiele und Leih-Rechner vor Ort, um allen von euch einen tollen Abend zu bieten.
 
 Es wird auch dieses Mal wieder Turniere und Events geben. Es kann aber natürlich auch einfach frei das gespielt werden, worauf du gerade Lust hast.
-
-## Events & Turniere
-
-<br><br>
-
-<center>To be announced...</center>
-<br><br>
 
 <!-- <div class="banner">
 

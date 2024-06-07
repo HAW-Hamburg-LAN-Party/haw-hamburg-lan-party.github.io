@@ -42,7 +42,7 @@ coming soon...
 
 ### Plan
 
-coming soon...
+![Turnierplan Vol. 11](/turnier-plan.png)
 
 ### Games
 
