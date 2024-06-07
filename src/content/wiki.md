@@ -16,7 +16,20 @@ seoDescription: Hier findet ihr alle Informationen rund um die Events und Turnie
 
 ## Server
 
-coming soon...
+### Counter-Strike 2
+
+Euch wird vor jedem eurer Spiele gesagt, auf welchen Server ihr euch verbinden sollt. Nutzt dafür einfach diese Links:
+<div class="row" style="margin:10px">
+    <a class="button" style="padding: 1.125rem 2rem" href="steam://connect/10.0.131.149:27015">Server 1</a>
+    <a class="button" style="padding: 1.125rem 2rem" href="steam://connect/10.0.131.149:27115">Server 2</a>
+    <a class="button" style="padding: 1.125rem 2rem" href="steam://connect/10.0.131.149:27215">Server 3</a>
+    <a class="button" style="padding: 1.125rem 2rem" href="steam://connect/10.0.131.149:27315">Server 4</a>
+</div>
+Wenn ihr bereit seid, könnt ihr "!ready" in den Counter-Strike 2 Global-Chat schreiben (wichtig: nicht den Team-Chat). Mit "!unready" könnt ihr euch wieder als nicht bereit markieren. Sobald alle 10 Spieler bereit sind, endet die Warmup-Phase.
+
+Sollte es während eines Spieles technische Probleme geben, könnt ihr "!pause" in den Global-Chat schreiben, wodurch das Match während der nächsten Freezetime pausiert wird.
+
+Das Team, welches pausiert hat, kann durch "!unpause" das Spiel fortsetzen.
 
 ### Discord
 
@@ -53,6 +66,12 @@ coming soon...
 <iframe defer width="560" height="315" src="https://www.youtube-nocookie.com/embed/c80dVYcL69E?si=B8M2fxFf1I_7NB4K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Für: PC
 
+Das Turnier findet in der Mensa statt und wird auf den eigenen Maschienen/Leihrechnern gespielt. Alle, die gerne teilnehmen wollen, können sich auf dem Whiteboard in der Mensa unter "CS2" eintragen. Zeichnet dabei im Lageplan auch ein, wo euer Teamleader sitzt, damit wir euch zur einfacheren Kommunikation und zur technischen Hilfe schnell erreichen können. Für Spielergruppen kleiner als 5 Spieler gibt es auch einen Discord-Raum, wo ihr euch mit anderen Spielern zusammenfinden könnt.
+
+Alle Matches werden durch ein Bo1 entschieden, bis auf das Finale; dieses wird als Bo3 ausgetragen.
+
+Für Details zu der Serververbindung und Commands schaut unter Wiki/Server/Counter-Strike 2.
+
 #### Call of Duty 4
 
 Für: PC
@@ -75,6 +94,7 @@ Auf: PC
 Auf: Nintendo Switch
 
 Die Mario Kart Meisterschaft findet unten in der Cafeteria im vorderen Teil bei den Switches statt. Alle die teilnehmen wollen können dort sich auch auf dem Whiteboard mit ihrem Namen Eintragen.
+
 Das Turnier wird als Single-Elimination ausgetragen. Pro Spiel wird mit 4 Teilnehmen ein GrandPrix auf 150cc gespielt. Die besten 2 Spieler kommen in die nächste Runde.
 
 #### Pokemon Unite
