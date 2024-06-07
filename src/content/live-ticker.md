@@ -12,6 +12,8 @@ Hier erfährst du aktuelle News und Änderungen wie beispielsweise: Turnierversc
 
 <button onClick="window.location.reload(true);">Seite aktualisieren</button>
 
+### +++ 00:30 Ihr könnt eure Ausleih am Orga Tisch zurückgeben und erhaltet eure Ausweise zurück +++
+
 ### +++ 20:00 Turniere starten jeweils eine Stunde später als wie im Plan angegeben +++
 
 ### +++ 19:00 Wilkommen auf der LAN-Party 🥳🎉 +++
