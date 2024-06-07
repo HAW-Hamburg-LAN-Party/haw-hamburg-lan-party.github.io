@@ -93,17 +93,6 @@ code {
 	color: rgb(104, 117, 149)
 }
 
-
-// .banner {
-// 	@apply my-8;
-// 	@apply text-secondary;
-//     @apply bg-secondary-bg;
-//     @apply relative
-//     &::before {
-
-//     }
-// }
-
 @layer utilities {
 	.center-content {
 		@apply px-3 lg:w-[1024px] lg:mx-auto;
@@ -116,21 +105,22 @@ code {
 	}
 }
 
-// .banner {
-// 	margin: 2rem 0;
-// 	background-color: #ffffff;
-// 	color: #000000;
-// 	position: relative;
-// }
-// .banner:before {
-// 	content: '';
-// 	background-color: #ffffff;
-// 	position: absolute;
-// 	height: 100%;
-// 	width: 40000px;
-// 	left: -20000px;
-// 	z-index: -1;
-// }
+.banner {
+	@apply my-8 bg-primary text-secondary relative flex flex-col items-center;
+	> *:first-child {
+		@apply mt-8;
+	}
+	> *:last-child {
+		@apply mb-8;
+	}
+	.button {
+		@apply bg-black text-white;
+	}
+}
+.banner:before {
+	@apply bg-primary text-secondary absolute h-full w-[40000px] -left-[20000px] -z-10;
+	content: '';
+}
 
 hr {
 	@apply my-4;
