@@ -107,6 +107,5 @@ Falls alle Tickets schon gebucht wurden, hast du ggf. noch die Möglichkeit am L
 <div class="row">
   <img alt="Sponsor: Asta der HAW Hamburg" src="sponsor-asta.svg" />
   <img alt="Sponsor: Förderverein Elektrotechnik und Informatik der HAW Hamburg" src="sponsor-fvei.png" />
-  <img alt="Sponsor: Otto GmbH & Co KG" src="sponsor-otto.svg" />
   <img alt="Sponsor: Techniker Krankenkasse" src="sponsor-tk.svg" />
 </div>
