@@ -103,7 +103,7 @@ Die Anzahl der Tickets ist begrenzt. Alle Tickets, die nicht benutzt wurden, ver
 
 Falls alle Tickets schon gebucht wurden, hast du ggf. noch die Möglichkeit am LAN-Abend nach 21:00 Uhr ein Ticket zu buchen. Dies liegt daran, dass wir um 21:00 Uhr alle Tickets von nicht eingecheckten Personen storniert werden.
 
-## Sponsoren
+## Unterstützt durch
 <div class="row">
   <img alt="Sponsor: Asta der HAW Hamburg" src="sponsor-asta.svg" />
   <img alt="Sponsor: Förderverein Elektrotechnik und Informatik der HAW Hamburg" src="sponsor-fvei.png" />
