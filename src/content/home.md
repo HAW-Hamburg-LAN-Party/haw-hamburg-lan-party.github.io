@@ -10,20 +10,24 @@ seoDescription: Willkommen auf der Website der HAW-Lanparty. Hier findet ihr all
 </p>
 <div>
 
-# Welcome to the LAN
-Wilkommen auf der LAN-Party 🥳🎉  
-Wir freuen uns, euch alle hier begrüßen zu dürfen. Macht euch bereit für eine Nacht voller spannender Matches, aufregender Spiele und bester Unterhaltung. Lasst uns gemeinsam die Controller schwingen und die Tastaturen zum Glühen bringen. Viel Spaß und gutes Gelingen an alle Teilnehmer! 🚀🎮
-**Infos zur LAN findet ihr in im Wiki** 
-<a class="button" href="/wiki" target="_blank">Zum Wiki</a>
-</div>
-</div>
+# Vol. 12 is coming...
 
-## Events & Turniere
-![Turnierplan Vol. 11](/turnier-plan.png)
+Es ist wieder soweit! Tauche ein in die ultimative Gaming-Erfahrung bei der HAW-Hamburg LAN-Party! Erlebe spannende Turniere, epische Multiplayer-Schlachten und unvergesslichen Spaß. Sei dabei und erlebe Gaming auf einem neuen Level!
+
+**Wann?**  
+**29.11.2024**  
+**Wo?**  
+**Berliner Tor 7 in der Mensa**  
+<br>
+Bleib up-to-date und folge uns auf Instagram.
+<a class="button" href="https://www.instagram.com/hawhamburg_lan_party/" target="_blank">Zum Instagram Profil →</a>
+
+</div>
+</div>
 
 ## Ablauf
 
-Die HAW LAN-Party 11 startet am 07.06. um 19 Uhr. Dann habt ihr erstmal Zeit eure Rechner aufzubauen und euch zurechtzufinden. Wir beginnen das offizielle Programm um 20 Uhr und erläutern dann wie der Abend abläuft.
+Die HAW LAN-Party 12 startet am 29.11. um 19 Uhr. Dann habt ihr erstmal Zeit eure Rechner aufzubauen und euch zurechtzufinden. Wir beginnen das offizielle Programm um 20 Uhr und erläutern dann wie der Abend abläuft.
 
 Dabei sind alle Studierenden der HAW Hamburg herzlich willkommen. Die Veranstaltung richtet sich nicht nur an "hardcore PC-Spieler\*innen"! Wir haben verschiedenste Konsolen, VR-Spiele und Leih-Rechner vor Ort, um allen von euch einen tollen Abend zu bieten.
 
@@ -104,6 +108,7 @@ Die Anzahl der Tickets ist begrenzt. Alle Tickets, die nicht benutzt wurden, ver
 Falls alle Tickets schon gebucht wurden, hast du ggf. noch die Möglichkeit am LAN-Abend nach 21:00 Uhr ein Ticket zu buchen. Dies liegt daran, dass wir um 21:00 Uhr alle Tickets von nicht eingecheckten Personen storniert werden.
 
 ## Unterstützt durch
+
 <div class="row">
   <img alt="Sponsor: Asta der HAW Hamburg" src="sponsor-asta.svg" />
   <img alt="Sponsor: Förderverein Elektrotechnik und Informatik der HAW Hamburg" src="sponsor-fvei.png" />

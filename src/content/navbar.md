@@ -6,4 +6,5 @@
 [Home](/)
 [Wiki](/wiki)
 [Insta](https://www.instagram.com/hawhamburg_lan_party/)
-[Live-Ticker](/live-ticker)
+
+<!-- [Live-Ticker](/live-ticker) -->

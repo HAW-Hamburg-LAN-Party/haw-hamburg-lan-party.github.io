@@ -4,6 +4,10 @@ seoTitle: Wiki - HAW-Lanparty
 seoDescription: Hier findet ihr alle Informationen rund um die Events und Turniere auf der nächsten LAN. Außerdem erfahrt ihr wie und wo ihr euch anmeldet. Viel Spaß beim zocken!
 ---
 
+#### ⚠️ Dss Wiki hat den Stand zur Volume 11 ⚠️
+
+Infos zur Volume 12 folgen...
+
 ## Lageplan
 
 ### Mensa - 1. Stock
@@ -17,17 +21,20 @@ seoDescription: Hier findet ihr alle Informationen rund um die Events und Turnie
 ## Server
 
 ### Discord
+
 **⚠️ Experimental: Alternativ Teamspeak3 ⚠️**
 
 Link: [https://discord.gg/MQPK3DFC](https://discord.gg/MQPK3DFC)
 
 ### Teamspeak 3
-Serveradresse: 
+
+Serveradresse:
 **ts3.haw.lan**
 
 ### Counter-Strike 2
 
 Euch wird vor jedem eurer Spiele gesagt, auf welchen Server ihr euch verbinden sollt. Nutzt dafür einfach diese Links:
+
 <div class="row" style="margin:10px">
     <div style="display: flex; flex-direction: column">
         <a class="button" href="steam://connect/10.0.131.149:27015">Server 1</a>
@@ -55,6 +62,7 @@ Sollte es während eines Spieles technische Probleme geben, könnt ihr "!pause" 
 Das Team, welches pausiert hat, kann durch "!unpause" das Spiel fortsetzen.
 
 ### File-Server
+
 Ihr könnt eure Daten austauschen unter:  
 smb://files2.haw.lan
 
@@ -99,8 +107,8 @@ Liebe CoD 4 Enthusiasten,
 wir freuen uns, dass wir euch zwei Turniere anbieten können, bei der ihr eure Fähigkeiten in zwei beliebten Mods unter Beweis stellen könnt: Gungame und Hide and Seek.
 
 Turnierplan:
-•⁠  ⁠Gungame: Startet um 23 Uhr auf dem Server cod4-1.haw.lan
-•⁠  ⁠Hide and Seek: Startet um 1:30 Uhr auf dem Server cod4-2.haw.lan
+•⁠ ⁠Gungame: Startet um 23 Uhr auf dem Server cod4-1.haw.lan
+•⁠ ⁠Hide and Seek: Startet um 1:30 Uhr auf dem Server cod4-2.haw.lan
 
 Gungame: In diesem Modus beginnt jeder Spieler mit einer einfachen Waffe. Mit jedem Abschuss steigt man eine Waffenkategorie höher. Das Ziel ist es, als Erster durch alle Waffenstufen zu gelangen und den letzten Kill mit der finalen Waffe zu erzielen.
 
@@ -190,4 +198,3 @@ Wir haben kostenlose Getränke für euch vorbereitet. Ihr findet sie am Orga-Tis
 ### Essen & Snacks
 
 Wir haben essen für euch bereitgestellt, den Standort findet im auf dem [→ Lageplan ←](#lageplan)
-
