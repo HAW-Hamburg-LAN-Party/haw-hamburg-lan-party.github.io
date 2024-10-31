@@ -27,7 +27,7 @@ Bleib up-to-date und folge uns auf Instagram.
 
 ## Ablauf
 
-Die HAW LAN-Party 12 startet am 29.11. um 19 Uhr. Dann habt ihr erstmal Zeit eure Rechner aufzubauen und euch zurechtzufinden. Wir beginnen das offizielle Programm um 20 Uhr und erläutern dann wie der Abend abläuft.
+Die HAW LAN-Party 12 startet am 29.11.2024 um 19 Uhr. Dann habt ihr erstmal Zeit eure Rechner aufzubauen und euch zurechtzufinden. Wir beginnen das offizielle Programm um 20 Uhr und erläutern dann wie der Abend abläuft.
 
 Dabei sind alle Studierenden der HAW Hamburg herzlich willkommen. Die Veranstaltung richtet sich nicht nur an "hardcore PC-Spieler\*innen"! Wir haben verschiedenste Konsolen, VR-Spiele und Leih-Rechner vor Ort, um allen von euch einen tollen Abend zu bieten.
 
