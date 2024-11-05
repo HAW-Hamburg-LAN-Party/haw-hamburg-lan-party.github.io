@@ -4,7 +4,7 @@
 
 <!-- SEO -->
 <svelte:head>
-	<title>{meta.title} - HAW-Lanparty</title>
+	<title>{meta.title} - HAW LAN-Party</title>
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content={meta.seoTitle} />
 	<meta property="og:description" content={meta.seoDescription} />

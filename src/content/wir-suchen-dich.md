@@ -6,13 +6,13 @@
 
 - Git (Github)
 - SSH
-- Basic Linux/Debian Kommandozeillen Kenntnisse
+- Basic Linux/Debian Kommandozeilen Kenntnisse
 - Basic Kenntnisse in docker & docker-compose
 
 **Good to have Erfahrungen:**
 
 - Proxmox
-- Cloud (Hezner)
+- Cloud (Hetzner)
 - Ansible
 - Router Configuration (EdgeMax)
 
@@ -20,7 +20,7 @@
 
 **Was du dafür können solltest:**
 
-- Erfahrungen im aufsetzen eines Community-Servers
+- Erfahrungen im Aufsetzen eines Community-Servers
 - Moderation eines Servers
   
 **Good to have Erfahrungen**
@@ -30,7 +30,7 @@
 
 **Was du dafür können solltest:**
 
-- Geile Idden
+- Geile Ideen
 - Ein Auge für Schönheit
 - Kreativität
 
@@ -41,5 +41,5 @@ Du hättest Bock drauf? Dann melde dich gerne über Teams Chat bei **Julian Hoff
 <br>
 <br>
 
-<sub>War nichts dabei aber du hast dennoch richtig Bock ins Team zu kommen und die nächste LAN-Party noch geiler zu machen? Dann melde dich einfach trotzdem 😉.</sub>
+<sub>War nichts dabei, aber du hast dennoch richtig Bock ins Team zu kommen und die nächste LAN-Party noch geiler zu machen? Dann melde dich einfach trotzdem 😉.</sub>
 

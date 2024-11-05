@@ -1,7 +1,7 @@
 ---
 title: Wiki
-seoTitle: Wiki - HAW-Lanparty
-seoDescription: Hier findet ihr alle Informationen rund um die Events und Turniere auf der nächsten LAN. Außerdem erfahrt ihr wie und wo ihr euch anmeldet. Viel Spaß beim zocken!
+seoTitle: Wiki - HAW LAN-Party
+seoDescription: Hier findet ihr alle Informationen rund um die Events und Turniere auf der nächsten LAN. Außerdem erfahrt ihr, wie und wo ihr euch anmeldet. Viel Spaß beim Zocken!
 ---
 
 #### ⚠️ Dss Wiki hat den Stand zur Volume 11 ⚠️
