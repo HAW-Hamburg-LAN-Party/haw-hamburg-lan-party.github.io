@@ -1,3 +1,7 @@
+---
+title: Join the team
+---
+
 # Wir suchen Mitspieler*innen:
 
 ## Server Admin

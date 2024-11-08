@@ -29,6 +29,11 @@ Bleib up-to-date und folge uns auf Instagram:
 </div>
 </div>
 
+<div class="banner">
+  <h2>Hol dir dein kostenloses Ticket hier:</h2>
+  <a class="button" href="https://haw-lan-12.eventbrite.de">Zu Eventbrite →</a>
+</div>
+
 ## Ablauf
 
 Die Vol. 12 startet am **29.11.2024** um **19 Uhr**. Dann habt ihr erstmal Zeit, eure Rechner aufzubauen und euch zurechtzufinden. Wir beginnen das offizielle Programm um 20 Uhr und erläutern, wie der Abend abläuft.
@@ -36,11 +41,6 @@ Die Vol. 12 startet am **29.11.2024** um **19 Uhr**. Dann habt ihr erstmal Zeit,
 Dabei sind alle Studierenden der HAW Hamburg herzlich willkommen. Die Veranstaltung richtet sich nicht nur an "Hardcore PC-Spieler\*innen"! Wir haben verschiedenste Konsolen, Leih-Rechner und vieles Weiteres vor Ort, um allen von euch einen tollen Abend zu bieten.
 
 Es wird auch dieses Mal wieder Turniere und Events geben. Es kann aber natürlich auch einfach frei das gespielt werden, worauf du gerade Lust hast.
-
-<!-- <div class="banner">
-
-## Wiki
-</div> -->
 
 <div class="banner">
   <h2>Bock zu helfen?</h2>
