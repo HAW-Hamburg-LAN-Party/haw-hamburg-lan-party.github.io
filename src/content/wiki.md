@@ -6,7 +6,7 @@ seoDescription: Hier findet ihr alle Informationen rund um die Events und Turnie
 
 ## Lageplan
 
-### Mensa - 1. Stock
+**Mensa - 1. Stock**
 
 ![](HAW-LAN_Lageplan-Oben.svg)
 
@@ -31,7 +31,21 @@ seoDescription: Hier findet ihr alle Informationen rund um die Events und Turnie
 
 ![Turnierplan Vol. 11](/turnier-plan.png)
 
-### Games
+#### Pyjama/Kostüm Contest
+
+Zeigt uns eure kreativsten Outfits beim großen Pyjama/Kostüm Contest! 🦄🎭
+
+Anmeldung:
+Meldet euch bis 23:30 Uhr direkt bei Yamam, Blue oder Charlotte an der Karaoke-Ecke an.
+
+Bewertungskriterien:
+
+Gemütlichkeit 🛋️
+Kreativität 🎨
+Wow-Effekt 🤩
+Um 0:00 Uhr küren wir den Sieger – seid gespannt! 🎉
+
+### Turnier-Spiele
 
 <!-- Bei Trailern immer defer hinzufügen, da sonst die Seite langsam lädt -->
 
@@ -46,7 +60,7 @@ Alle Matches werden durch ein Bo1 entschieden, bis auf das Finale; dieses wird a
 
 Für Details zu der Serververbindung und Commands schaut unter Wiki/Server/Counter-Strike 2.
 
-#### Turnier-Infos
+##### Turnier-Infos
 
 Euch wird vor jedem eurer Spiele gesagt, auf welchen Server ihr euch verbinden sollt. Nutzt dafür einfach diese Links:
 
@@ -83,6 +97,10 @@ Auf: PC
 
 <iframe defer width="560" height="315" src="https://www.youtube-nocookie.com/embed/U8cnH1nNyrk?si=8w28n5NaGfrEsxIm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Auf: PC
+
+#### Karaoke-Ecke
+
+Ab 20:00 Uhr erwartet euch direkt am Eingang unsere Karaoke-Ecke. Ob ihr selbst singen möchtet oder es euch auf der Couch gemütlich macht und die Show genießt – jeder ist herzlich willkommen!
 
 #### Mario Kart 8 Deluxe
 
@@ -121,6 +139,13 @@ Auf: Nintendo Switch
 <summary>Regelwerk</summary>
 <img src="regelwerk-super-smash-bros-ultimate.jpeg" alt="Regelwerk Super Smash Bros. Ultimate">
 </details>
+
+#### Tetris
+
+![Tetris Vorschau](/tetris.png)
+
+Auf unserer HAW-LAN veranstalten wir ein Tetris-Turnier, das über den Abend kontinuierlich läuft. Teilnehmende können bis spätestens 1 Uhr einen Screenshot ihres Highscores im Discord-Kanal #tetris-highscores posten ([→ Link zum Channel ←](https://discord.com/channels/1308769748602978374/1310650109679112273)). Als offizielle Version muss das Spiel unter [https://tetris.com/play-tetris](https://tetris.com/play-tetris) genutzt werden. Der höchste Highscore wird um 1 Uhr mit einem Pokal prämiert. Bitte spielt fair – viel Spaß und Erfolg!
+
 
 ## Regeln
 
