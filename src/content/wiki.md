@@ -4,34 +4,49 @@ seoTitle: Wiki - HAW LAN-Party
 seoDescription: Hier findet ihr alle Informationen rund um die Events und Turniere auf der nächsten LAN. Außerdem erfahrt ihr, wie und wo ihr euch anmeldet. Viel Spaß beim Zocken!
 ---
 
-#### ⚠️ Dss Wiki hat den Stand zur Volume 11 ⚠️
-
-Infos zur Volume 12 folgen...
-
 ## Lageplan
 
 ### Mensa - 1. Stock
 
-![](HAW-LAN%20Lageplan-Oben.svg)
-
-### Cafetaria - EG
-
-![](HAW-LAN%20Lageplan-Unten.svg)
+![](HAW-LAN_Lageplan-Oben.svg)
 
 ## Server
 
-### Discord
+### Voice & Co.
 
-**⚠️ Experimental: Alternativ Teamspeak3 ⚠️**
+- Discord: [https://discord.gg/Puy2CnyMgQ](https://discord.gg/Puy2CnyMgQ)
+- Teamspeak3: ts3.haw.lan
+- File-Server (Windows): smb:\\\\files2.haw.lan
+- File-Server (Linux/macOS): smb://files2.haw.lan
 
-Link: [https://discord.gg/MQPK3DFC](https://discord.gg/MQPK3DFC)
+### Gameserver
 
-### Teamspeak 3
+- Minecraft: minecraft.haw.lan
+- Terraria: terraria.haw.lan
+- Factorio: factorio.haw.lan
 
-Serveradresse:
-**ts3.haw.lan**
+## Turniere
 
-### Counter-Strike 2
+### Plan
+
+![Turnierplan Vol. 11](/turnier-plan.png)
+
+### Games
+
+<!-- Bei Trailern immer defer hinzufügen, da sonst die Seite langsam lädt -->
+
+#### Counter-Strike 2
+
+<iframe defer width="560" height="315" src="https://www.youtube-nocookie.com/embed/c80dVYcL69E?si=B8M2fxFf1I_7NB4K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Für: PC
+
+Das Turnier findet in der Mensa statt und wird auf den eigenen Maschienen/Leihrechnern gespielt. Alle, die gerne teilnehmen wollen, können sich auf dem Whiteboard in der Mensa unter "CS2" eintragen. Zeichnet dabei im Lageplan auch ein, wo euer Teamleader sitzt, damit wir euch zur einfacheren Kommunikation und zur technischen Hilfe schnell erreichen können. Für Spielergruppen kleiner als 5 Spieler gibt es auch einen Discord-Raum, wo ihr euch mit anderen Spielern zusammenfinden könnt.
+
+Alle Matches werden durch ein Bo1 entschieden, bis auf das Finale; dieses wird als Bo3 ausgetragen.
+
+Für Details zu der Serververbindung und Commands schaut unter Wiki/Server/Counter-Strike 2.
+
+#### Turnier-Infos
 
 Euch wird vor jedem eurer Spiele gesagt, auf welchen Server ihr euch verbinden sollt. Nutzt dafür einfach diese Links:
 
@@ -61,68 +76,6 @@ Sollte es während eines Spieles technische Probleme geben, könnt ihr "!pause" 
 
 Das Team, welches pausiert hat, kann durch "!unpause" das Spiel fortsetzen.
 
-### File-Server
-
-Ihr könnt eure Daten austauschen unter:  
-smb://files2.haw.lan
-
-### Minecraft
-
-coming soon...
-
-### Terraria
-
-coming soon...
-
-### Factorio
-
-coming soon...
-
-## Turniere
-
-### Plan
-
-![Turnierplan Vol. 11](/turnier-plan.png)
-
-### Games
-
-<!-- Bei Trailern immer defer hinzufügen, da sonst die Seite langsam lädt -->
-
-#### Counter-Strike 2
-
-<iframe defer width="560" height="315" src="https://www.youtube-nocookie.com/embed/c80dVYcL69E?si=B8M2fxFf1I_7NB4K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Für: PC
-
-Das Turnier findet in der Mensa statt und wird auf den eigenen Maschienen/Leihrechnern gespielt. Alle, die gerne teilnehmen wollen, können sich auf dem Whiteboard in der Mensa unter "CS2" eintragen. Zeichnet dabei im Lageplan auch ein, wo euer Teamleader sitzt, damit wir euch zur einfacheren Kommunikation und zur technischen Hilfe schnell erreichen können. Für Spielergruppen kleiner als 5 Spieler gibt es auch einen Discord-Raum, wo ihr euch mit anderen Spielern zusammenfinden könnt.
-
-Alle Matches werden durch ein Bo1 entschieden, bis auf das Finale; dieses wird als Bo3 ausgetragen.
-
-Für Details zu der Serververbindung und Commands schaut unter Wiki/Server/Counter-Strike 2.
-
-#### Call of Duty 4
-
-Für: PC
-Liebe CoD 4 Enthusiasten,
-
-wir freuen uns, dass wir euch zwei Turniere anbieten können, bei der ihr eure Fähigkeiten in zwei beliebten Mods unter Beweis stellen könnt: Gungame und Hide and Seek.
-
-Turnierplan:
-•⁠ ⁠Gungame: Startet um 23 Uhr auf dem Server cod4-1.haw.lan
-•⁠ ⁠Hide and Seek: Startet um 1:30 Uhr auf dem Server cod4-2.haw.lan
-
-Gungame: In diesem Modus beginnt jeder Spieler mit einer einfachen Waffe. Mit jedem Abschuss steigt man eine Waffenkategorie höher. Das Ziel ist es, als Erster durch alle Waffenstufen zu gelangen und den letzten Kill mit der finalen Waffe zu erzielen.
-
-Hide and Seek: Dieser Modus dreht sich um Verstecken und Suchen. Ein Spieler übernimmt die Rolle des Suchenden, während die anderen sich verstecken. Das Spiel endet, wenn alle Versteckten gefunden wurden oder die Zeit abläuft.
-
-So verbindest du dich mit einem CoD 4
-
-1.⁠ ⁠Starte das Spiel: Öffne Call of Duty 4: Modern Warfare.
-2.⁠ ⁠Öffne die Konsole: Drücke die Tilde-Taste (^) auf deiner Tastatur, um die Konsole zu öffnen.
-3.⁠ ⁠Serveradresse eingeben: Gib connect [Server-IP] ein und drücke Enter. (Beispiel: connect cod4-1.haw.lan)
-4.⁠ ⁠Verbinden: Das Spiel wird nun versuchen, eine Verbindung zum angegebenen Server herzustellen.
-
-Wir freuen uns auf spannende Matches und eine tolle Zeit mit euch!
-
 #### Coach Games
 
 <iframe defer width="560" height="315" src="https://www.youtube-nocookie.com/embed/tNgCy92QWZY?si=NVWOtAImscWtNPfs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -130,10 +83,6 @@ Auf: PC
 
 <iframe defer width="560" height="315" src="https://www.youtube-nocookie.com/embed/U8cnH1nNyrk?si=8w28n5NaGfrEsxIm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Auf: PC
-
-#### Guitar Hero
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/B2KnvCuOIqg?si=XQJfaCT5blqwjo67" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### Mario Kart 8 Deluxe
 
@@ -189,6 +138,10 @@ Die HAW LAN-Party Veranstaltung soll ein sicherer Ort für **ALLE** sein. Diskri
 
 Bitte sprecht unser Awareness-Team an, wenn ihr euch unwohl fühlt oder etwas beobachtet, das nicht in Ordnung scheint. Wir sind für euch da und nehmen jedes Anliegen ernst! Ihr erkennt uns an den Awareness-Team Schildern!
 
+## Leih-PCs
+
+Wir haben 14x Leih-PCs die Ihr nutzen könnte, falls ihr nicht die Möglichkeit habt einen eigenen Rechner mitzubringen. Um einen Leih-PCs nutzen zu können, kommt an den Orga-Tisch und meldet euch an. Dort bekommt ihr das Passwort um den Leih-PC zu nutzen.
+
 ## Verpflegung
 
 ### Getränke
@@ -197,4 +150,4 @@ Wir haben kostenlose Getränke für euch vorbereitet. Ihr findet sie am Orga-Tis
 
 ### Essen & Snacks
 
-Wir haben essen für euch bereitgestellt, den Standort findet im auf dem [→ Lageplan ←](#lageplan)
+Wir haben essen für euch bereitgestellt, den Standort findet ihr auf dem [→ Lageplan ←](#lageplan)
