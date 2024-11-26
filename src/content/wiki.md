@@ -125,11 +125,6 @@ Für: PC (kostenlos)
 
 Unser Rocket League Turnier ⚽️🚗 wird im spannenden 2v2 KO-System ausgetragen. Gespielt wird im lokalen Multiplayer-Modus, wobei alle Plattformen (PC, PS4 etc.) zugelassen sind. Es können maximale 8 Teams antreten. Vor Turnierbeginn treffen wir uns am Orga-Tisch, und die weitere Kommunikation erfolgt über Discord oder alternativ über TS3.
 
-#### Street Fighter
-
-<iframe defer width="560" height="315" src="https://www.youtube-nocookie.com/embed/1INU3FOJsTw?si=fghqXiX4imZeLiIj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Auf: PC
-
 #### Super Smash Bros. Ultimate
 
 <iframe defer width="560" height="315" src="https://www.youtube-nocookie.com/embed/HXiezkZfby0?si=QTCV1h4rXkSWM_-l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
