@@ -19,19 +19,20 @@ Es ist wieder so weit! Tauche ein in die ultimative Gaming-Erfahrung bei der HAW
 **Wann?**  
 **29.11.2024, 19 Uhr**  
 **Wo?**  
-**Berliner Tor 7 in der Mensa**  
+**Berliner Tor 7 in der Mensa**
 
 <br>
 
-Bleib up-to-date und folge uns auf Instagram:
-<a class="button" href="https://www.instagram.com/hawhamburg_lan_party/" target="_blank">Zum Instagram Profil →</a>
+</div>
+</div>
 
-</div>
-</div>
+## Turniere & Events
+
+![Turnierplan Vol. 11](/turnier-plan.png)
 
 <div class="banner">
-  <h2>Hol dir dein kostenloses Ticket hier:</h2>
-  <a class="button" href="https://haw-lan-12.eventbrite.de">Zu Eventbrite →</a>
+  <h2>Alle wichtigen Infos zur LAN-Party</h2>
+  <a class="button" href="/wiki">Zum Wiki →</a>
 </div>
 
 ## Ablauf
@@ -41,11 +42,6 @@ Die Vol. 12 startet am **29.11.2024** um **19 Uhr**. Dann habt ihr erstmal Zeit,
 Dabei sind alle Studierenden der HAW Hamburg herzlich willkommen. Die Veranstaltung richtet sich nicht nur an "Hardcore PC-Spieler\*innen"! Wir haben verschiedenste Konsolen, Leih-Rechner und vieles Weiteres vor Ort, um allen von euch einen tollen Abend zu bieten.
 
 Es wird auch dieses Mal wieder Turniere und Events geben. Es kann aber natürlich auch einfach frei das gespielt werden, worauf du gerade Lust hast.
-
-<div class="banner">
-  <h2>Bock zu helfen?</h2>
-  <a class="button" href="/wir-suchen-dich">Join the Team →</a>
-</div>
 
 ## FAQ
 
