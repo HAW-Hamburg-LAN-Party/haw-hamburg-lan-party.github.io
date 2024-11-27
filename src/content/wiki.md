@@ -21,9 +21,10 @@ seoDescription: Hier findet ihr alle Informationen rund um die Events und Turnie
 
 ### Gameserver
 
-- Minecraft: minecraft.haw.lan
-- Terraria: terraria.haw.lan
-- Factorio: factorio.haw.lan
+- Minecraft (Java): **minecraft.haw.lan**
+- Minecraft (Bedrock): **bedrock.haw.lan**
+- Terraria: **terraria.haw.lan**
+- Factorio: **factorio.haw.lan**
 
 ## Turniere & Events
 
