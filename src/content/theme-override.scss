@@ -27,6 +27,7 @@ nav p a {
 	margin: 0px;
 	font-size: 12.5px;
 	background-color: revert;
+	padding-left: revert;
 }
 
 .commandTable td {
@@ -35,6 +36,8 @@ nav p a {
 
 .commandTable th {
 	background-color: rgb(var(--color-border) / var(--tw-bg-opacity));
+	padding-left: 15px;
+	text-align: left;
 }
 
 .commandTable tr:nth-child(even) {
