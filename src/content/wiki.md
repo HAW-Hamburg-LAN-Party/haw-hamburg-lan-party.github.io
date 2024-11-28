@@ -25,6 +25,7 @@ seoDescription: Hier findet ihr alle Informationen rund um die Events und Turnie
 - Minecraft (Bedrock): **bedrock.haw.lan**
 - Terraria: **terraria.haw.lan**
 - Factorio: **factorio.haw.lan**
+- Counter Strike 2: Siehe Wiki-Eintrag
 
 ## Turniere & Events
 
@@ -55,41 +56,79 @@ Um 0:00 Uhr küren wir den Sieger – seid gespannt! 🎉
 <iframe defer width="560" height="315" src="https://www.youtube-nocookie.com/embed/c80dVYcL69E?si=B8M2fxFf1I_7NB4K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Für: PC
 
-Das Turnier findet in der Mensa statt und wird auf den eigenen Maschienen/Leihrechnern gespielt. Alle, die gerne teilnehmen wollen, können sich auf dem Whiteboard in der Mensa unter "CS2" eintragen. Zeichnet dabei im Lageplan auch ein, wo euer Teamleader sitzt, damit wir euch zur einfacheren Kommunikation und zur technischen Hilfe schnell erreichen können. Für Spielergruppen kleiner als 5 Spieler gibt es auch einen Discord-Raum, wo ihr euch mit anderen Spielern zusammenfinden könnt.
+Das Turnier findet in der Mensa statt und wird auf den eigenen Maschienen/Leihrechnern gespielt. Alle, die gerne teilnehmen wollen, können sich auf dem Whiteboard in der Mensa unter "CS2" eintragen. Zeichnet dabei im Lageplan auch ein, wo euer Teamleader sitzt, damit wir euch zur einfacheren Kommunikation und zur technischen Hilfe schnell erreichen können.
+
+Für Spielergruppen kleiner als 5 Spieler gibt es auch einen Raum im Discord, wo ihr euch mit anderen Spielern zusammenfinden könnt.
 
 Alle Matches werden durch ein Bo1 entschieden, bis auf das Finale; dieses wird als Bo3 ausgetragen.
 
-Für Details zu der Serververbindung und Commands schaut unter Wiki/Server/Counter-Strike 2.
-
 ##### Turnier-Infos
 
-Euch wird vor jedem eurer Spiele gesagt, auf welchen Server ihr euch verbinden sollt. Nutzt dafür einfach diese Links:
+Vor jeder Runde wird eurem Team über Discord ein Server zugewiesen. Nutzt zum verbinden einfach diese Links:
 
 <div class="row" style="margin:10px">
     <div style="display: flex; flex-direction: column">
-        <a class="button" href="steam://connect/10.0.131.149:27015">Server 1</a>
-        <p style="color: #4f4f4f; text-align:center; font-size: 13px">10.0.131.149:27015</p>
+        <a class="button" href="steam://connect/connect cs2.haw.lan:27015">Server 1</a>
+        <p style="color: #4f4f4f; text-align:center; font-size: 13px">connect cs2.haw.lan:27015</p>
     </div>
     <div style="display: flex; flex-direction: column">
-        <a class="button" href="steam://connect/10.0.131.149:27115">Server 2</a>
-        <p style="color: #4f4f4f; text-align:center; font-size: 13px">10.0.131.149:27115</p>
+        <a class="button" href="steam://connect/connect cs2.haw.lan:27115">Server 2</a>
+        <p style="color: #4f4f4f; text-align:center; font-size: 13px">connect cs2.haw.lan:27115</p>
     </div>
 </div>
 <div class="row" style="margin:10px">
     <div style="display: flex; flex-direction: column">
-        <a class="button" href="steam://connect/10.0.131.149:27215">Server 3</a>
-        <p style="color: #4f4f4f; text-align:center; font-size: 13px">10.0.131.149:27215</p>
+        <a class="button" href="steam://connect/connect cs2.haw.lan:27215">Server 3</a>
+        <p style="color: #4f4f4f; text-align:center; font-size: 13px">connect cs2.haw.lan:27215</p>
     </div>
     <div style="display: flex; flex-direction: column">
-        <a class="button" href="steam://connect/10.0.131.149:27315">Server 4</a>
-        <p style="color: #4f4f4f; text-align:center; font-size: 13px">10.0.131.149:27315</p>
+        <a class="button" href="steam://connect/connect cs2.haw.lan:27315">Server 4</a>
+        <p style="color: #4f4f4f; text-align:center; font-size: 13px">connect cs2.haw.lan:27315</p>
     </div>
 </div>
-Wenn ihr bereit seid, könnt ihr "!ready" in den Counter-Strike 2 Global-Chat schreiben (wichtig: nicht den Team-Chat). Mit "!unready" könnt ihr euch wieder als nicht bereit markieren. Sobald alle 10 Spieler bereit sind, endet die Warmup-Phase.
 
-Sollte es während eines Spieles technische Probleme geben, könnt ihr "!pause" in den Global-Chat schreiben, wodurch das Match während der nächsten Freezetime pausiert wird.
+Wenn ihr bereit seid, könnt ihr "!ready" in den Counter-Strike 2 **Global-Chat** schreiben (wichtig: nicht den Team-Chat). Mit "!unready" könnt ihr euch wieder als nicht bereit markieren. Sobald alle 10 Spieler bereit sind, endet die Warmup-Phase.
 
-Das Team, welches pausiert hat, kann durch "!unpause" das Spiel fortsetzen.
+Sollte es während eines Spieles technische Probleme geben, könnt ihr "!pause" in den Global-Chat schreiben, wodurch das Match während der nächsten Freezetime pausiert wird. Das Team, welches pausiert hat, kann durch "!unpause" das Spiel fortsetzen.
+
+Hier eine Übersicht aller Befehle:
+
+<table class="commandTable">
+    <thead>
+        <tr>
+            <th>Command</th>
+            <th>Erklärung</th>
+            <th>Bemerkung</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><code>!ready</code></td>
+            <td>Markiert dich selbst als bereit.</td>
+            <td>Funktioniert nur im Warmup.</td>
+        </tr>
+        <tr>
+            <td><code>!unready</code></td>
+            <td>Markiert dich als noch nicht bereit.</td>
+            <td>Funktioniert nur im Warmup.</td>
+        </tr>
+        <tr>
+            <td><code>!pause</code></td>
+            <td>Pausiert das Spiel.</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><code>!unpause</code></td>
+            <td>Hebt eine laufende Pause auf.</td>
+            <td>Nur pausierendes Team.</td>
+        </tr>
+        <tr>
+            <td><code>!admin [msg]</code></td>
+            <td>Ruft den Server Admin.</td>
+            <td>[msg] ist optional.</td>
+        </tr>
+    </tbody>
+</table>
 
 #### Coach Games
 
