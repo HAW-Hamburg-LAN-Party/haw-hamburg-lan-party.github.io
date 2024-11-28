@@ -68,21 +68,21 @@ Vor jeder Runde wird eurem Team über Discord ein Server zugewiesen. Nutzt zum v
 
 <div class="row" style="margin:10px">
     <div style="display: flex; flex-direction: column">
-        <a class="button" href="steam://connect/connect cs2.haw.lan:27015">Server 1</a>
+        <a class="button" href="steam://connect/10.0.0.114:27015">Server 1</a>
         <p style="color: #4f4f4f; text-align:center; font-size: 13px">connect cs2.haw.lan:27015</p>
     </div>
     <div style="display: flex; flex-direction: column">
-        <a class="button" href="steam://connect/connect cs2.haw.lan:27115">Server 2</a>
+        <a class="button" href="steam://connect/10.0.0.114:27115">Server 2</a>
         <p style="color: #4f4f4f; text-align:center; font-size: 13px">connect cs2.haw.lan:27115</p>
     </div>
 </div>
 <div class="row" style="margin:10px">
     <div style="display: flex; flex-direction: column">
-        <a class="button" href="steam://connect/connect cs2.haw.lan:27215">Server 3</a>
+        <a class="button" href="steam://connect/10.0.0.114:27215">Server 3</a>
         <p style="color: #4f4f4f; text-align:center; font-size: 13px">connect cs2.haw.lan:27215</p>
     </div>
     <div style="display: flex; flex-direction: column">
-        <a class="button" href="steam://connect/connect cs2.haw.lan:27315">Server 4</a>
+        <a class="button" href="steam://connect/10.0.0.114:27315">Server 4</a>
         <p style="color: #4f4f4f; text-align:center; font-size: 13px">connect cs2.haw.lan:27315</p>
     </div>
 </div>
