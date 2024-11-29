@@ -86,6 +86,12 @@ Vor jeder Runde wird eurem Team über Discord ein Server zugewiesen. Nutzt zum v
         <p style="color: #4f4f4f; text-align:center; font-size: 13px">connect cs2.haw.lan:27315</p>
     </div>
 </div>
+<div class="row" style="margin:10px">
+    <div style="display: flex; flex-direction: column">
+        <a class="button" href="steam://connect/10.0.0.114:27415">Deathmatch Server</a>
+        <p style="color: #4f4f4f; text-align:center; font-size: 13px">connect cs2.haw.lan:27415</p>
+    </div>
+</div>
 
 Wenn ihr bereit seid, könnt ihr "!ready" in den Counter-Strike 2 **Global-Chat** schreiben (wichtig: nicht den Team-Chat). Mit "!unready" könnt ihr euch wieder als nicht bereit markieren. Sobald alle 10 Spieler bereit sind, endet die Warmup-Phase.
 
