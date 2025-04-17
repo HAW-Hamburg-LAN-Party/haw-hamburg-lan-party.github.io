@@ -10,34 +10,37 @@ seoDescription: Willkommen auf der Website der HAW LAN-Party. Hier findet ihr al
 </p>
 <div>
 
-# Vol. 12 is coming...
+# Vol. 13 is coming...
 
 Es ist wieder so weit! Tauche ein in die ultimative Gaming-Erfahrung bei der HAW Hamburg LAN-Party! Erlebe spannende Turniere, epische Multiplayer-Schlachten und unvergesslichen Spaß. Sei dabei und erlebe Gaming auf einem neuen Level!
 
 <br>
 
 **Wann?**  
-**29.11.2024, 19 Uhr**  
+**13.06.2025, 19 Uhr**  
 **Wo?**  
 **Berliner Tor 7 in der Mensa**
 
 <br>
 
+Bleib up-to-date und folge uns:
+<a class="button" href="https://www.instagram.com/hawhamburg_lan_party/" target="_blank">Instagram →</a>
+
 </div>
 </div>
 
-## Turniere & Events
+<!-- ## Turniere & Events
 
 ![Turnierplan Vol. 11](/turnier-plan.png)
 
 <div class="banner">
   <h2>Alle wichtigen Infos zur LAN-Party</h2>
   <a class="button" href="/wiki">Zum Wiki →</a>
-</div>
+</div> -->
 
 ## Ablauf
 
-Die Vol. 12 startet am **29.11.2024** um **19 Uhr**. Dann habt ihr erstmal Zeit, eure Rechner aufzubauen und euch zurechtzufinden. Wir beginnen das offizielle Programm um 20 Uhr und erläutern, wie der Abend abläuft.
+Die Vol. 13 startet am **13.06.2025** um **19 Uhr**. Dann habt ihr erstmal Zeit, eure Rechner aufzubauen und euch zurechtzufinden. Wir beginnen das offizielle Programm um 20 Uhr und erläutern, wie der Abend abläuft.
 
 Dabei sind alle Studierenden der HAW Hamburg herzlich willkommen. Die Veranstaltung richtet sich nicht nur an "Hardcore PC-Spieler\*innen"! Wir haben verschiedenste Konsolen, Leih-Rechner und vieles Weiteres vor Ort, um allen von euch einen tollen Abend zu bieten.
 

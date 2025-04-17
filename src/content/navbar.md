@@ -5,7 +5,7 @@
 
 [Home](/)
 [Wiki](/wiki)
-[Insta](https://www.instagram.com/hawhamburg_lan_party/)
+[Instagram](https://www.instagram.com/hawhamburg_lan_party/)
 
 <!-- [Tickets](https://haw-lan-12.eventbrite.de) -->
 

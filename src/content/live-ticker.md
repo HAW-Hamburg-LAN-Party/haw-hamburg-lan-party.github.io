@@ -2,7 +2,7 @@
 title: Live-Ticker
 seoTitle: Live-Ticker - HAW LAN-Party
 seoDescription: Erfahre alle aktuellen News und Änderungen auf der HAW LAN-Party.
-published: true
+published: false
 ---
 
 # Live-Ticker

@@ -4,6 +4,10 @@ seoTitle: Wiki - HAW LAN-Party
 seoDescription: Hier findet ihr alle Informationen rund um die Events und Turniere auf der nächsten LAN. Außerdem erfahrt ihr, wie und wo ihr euch anmeldet. Viel Spaß beim Zocken!
 ---
 
+#### ⚠️ Dss Wiki ist noch auf dem Stand der Volume 12 ⚠️
+
+Infos zur Volume 13 folgen...
+
 ## Lageplan
 
 **Mensa - 1. Stock**
@@ -45,7 +49,7 @@ Bewertungskriterien:
 Gemütlichkeit 🛋️
 Kreativität 🎨
 Wow-Effekt 🤩
-Um 0:00 Uhr küren wir den Sieger – seid gespannt! 🎉
+Um 00:00 Uhr küren wir den Sieger – seid gespannt! 🎉
 
 ### Turnier-Spiele
 
@@ -195,13 +199,13 @@ Spiele handgemachte Games aus lokalem Anbau!
 
 Hi, ich bin Larissa, die Solo-Entwicklerin hinter Lapys Games aus Hamburg. Als ausgebildete Designerin und Illustratorin und Studentin der angewandten Informatik fokussiere ich mich auf immersive Geschichten und visuell fesselnde Erlebnisse. Bei meinen Spielen lege ich Wert darauf Design und Illustration mit passendem Gameplay zu verbinden, mit einem besonderen Schwerpunkt auf Visual Novels. Ich habe die Visual Novel Banishing You veröffentlicht, Orpheus' Revenge – ein Arcade-Klicker – ist abgeschlossen, und derzeit arbeite ich an einer zweiten Visual Novel, Out of Water.
 
-Neugierig? Du kannst alle drei Titel bei dem Games Lab Stand umsonst testen!
+Neugierig? Du kannst alle drei Titel beim Games Lab-Stand umsonst testen!
 
 ## Regeln
 
 ### Respektvoller-Umgang
 
-Wir legen Wert auf einen respektvolle Umgangsweise und eine offene Kommunikation. Dazu gehört, dass wir freundlich zueinander sind und keine verletzendes Verhalten an den Tag legen. Grundsätzlich sind die persönlichen Grenzen und angegebenen Wünsche (z.B. bezüglich der Ansprache und Identität) anderer Personen zu respektieren.
+Wir legen Wert auf eine respektvolle Umgangsweise und eine offene Kommunikation. Dazu gehört, dass wir freundlich zueinander sind und keine verletzendes Verhalten an den Tag legen. Grundsätzlich sind die persönlichen Grenzen und angegebenen Wünsche (z.B. bezüglich der Ansprache und Identität) anderer Personen zu respektieren.
 
 ### Safer Space Policy
 
@@ -215,7 +219,7 @@ Bitte sprecht unser Awareness-Team an, wenn ihr euch unwohl fühlt oder etwas be
 
 ## Leih-PCs
 
-Wir haben 14x Leih-PCs die Ihr nutzen könnte, falls ihr nicht die Möglichkeit habt einen eigenen Rechner mitzubringen. Um einen Leih-PCs nutzen zu können, kommt an den Orga-Tisch und meldet euch an. Dort bekommt ihr das Passwort um den Leih-PC zu nutzen.
+Wir haben 14x Leih-PCs, die Ihr nutzen könnt, falls ihr nicht die Möglichkeit habt einen eigenen Rechner mitzubringen. Um einen Leih-PC nutzen zu können, kommt an den Orga-Tisch und meldet euch an. Dort bekommt ihr das Passwort um den Leih-PC zu nutzen.
 
 ## Verpflegung
 
@@ -225,4 +229,4 @@ Wir haben kostenlose Getränke für euch vorbereitet. Ihr findet sie am Orga-Tis
 
 ### Essen & Snacks
 
-Wir haben essen für euch bereitgestellt, den Standort findet ihr auf dem [→ Lageplan ←](#lageplan)
+Wir haben Essen für euch bereitgestellt, den Standort findet ihr auf dem [→ Lageplan ←](#lageplan)
