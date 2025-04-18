@@ -60,7 +60,7 @@ Die Veranstaltung richtet sich primär an Studierende, um den Campus kulturell z
 
 ##### Wie kann man euren Servern beitreten?
 
-Auf unserem Wiki wird es vor Ort eine Anleitung dafür geben.
+In unserem Wiki und vor Ort wird es eine Anleitung dafür geben.
 
 ##### Mein PC ist uralt / Ich habe nur meinen Uni-Laptop. Kann ich trotzdem bei euch zocken?
 
@@ -68,7 +68,7 @@ Auf unserem Wiki wird es vor Ort eine Anleitung dafür geben.
 
 ##### Welche Spiele bietet ihr an?
 
-Prinzipiell kann jede\*r auf der LAN spielen, was er/sie möchte. Von uns werden zu bestimmten Zeitpunkten Spielersuchen für manche Spiele organisiert. Diese werden noch bekannt gegeben.
+Prinzipiell kann jede Person auf der LAN spielen, was sie möchte. Von uns werden zu bestimmten Zeitpunkten Spielersuchen für manche Spiele organisiert. Diese werden noch bekannt gegeben.
 
 ##### Ich habe noch mehr Fragen! Wer beantwortet mir die?
 
@@ -96,7 +96,7 @@ Schreib uns eine Nachricht auf Instagram. Falls du kein Social Media hast, schre
 
 Für euer leibliches Wohl ist durch Catering gesorgt, wobei es auch ein veganes Gericht geben wird. Getränke sind ebenfalls umsonst.
 
-Du kannst natürlich auch selber zur LAN-Party an Essen und Getränken mitbringen, was du möchtest. Wobei du vom übermäßigen Verzehr von Alkohol absehen solltest.
+Du kannst natürlich auch selbst zur LAN-Party an Essen und Getränken mitbringen, was du möchtest, wobei du vom übermäßigen Verzehr von Alkohol absehen solltest.
 
 ##### Tickets
 
@@ -104,11 +104,11 @@ Am Einlass wird dein Ticket kontrolliert. Daher musst du vor der Veranstaltung e
 
 Die Anzahl der Tickets ist begrenzt. Alle Tickets, die nicht benutzt wurden, verfallen um 21 Uhr, um vor dem Eingang wartenden Personen die Chance zu geben die LAN-Party zu besuchen.
 
-**BITTE STORNIERE DEIN TICKET, FALLS DU DOCH NICHT KOMMEN KANNST.** Damit andere Personen die Chance haben noch, ein Ticket zu buchen. Wir sehen, wer ein Ticket gebucht hat und nicht gekommen ist!
+**BITTE STORNIERE DEIN TICKET FALLS DU DOCH NICHT KOMMEN KANNST**, damit andere Personen die Chance haben sich noch ein Ticket zu holen. Wir sehen, wer ein Ticket gebucht hat und nicht gekommen ist!
 
 ##### Es gibt keine Tickets mehr und ich brauche noch eins, kann ich jetzt nicht mehr kommen?
 
-Falls alle Tickets schon gebucht wurden, hast du ggf. noch die Möglichkeit am LAN-Abend nach 21 Uhr ein Ticket zu buchen. Dies liegt daran, dass wir um 21 Uhr alle Tickets von nicht eingecheckten Personen storniert werden.
+Falls alle Tickets schon gebucht wurden, hast du ggf. noch die Möglichkeit am LAN-Abend nach 21 Uhr ein Ticket zu buchen. Dies liegt daran, dass um 21 Uhr alle Tickets von nicht eingecheckten Personen storniert werden.
 
 ## Unterstützt durch
 
