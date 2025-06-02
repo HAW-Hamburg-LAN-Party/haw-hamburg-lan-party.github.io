@@ -17,16 +17,22 @@ Es ist wieder so weit! Tauche ein in die ultimative Gaming-Erfahrung bei der HAW
 <br>
 
 **Wann?**  
-**13.06.2025, 19 Uhr**  
+13.06.2025, 19 Uhr
+
 **Wo?**  
-**Berliner Tor 7 in der Mensa**
+Berliner Tor 7 in der Mensa (1. OG)
 
 <br>
 
-Bleib up-to-date und folge uns:
-<a class="button" href="https://www.instagram.com/hawhamburg_lan_party/" target="_blank">Instagram →</a>
+<!-- Bleib up-to-date und folge uns:
+<a class="button" href="https://www.instagram.com/hawhamburg_lan_party/" target="_blank">Instagram →</a> -->
 
 </div>
+</div>
+
+<div class="banner">
+  <h2>Hol dir dein kostenloses Ticket hier:</h2>
+  <a class="button" href="https://haw-lan-13.eventbrite.de">Zu Eventbrite →</a>
 </div>
 
 <!-- ## Turniere & Events
@@ -40,11 +46,10 @@ Bleib up-to-date und folge uns:
 
 ## Ablauf
 
-Die Vol. 13 startet am **13.06.2025** um **19 Uhr**. Dann habt ihr erstmal Zeit, eure Rechner aufzubauen und euch zurechtzufinden. Wir beginnen das offizielle Programm um 20 Uhr und erläutern, wie der Abend abläuft.
-
-Dabei sind alle Studierenden der HAW Hamburg herzlich willkommen. Die Veranstaltung richtet sich nicht nur an "Hardcore PC-Spieler\*innen"! Wir haben verschiedenste Konsolen, Leih-Rechner und vieles Weiteres vor Ort, um allen von euch einen tollen Abend zu bieten.
-
-Es wird auch dieses Mal wieder Turniere und Events geben. Es kann aber natürlich auch einfach frei das gespielt werden, worauf du gerade Lust hast.
+Die Vol. 13 startet am **13.06.2025** um **19 Uhr**. Dann habt ihr erstmal Zeit, eure Rechner aufzubauen und euch zurechtzufinden. Wir beginnen das offizielle Programm um 20 Uhr und erläutern, wie der Abend abläuft.<br><br>
+Dabei sind alle Studierenden der HAW Hamburg herzlich willkommen. Die Veranstaltung richtet sich nicht nur an "Hardcore PC-Spieler\*innen"! Wir haben verschiedenste Konsolen, Leih-Rechner und vieles Weiteres vor Ort, um allen von euch einen tollen Abend zu bieten.<br><br>
+Es wird auch dieses Mal wieder Turniere und Events geben. Es kann aber natürlich auch einfach frei das gespielt werden, worauf du gerade Lust hast.<br><br>
+Auch dieses Mal gibt es wieder einen (freiwilligen) Kostümcontest mit entsprechendem Motto: **Retro vs. Next Gen**. Ob im Kostüm oder im Game: zeig, zu welcher Ära du gehörst und gewinne!
 
 ## FAQ
 
