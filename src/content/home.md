@@ -3,18 +3,13 @@ title: Übersicht
 seoTitle: Übersicht - HAW LAN-Party
 seoDescription: Willkommen auf der Website der HAW LAN-Party. Hier findet ihr alle Informationen rund um die Events und Turniere auf der nächsten LAN. Außerdem erfahrt ihr wie und wo ihr euch anmeldet. Viel Spaß beim Zocken!
 ---
-<div class="banner">
-  <h2>Hol dir dein kostenloses Ticket hier:</h2>
-  <a class="button" href="https://haw-lan-13.eventbrite.de">Zu Eventbrite →</a>
-</div>
-
 <div class="row">
 <p>
 <img alt="HAW-LAN-Party Impression" src="home-impression.jpg" class="shadow" />
 </p>
 <div>
 
-# Vol. 13 is coming...
+# Vol. 13 is here!
 
 Es ist wieder so weit! Tauche ein in die ultimative Gaming-Erfahrung bei der HAW Hamburg LAN-Party! Erlebe spannende Turniere, epische Multiplayer-Schlachten und unvergesslichen Spaß. Sei dabei und erlebe Gaming auf einem neuen Level!
 
@@ -34,14 +29,21 @@ Berliner Tor 7 in der Mensa (1. OG)
 </div>
 </div>
 
-<!-- ## Turniere & Events
-
-![Turnierplan Vol. 11](/turnier-plan.png)
+<!-- ![Lageplan Vol. 13](HAW-LAN_Lageplan-Oben.svg) -->
 
 <div class="banner">
+  <h2>Hol dir dein kostenloses Ticket hier:</h2>
+  <a class="button" href="https://haw-lan-13.eventbrite.de">Zu Eventbrite →</a>
+</div>
+
+<!-- ## Turniere & Events
+
+![Turnierplan Vol. 13](Turnierplan.svg) -->
+
+<div>
   <h2>Alle wichtigen Infos zur LAN-Party</h2>
   <a class="button" href="/wiki">Zum Wiki →</a>
-</div> -->
+</div>
 
 ## Ablauf
 
@@ -98,7 +100,7 @@ Schreib uns eine Nachricht auf Instagram. Falls du kein Social Media hast, schre
 
 ##### Essen und Getränke
 
-Für euer leibliches Wohl ist durch Catering gesorgt, wobei es auch ein veganes Gericht geben wird. Getränke sind ebenfalls umsonst.
+Für euer leibliches Wohl ist durch Catering gesorgt. Getränke sind ebenfalls umsonst.
 
 Du kannst natürlich auch selbst zur LAN-Party an Essen und Getränken mitbringen, was du möchtest, wobei du vom übermäßigen Verzehr von Alkohol absehen solltest.
 

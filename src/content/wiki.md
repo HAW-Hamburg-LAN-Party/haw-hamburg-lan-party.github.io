@@ -4,24 +4,20 @@ seoTitle: Wiki - HAW LAN-Party
 seoDescription: Hier findet ihr alle Informationen rund um die Events und Turniere auf der nächsten LAN. Außerdem erfahrt ihr, wie und wo ihr euch anmeldet. Viel Spaß beim Zocken!
 ---
 
-#### ⚠️ Das Wiki ist noch auf dem Stand der Volume 12 ⚠️
-
-Infos zur Volume 13 folgen...
-
 ## Lageplan
 
 **Mensa - 1. Stock**
 
-![](HAW-LAN_Lageplan-Oben.svg)
+![Lageplan Vol. 13](HAW-LAN_Lageplan-Oben.svg)
 
 ## Server
 
 ### Voice & Co.
 
-- Discord: [https://discord.gg/Puy2CnyMgQ](https://discord.gg/Puy2CnyMgQ)
-- Teamspeak3: ts3.haw.lan
-- File-Server (Windows): smb:\\\\files2.haw.lan
-- File-Server (Linux/macOS): smb://files2.haw.lan
+- Discord: **[https://discord.gg/Puy2CnyMgQ](https://discord.gg/Puy2CnyMgQ)**
+- Teamspeak3: **ts3.haw.lan**
+- File-Server (Windows): **smb:\\\\files2.haw.lan**
+- File-Server (Linux/macOS): **smb://files2.haw.lan**
 
 ### Gameserver
 
@@ -29,26 +25,20 @@ Infos zur Volume 13 folgen...
 - Minecraft (Bedrock): **bedrock.haw.lan**
 - Terraria: **terraria.haw.lan**
 - Factorio: **factorio.haw.lan**
-- Counter Strike 2: Siehe Wiki-Eintrag
+- Counter Strike 2: *siehe Wiki-Eintrag*
 
 ## Turniere & Events
 
 ### Plan
 
-![Turnierplan Vol. 11](/turnier-plan.png)
+![Turnierplan Vol. 13](Turnierplan.svg)
 
-#### Pyjama/Kostüm Contest
+#### Kostüm Contest
 
-Zeigt uns eure kreativsten Outfits beim großen Pyjama/Kostüm Contest! 🦄🎭
+Zeigt uns eure kreativsten Outfits beim großen Kostüm-Contest! Retro oder Next Gen, zeigt uns zu welcher Ära ihr gehört! 🦄🎭
 
-Anmeldung:
-Meldet euch bis 23:30 Uhr direkt bei Yamam, Blue oder Charlotte an der Karaoke-Ecke an.
+Meldet euch bis 23:30 Uhr direkt bei Yamam oder Charlotte an der Karaoke-Ecke an.
 
-Bewertungskriterien:
-
-Gemütlichkeit 🛋️
-Kreativität 🎨
-Wow-Effekt 🤩
 Um 00:00 Uhr küren wir den Sieger – seid gespannt! 🎉
 
 ### Turnier-Spiele
@@ -60,7 +50,7 @@ Um 00:00 Uhr küren wir den Sieger – seid gespannt! 🎉
 <iframe defer width="560" height="315" src="https://www.youtube-nocookie.com/embed/c80dVYcL69E?si=B8M2fxFf1I_7NB4K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Für: PC
 
-Das Turnier findet in der Mensa statt und wird auf den eigenen Maschienen/Leihrechnern gespielt. Alle, die gerne teilnehmen wollen, können sich auf dem Whiteboard in der Mensa unter "CS2" eintragen. Zeichnet dabei im Lageplan auch ein, wo euer Teamleader sitzt, damit wir euch zur einfacheren Kommunikation und zur technischen Hilfe schnell erreichen können.
+Das Turnier findet in der Mensa statt und wird auf den eigenen Maschinen/Leihrechnern gespielt. Alle, die gerne teilnehmen wollen, können sich auf dem Whiteboard in der Mensa unter "CS2" eintragen. Zeichnet dabei im Lageplan auch ein, wo euer Teamleader sitzt, damit wir euch zur einfacheren Kommunikation und zur technischen Hilfe schnell erreichen können.
 
 Für Spielergruppen kleiner als 5 Spieler gibt es auch einen Raum im Discord, wo ihr euch mit anderen Spielern zusammenfinden könnt.
 
@@ -68,7 +58,7 @@ Alle Matches werden durch ein Bo1 entschieden, bis auf das Finale; dieses wird a
 
 ##### Turnier-Infos
 
-Vor jeder Runde wird eurem Team über Discord ein Server zugewiesen. Nutzt zum verbinden einfach diese Links:
+Vor jeder Runde wird eurem Team über Discord ein Server zugewiesen. Nutzt zum Verbinden einfach diese Links:
 
 <div class="row" style="margin:10px">
     <div style="display: flex; flex-direction: column">
@@ -150,7 +140,7 @@ Auf: PC
 
 #### Karaoke-Ecke
 
-Ab 20:00 Uhr erwartet euch direkt am Eingang unsere Karaoke-Ecke. Ob ihr selbst singen möchtet oder es euch auf der Couch gemütlich macht und die Show genießt – jeder ist herzlich willkommen!
+Ab 21:00 Uhr erwartet euch direkt am Eingang unsere Karaoke-Ecke. Ob ihr selbst singen möchtet oder es euch auf der Couch gemütlich macht und die Show genießt – jeder ist herzlich willkommen!
 
 #### Mario Kart 8 Deluxe
 
@@ -205,17 +195,17 @@ Neugierig? Du kannst alle drei Titel beim Games Lab-Stand umsonst testen!
 
 ### Respektvoller-Umgang
 
-Wir legen Wert auf eine respektvolle Umgangsweise und eine offene Kommunikation. Dazu gehört, dass wir freundlich zueinander sind und keine verletzendes Verhalten an den Tag legen. Grundsätzlich sind die persönlichen Grenzen und angegebenen Wünsche (z.B. bezüglich der Ansprache und Identität) anderer Personen zu respektieren.
+Wir legen Wert auf eine respektvolle Umgangsweise und eine offene Kommunikation. Dazu gehört, dass wir freundlich zueinander sind und kein verletzendes Verhalten an den Tag legen. Grundsätzlich sind die persönlichen Grenzen und angegebenen Wünsche (z.B. bezüglich der Ansprache und Identität) anderer Personen zu respektieren.
 
 ### Safer Space Policy
 
-Die HAW LAN-Party Veranstaltung soll ein sicherer Ort für **ALLE** sein. Diskriminierende Handlungen und Äußerungen werden nicht toleriert. Es wird erwartet, dass sich jede*r Teilnehmer*innen gegen - auch ungewollt - diskriminierende & verletzende Aussagen und Verhalten ausspricht, diese ernst nimmt und den betroffenen zur Seite stehen.
+Die HAW LAN-Party soll ein sicherer Ort für **ALLE** sein. Diskriminierende Handlungen und Äußerungen werden nicht toleriert. Es wird erwartet, dass sich jede\*r Teilnehmer\*innen gegen - auch ungewollt - diskriminierende & verletzende Aussagen und Verhalten ausspricht, diese ernst nimmt und den betroffenen zur Seite stehen.
 
 **FÜR DISKRIMINIERUNG & BELÄSTIGUNG IST AUF DER HAW LAN-PARTY KEIN PLATZ.**
 
 ### Awareness-Team
 
-Bitte sprecht unser Awareness-Team an, wenn ihr euch unwohl fühlt oder etwas beobachtet, das nicht in Ordnung scheint. Wir sind für euch da und nehmen jedes Anliegen ernst! Ihr erkennt uns an den Awareness-Team Schildern!
+Bitte sprecht unser Awareness-Team an, wenn ihr euch unwohl fühlt oder etwas beobachtet, das nicht in Ordnung scheint. Wir sind für euch da und nehmen jedes Anliegen ernst! Ihr erkennt uns an den Awareness-Team-Schildern!
 
 ## Leih-PCs
 
@@ -225,7 +215,7 @@ Wir haben 14x Leih-PCs, die Ihr nutzen könnt, falls ihr nicht die Möglichkeit 
 
 ### Getränke
 
-Wir haben kostenlose Getränke für euch vorbereitet. Ihr findet sie am Orga-Tisch. Nur solange der Vorrad reicht.
+Wir haben kostenlose Getränke für euch vorbereitet. Ihr findet sie am Orga-Tisch. Nur solange der Vorrat reicht.
 
 ### Essen & Snacks
 
