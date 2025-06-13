@@ -39,7 +39,7 @@ Zeigt uns eure kreativsten Outfits beim großen Kostüm-Contest! Retro oder Next
 
 Meldet euch bis 23:30 Uhr direkt bei Yamam oder Charlotte an der Karaoke-Ecke an.
 
-Um 00:00 Uhr küren wir den Sieger – seid gespannt! 🎉
+Um 23:50 Uhr küren wir den Sieger – seid gespannt! 🎉
 
 ### Turnier-Spiele
 
