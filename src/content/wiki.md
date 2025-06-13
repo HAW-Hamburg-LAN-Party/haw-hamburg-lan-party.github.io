@@ -189,7 +189,7 @@ Spiele handgemachte Games aus lokalem Anbau!
 
 Hi, ich bin Larissa, die Solo-Entwicklerin hinter Lapys Games aus Hamburg. Als ausgebildete Designerin und Illustratorin und Studentin der angewandten Informatik fokussiere ich mich auf immersive Geschichten und visuell fesselnde Erlebnisse. Bei meinen Spielen lege ich Wert darauf Design und Illustration mit passendem Gameplay zu verbinden, mit einem besonderen Schwerpunkt auf Visual Novels. Ich habe die Visual Novel Banishing You veröffentlicht, Orpheus' Revenge – ein Arcade-Klicker – ist abgeschlossen, und derzeit arbeite ich an einer zweiten Visual Novel, Out of Water.
 
-Neugierig? Du kannst alle drei Titel beim Games Lab-Stand umsonst testen!
+Neugierig? Du kannst alle Titel beim Games Lab-Stand umsonst testen!
 
 ## Regeln
 
