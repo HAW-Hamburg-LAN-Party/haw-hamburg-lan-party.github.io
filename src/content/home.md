@@ -23,22 +23,16 @@ Berliner Tor 7 in der Mensa (1. OG)
 
 <br>
 
-<!-- Bleib up-to-date und folge uns:
-<a class="button" href="https://www.instagram.com/hawhamburg_lan_party/" target="_blank">Instagram →</a> -->
+Bleib up-to-date und folge uns:
+<a class="button" href="https://www.instagram.com/hawhamburg_lan_party/" target="_blank">Instagram →</a>
 
 </div>
 </div>
 
-<!-- ![Lageplan Vol. 13](HAW-LAN_Lageplan-Oben.svg) -->
-
-<div class="banner">
+<!-- <div class="banner">
   <h2>Hol dir dein kostenloses Ticket hier:</h2>
   <a class="button" href="https://haw-lan-13.eventbrite.de">Zu Eventbrite →</a>
-</div>
-
-<!-- ## Turniere & Events
-
-![Turnierplan Vol. 13](Turnierplan.svg) -->
+</div> -->
 
 <div>
   <h2>Alle wichtigen Infos zur LAN-Party</h2>
