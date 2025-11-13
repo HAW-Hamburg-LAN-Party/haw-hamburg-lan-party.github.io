@@ -5,20 +5,24 @@ seoDescription: Willkommen auf der Website der HAW LAN-Party. Hier findet ihr al
 ---
 <div class="row">
 <p>
-<img alt="HAW-LAN-Party Impression" src="home-impression.jpg" class="shadow" />
+<enhanced:img alt="HAW-LAN-Party Impression" src="/src/imgs/home-impression.jpg" class="shadow" />
 </p>
 <div>
 
-# Vol. 13 is here!
+# Vol. 14 is coming ...
 
 Es ist wieder so weit! Tauche ein in die ultimative Gaming-Erfahrung bei der HAW Hamburg LAN-Party! Erlebe spannende Turniere, epische Multiplayer-Schlachten und unvergesslichen Spaß. Sei dabei und erlebe Gaming auf einem neuen Level!
 
+<br/>
+
+Dabei gibt es nicht nur PC-Gaming, sondern auch eine Multiplayer Switch Station, Retro-Konsolen, und vieles mehr!
+
 <br>
 
-**Wann?**  
-13.06.2025, 19 Uhr
+**Wann?**
+12.12.2025, 19 Uhr
 
-**Wo?**  
+**Wo?**
 Berliner Tor 7 in der Mensa (1. OG)
 
 <br>
@@ -41,10 +45,12 @@ Bleib up-to-date und folge uns:
 
 ## Ablauf
 
-Die Vol. 13 startet am **13.06.2025** um **19 Uhr**. Dann habt ihr erstmal Zeit, eure Rechner aufzubauen und euch zurechtzufinden. Wir beginnen das offizielle Programm um 20 Uhr und erläutern, wie der Abend abläuft.<br><br>
+Die Vol. 14 startet am **12.12.2025** um **19 Uhr**. Dann habt ihr erstmal Zeit, eure Rechner aufzubauen und euch zurechtzufinden. Wir beginnen das offizielle Programm um 20 Uhr und erläutern, wie der Abend abläuft.<br><br>
 Dabei sind alle Studierenden der HAW Hamburg herzlich willkommen. Die Veranstaltung richtet sich nicht nur an "Hardcore PC-Spieler\*innen"! Wir haben verschiedenste Konsolen, Leih-Rechner und vieles Weiteres vor Ort, um allen von euch einen tollen Abend zu bieten.<br><br>
-Es wird auch dieses Mal wieder Turniere und Events geben. Es kann aber natürlich auch einfach frei das gespielt werden, worauf du gerade Lust hast.<br><br>
-Auch dieses Mal gibt es wieder einen (freiwilligen) Kostümcontest mit entsprechendem Motto: **Retro vs. Next Gen**. Ob im Kostüm oder im Game: zeig, zu welcher Ära du gehörst und gewinne!
+Es wird auch dieses Mal wieder Turniere und Events geben. Es kann aber natürlich auch einfach frei das gespielt werden, worauf du gerade Lust hast.
+
+<div class="row">
+<div>
 
 ## FAQ
 
@@ -65,6 +71,18 @@ In unserem Wiki und vor Ort wird es eine Anleitung dafür geben.
 ##### Mein PC ist uralt / Ich habe nur meinen Uni-Laptop. Kann ich trotzdem bei euch zocken?
 
 90 % der Games, die wir so zocken, kommen aus der Oldschool-LAN-Ära. Sprich pre-2008. Das bedeutet, jeder, aber wirklich JEDER gurkige Arbeitsrechner oder -Laptop, der nicht älter als, sagen wir mal, 5-8 Jahre ist, kriegt das problemlos hin! Also keine Scheu, komm einfach online mit deinem Oldtimer oder Arbeitsgerät, und zock mit uns.
+
+</div>
+<p>
+<enhanced:img alt="6 Displays connected in a Matrix showcasing Mario Kart 8" src="/src/imgs/home-impression.jpg" class="shadow" />
+</p>
+</div>
+
+<div class="row">
+<p>
+<enhanced:img alt="6 Displays connected in a Matrix showcasing Mario Kart 8" src="/src/imgs/pokal.png" class="shadow" />
+</p>
+<div>
 
 ##### Welche Spiele bietet ihr an?
 
@@ -92,6 +110,12 @@ Schreib uns eine Nachricht auf Instagram. Falls du kein Social Media hast, schre
 - Tastatur
 - Kopfhörer
 
+</div>
+</div>
+
+<div class="row">
+<div>
+
 ##### Essen und Getränke
 
 Für euer leibliches Wohl ist durch Catering gesorgt. Getränke sind ebenfalls umsonst.
@@ -113,7 +137,12 @@ Falls alle Tickets schon gebucht wurden, hast du ggf. noch die Möglichkeit am L
 ## Unterstützt durch
 
 <div class="row">
-  <img alt="Sponsor: AStA der HAW Hamburg" src="sponsor-asta.svg" />
-  <img alt="Sponsor: Förderverein Elektrotechnik und Informatik der HAW Hamburg" src="sponsor-fvei.png" />
-  <img alt="Sponsor: Techniker Krankenkasse" src="sponsor-tk.svg" />
+  <enhanced:img alt="Sponsor: AStA der HAW Hamburg" src="/src/imgs/sponsor-asta.svg" />
+  <enhanced:img alt="Sponsor: Förderverein Elektrotechnik und Informatik der HAW Hamburg" src="/src/imgs/sponsor-fvei.png" />
+</div>
+
+</div>
+<p>
+<enhanced:img alt="6 Displays connected in a Matrix showcasing Mario Kart 8" src="/src/imgs/sticky_note_art.png" />
+</p>
 </div>
