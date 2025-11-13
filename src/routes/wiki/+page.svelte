@@ -2,7 +2,7 @@
 	import Seo from '$lib/components/SEO.svelte';
 	import SidebarEntry from '$lib/components/wiki/SidebarEntry.svelte';
 	import { onDestroy, onMount } from 'svelte';
-	export let data;
+	let { data } = $props();
 
 	onMount(() => {
 		setTimeout(() => {
@@ -32,7 +32,7 @@
 	<div
 		class="wiki-content sm:-mt-16 sm:-mb-4 sm:pt-28 sm:pb-4 sm:border-l sm:border-border sm:pl-8"
 	>
-		<svelte:component this={data.content} />
+		<data.content />
 	</div>
 </div>
 
