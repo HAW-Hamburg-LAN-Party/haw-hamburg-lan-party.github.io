@@ -141,6 +141,6 @@ Falls alle Tickets schon gebucht wurden, hast du ggf. noch die Möglichkeit am L
 
 </div>
 <p>
-<img alt="Sticky Note Art an der Scheibe der Mensa" src="sticky_note_art.png" load="lazy" />
+<img alt="Sticky Note Art an der Scheibe der Mensa" src="sticky_note_art.png" load="lazy" class="shadowlight" />
 </p>
 </div>
