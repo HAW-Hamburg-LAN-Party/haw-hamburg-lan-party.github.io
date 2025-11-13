@@ -12,8 +12,7 @@ published: false
   function updateReloadTime() {
     const now = new Date();
     const diff = Math.floor((now - lastReload) / 1000);
-    const seconds = diff % 60;
-    timeString = `${seconds}s`;
+    timeString = `${diff}s`;
   }
 
   setInterval(updateReloadTime, 1000);
