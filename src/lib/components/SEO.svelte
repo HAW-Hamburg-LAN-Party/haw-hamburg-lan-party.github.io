@@ -1,5 +1,5 @@
-<script>
-    export let meta
+<script lang="ts">
+	let { meta } = $props();
 </script>
 
 <!-- SEO -->

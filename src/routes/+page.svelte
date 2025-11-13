@@ -1,9 +1,9 @@
 <script lang="ts">
 	import Seo from '$lib/components/SEO.svelte';
 
-	export let data;
+	let { data } = $props();
 </script>
 
 <Seo meta={data.meta} />
 
-<svelte:component this={data.content} />
+<data.content />

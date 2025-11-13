@@ -1,13 +1,18 @@
-<script>
+<script lang="ts">
 	import Footer from '$lib/components/Footer.svelte';
 	import Header from '$lib/components/Header.svelte';
 	import '../app.scss';
 	import '../content/theme-override.scss';
+	interface Props {
+		children?: import('svelte').Snippet;
+	}
+
+	let { children }: Props = $props();
 </script>
 
 <Header />
 <main class="center-content pt-16">
-	<slot />
+	{@render children?.()}
 </main>
 <Footer />
 

@@ -4,7 +4,7 @@
 	import { page } from '$app/stores';
 	import { fade, slide } from 'svelte/transition';
 
-	let showMobileMenu = false;
+	let showMobileMenu = $state(false);
 </script>
 
 <header
@@ -19,7 +19,7 @@
 			<a
 				href="/"
 				class="logo pl-0 h-full py-3 object-scale-down w-full"
-				on:click={() => (showMobileMenu = false)}
+				onclick={() => (showMobileMenu = false)}
 			>
 				<img
 					class="img-logo h-full w-auto object-cover p-0"
@@ -34,7 +34,7 @@
 				class="sm:hidden px-6 m-0 -mr-6 bg-transparent h-full"
 				aria-expanded="false"
 				aria-controls="menu"
-				on:click={() => (showMobileMenu = !showMobileMenu)}
+				onclick={() => (showMobileMenu = !showMobileMenu)}
 			>
 				{#if showMobileMenu}
 					<svg
@@ -74,7 +74,7 @@
 		</div>
 
 		{#if showMobileMenu}
-			<div class="h-full w-full sm:hidden" on:click={() => (showMobileMenu = false)}>
+			<div class="h-full w-full sm:hidden" onclick={() => (showMobileMenu = false)}>
 				<nav
 					transition:slide={{ duration: 250, axis: 'y' }}
 					class="bg-black
@@ -92,7 +92,7 @@
 					class="bg-opacity-80 fixed inset-0 bg-black sm:hidden -z-50"
 					in:fade={{ duration: 250 }}
 					out:fade={{ duration: 250, delay: 100 }}
-					on:click={() => (showMobileMenu = false)}
+					onclick={() => (showMobileMenu = false)}
 				></div>
 			</div>
 		{/if}
