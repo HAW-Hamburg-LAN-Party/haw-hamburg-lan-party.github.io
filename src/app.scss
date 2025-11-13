@@ -13,7 +13,7 @@
 		--color-secondary-bg: 0 0 0;
 		--color-page: 0 0 0;
 		--color-border: 51 51 51;
-	
+
 		--screen-sm: '640px';
 		--screen-md: '768px';
 		--screen-lg: '1024px';
@@ -38,7 +38,7 @@
 			'Helvetica Neue',
 			sans-serif;
 	}
-	
+
 
 }
 
@@ -153,6 +153,12 @@ img {
 main p {
 	&:has(> img.shadow) {
 		box-shadow: inset 0 0 40px 40px #000000;
+	}
+	&:has(> img.shadowlight) {
+		box-shadow: inset 0 0 20px 20px #000000;
+	}
+	&:has(> img.shadowextremelylight) {
+		box-shadow: inset 0 0 10px 10px #000000;
 	}
 	img {
 		position: relative;
