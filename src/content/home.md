@@ -3,9 +3,10 @@ title: Übersicht
 seoTitle: Übersicht - HAW LAN-Party
 seoDescription: Willkommen auf der Website der HAW LAN-Party. Hier findet ihr alle Informationen rund um die Events und Turniere auf der nächsten LAN. Außerdem erfahrt ihr wie und wo ihr euch anmeldet. Viel Spaß beim Zocken!
 ---
+
 <div class="row">
 <p>
-<enhanced:img alt="HAW-LAN-Party Impression" src="/src/imgs/home-impression.jpg" class="shadow" />
+<img alt="HAW-LAN-Party Impression" src="home-impression.jpg" class="shadow" />
 </p>
 <div>
 
@@ -25,10 +26,11 @@ Dabei gibt es nicht nur PC-Gaming, sondern auch eine Multiplayer Switch Station,
 **Wo?**
 Berliner Tor 7 in der Mensa (1. OG)
 
-<br>
+<br/>
 
-Bleib up-to-date und folge uns:
-<a class="button" href="https://www.instagram.com/hawhamburg_lan_party/" target="_blank">Instagram →</a>
+<div class="">
+  <a class="button w-full" href="/wiki">Zum Wiki →</a>
+</div>
 
 </div>
 </div>
@@ -37,11 +39,6 @@ Bleib up-to-date und folge uns:
   <h2>Hol dir dein kostenloses Ticket hier:</h2>
   <a class="button" href="https://haw-lan-13.eventbrite.de">Zu Eventbrite →</a>
 </div> -->
-
-<div>
-  <h2>Alle wichtigen Infos zur LAN-Party</h2>
-  <a class="button" href="/wiki">Zum Wiki →</a>
-</div>
 
 ## Ablauf
 
@@ -74,13 +71,14 @@ In unserem Wiki und vor Ort wird es eine Anleitung dafür geben.
 
 </div>
 <p>
-<enhanced:img alt="6 Displays connected in a Matrix showcasing Mario Kart 8" src="/src/imgs/home-impression.jpg" class="shadow" />
+<img alt="6 Displays verbunden in einer Matrix. Auf dem Bild ist Mario Kart 8 zu sehen mit 16 Spielern." src="switch.png" class="shadow" />
 </p>
 </div>
 
 <div class="row">
 <p>
-<enhanced:img alt="6 Displays connected in a Matrix showcasing Mario Kart 8" src="/src/imgs/pokal.png" class="shadow" />
+<img alt="Pokale für die Turniersieger (Sommer 2025)"
+    src="pokal.png" class="shadow" load="lazy" />
 </p>
 <div>
 
@@ -137,12 +135,12 @@ Falls alle Tickets schon gebucht wurden, hast du ggf. noch die Möglichkeit am L
 ## Unterstützt durch
 
 <div class="row">
-  <enhanced:img alt="Sponsor: AStA der HAW Hamburg" src="/src/imgs/sponsor-asta.svg" />
-  <enhanced:img alt="Sponsor: Förderverein Elektrotechnik und Informatik der HAW Hamburg" src="/src/imgs/sponsor-fvei.png" />
+  <img alt="Sponsor: AStA der HAW Hamburg" src="sponsor-asta.svg" load="lazy" />
+  <img alt="Sponsor: Förderverein Elektrotechnik und Informatik der HAW Hamburg" src="sponsor-fvei.png" load="lazy" />
 </div>
 
 </div>
 <p>
-<enhanced:img alt="6 Displays connected in a Matrix showcasing Mario Kart 8" src="/src/imgs/sticky_note_art.png" />
+<img alt="Sticky Note Art an der Scheibe der Mensa" src="sticky_note_art.png" load="lazy" />
 </p>
 </div>

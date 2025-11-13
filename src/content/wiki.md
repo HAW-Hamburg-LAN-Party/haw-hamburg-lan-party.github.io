@@ -4,6 +4,11 @@ seoTitle: Wiki - HAW LAN-Party
 seoDescription: Hier findet ihr alle Informationen rund um die Events und Turniere auf der nächsten LAN. Außerdem erfahrt ihr, wie und wo ihr euch anmeldet. Viel Spaß beim Zocken!
 ---
 
+<div class="w-full bg-red-400 p-4 mb-4 rounded shadow">
+    Die Wiki wird aktuell für die Vol. 14 vorbereitet.
+    Einige Informationen können sich noch ändern.
+</div>
+
 ## Lageplan
 
 **Mensa - 1. Stock**
@@ -145,20 +150,6 @@ Die Mario Kart Meisterschaft findet unten in der Cafeteria im vorderen Teil bei 
 
 Das Turnier wird als Single-Elimination ausgetragen. Pro Spiel wird mit 4 Teilnehmen ein GrandPrix auf 150cc gespielt. Die besten 2 Spieler kommen in die nächste Runde.
 
-#### Pokemon Unite
-
-<iframe defer width="560" height="315" src="https://www.youtube-nocookie.com/embed/wVFnPHyAyPg?si=49k5jjZhKv0yUieS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Für: Smartphone, Nintendo Switch
-
-Das Spiel kann auf Switch oder Mobiltelefonen (Android und iOS) gespielt werden. Das Gameplay beinhaltet Spiele zwischen zwei Teams, die jeweils aus 3 bis 5 Spielern bestehen. Ziel ist es, die höchste Gesamtpunktzahl zu erreichen, bevor der Kampf endet. Der Spielmodus für das Turnier wird ein Standardkampf sein, der 10 Minuten dauert. Alle weiteren Informationen zum Spiel werden über Discord geteilt.
-
-#### Rocket League
-
-<iframe defer width="560" height="315" src="https://www.youtube-nocookie.com/embed/KE07hpCDllU?si=FkUlrz0e0L-niKH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Für: PC (kostenlos)
-
-Unser Rocket League Turnier ⚽️🚗 wird im spannenden 2v2 KO-System ausgetragen. Gespielt wird im lokalen Multiplayer-Modus, wobei alle Plattformen (PC, PS4 etc.) zugelassen sind. Es können maximale 8 Teams antreten. Vor Turnierbeginn treffen wir uns am Orga-Tisch, und die weitere Kommunikation erfolgt über Discord oder alternativ über TS3.
-
 #### Super Smash Bros. Ultimate
 
 <iframe defer width="560" height="315" src="https://www.youtube-nocookie.com/embed/HXiezkZfby0?si=QTCV1h4rXkSWM_-l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -168,6 +159,13 @@ Auf: Nintendo Switch
 <summary>Regelwerk</summary>
 <img src="regelwerk-super-smash-bros-ultimate.jpeg" alt="Regelwerk Super Smash Bros. Ultimate">
 </details>
+
+#### Rocket League
+
+<iframe defer width="560" height="315" src="https://www.youtube-nocookie.com/embed/KE07hpCDllU?si=FkUlrz0e0L-niKH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Für: PC (kostenlos)
+
+Unser Rocket League Turnier ⚽️🚗 wird im spannenden 2v2 KO-System ausgetragen. Gespielt wird im lokalen Multiplayer-Modus, wobei alle Plattformen (PC, PS4 etc.) zugelassen sind. Es können maximale 8 Teams antreten. Vor Turnierbeginn treffen wir uns am Orga-Tisch, und die weitere Kommunikation erfolgt über Discord oder alternativ über TS3.
 
 #### Tetris
 
