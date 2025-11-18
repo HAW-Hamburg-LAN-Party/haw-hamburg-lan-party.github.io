@@ -2,7 +2,6 @@
 title: Datenschutz
 ---
 
-
 # Datenschutzerklärung
 
 ## Allgemeiner Hinweis und Pflichtinformationen
@@ -14,7 +13,7 @@ Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 Initiative HAW-Lanparty  
 Julian Hoffmann  
 Berliner Tor 7  
-20099 Hamburg  
+20099 Hamburg
 
 Die verantwortliche Stelle entscheidet allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, Kontaktdaten o. Ä.).
 
@@ -24,7 +23,7 @@ Nur mit Ihrer ausdrücklichen Einwilligung sind einige Vorgänge der Datenverarb
 
 ### Recht auf Beschwerde bei der zuständigen Aufsichtsbehörde
 
-Als Betroffener steht Ihnen im Falle eines datenschutzrechtlichen Verstoßes ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu. Zuständige Aufsichtsbehörde bezüglich datenschutzrechtlicher Fragen ist der Landesdatenschutzbeauftragte des Bundeslandes, in dem sich der Sitz unseres Unternehmens befindet. Der folgende Link stellt eine Liste der Datenschutzbeauftragten sowie deren Kontaktdaten bereit: https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html.
+Als Betroffener steht Ihnen im Falle eines datenschutzrechtlichen Verstoßes ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu. Zuständige Aufsichtsbehörde bezüglich datenschutzrechtlicher Fragen ist der Landesdatenschutzbeauftragte des Bundeslandes, in dem sich der Sitz unseres Unternehmens befindet. Der folgende Link stellt eine Liste der Datenschutzbeauftragten sowie deren Kontaktdaten bereit: [https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html](https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html).
 
 ### Recht auf Datenübertragbarkeit
 
@@ -36,45 +35,69 @@ Sie haben jederzeit im Rahmen der geltenden gesetzlichen Bestimmungen das Recht 
 
 ### SSL- bzw. TLS-Verschlüsselung
 
-Aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, die Sie an uns als Seitenbetreiber senden, nutzt unsere Website eine SSL-bzw. TLS-Verschlüsselung. Damit sind Daten, die Sie über diese Website übermitteln, für Dritte nicht mitlesbar. Sie erkennen eine verschlüsselte Verbindung an der „https://“ Adresszeile Ihres Browsers und am Schloss-Symbol in der Browserzeile.
+Aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, die Sie an uns als Seitenbetreiber senden, nutzt unsere Website eine SSL-bzw. TLS-Verschlüsselung. Damit sind Daten, die Sie über diese Website übermitteln, für Dritte nicht mitlesbar. Sie erkennen eine verschlüsselte Verbindung an der „https://" Adresszeile Ihres Browsers und am Schloss-Symbol in der Browserzeile.
 
-### Server-Log-Dateien
+## Hosting
 
-In Server-Log-Dateien erhebt und speichert der Provider der Website automatisch Informationen, die Ihr Browser automatisch an uns übermittelt. Dies sind:
+Unser Hoster erhebt in sog. Logfiles folgende Daten, die Ihr Browser übermittelt:
 
-    Besuchte Seite auf unserer Domain
-    Datum und Uhrzeit der Serveranfrage
-    Browsertyp und Browserversion
-    Verwendetes Betriebssystem
-    Referrer URL
-    Hostname des zugreifenden Rechners
-    IP-Adresse
+IP-Adresse, die Adresse der vorher besuchten Website (Referer Anfrage-Header), Datum und Uhrzeit der Anfrage, Zeitzonendifferenz zur Greenwich Mean Time, Inhalt der Anforderung, HTTP-Statuscode, übertragene Datenmenge, Website, von der die Anforderung kommt und Informationen zu Browser und Betriebssystem.
 
-Es findet keine Zusammenführung dieser Daten mit anderen Datenquellen statt. Grundlage der Datenverarbeitung bildet Art. 6 Abs. 1 lit. b DSGVO, der die Verarbeitung von Daten zur Erfüllung eines Vertrags oder vorvertraglicher Maßnahmen gestattet.
+Das ist erforderlich, um unsere Website anzuzeigen und die Stabilität und Sicherheit zu gewährleisten. Dies entspricht unserem berechtigten Interesse im Sinne des Art. 6 Abs. 1 S. 1 lit. f DSGVO.
 
-### Matomo (ehemals Piwik)
+Es erfolgt kein Tracking und wir haben auf diese Daten keinen direkten Zugriff.
 
-Unsere Website verwendet den Webanalysedienst Matomo. Matomo ist eine Open Source Lösung.
+Wir setzen für die Zurverfügungstellung unserer Website folgenden Hoster ein:
 
-Matomo verwendet "Cookies." Das sind kleine Textdateien, die Ihr Webbrowser auf Ihrem Endgerät speichert und die eine Analyse der Website-Benutzung ermöglichen. Mittels Cookie erzeugte Informationen über die Benutzung unserer Website werden auf unserem Server gespeichert. Vor der Speicherung erfolgt eine Anonymisierung Ihrer IP-Adresse.
+GitHub Inc.  
+88 Colin P Kelly Jr St  
+San Francisco, CA 94107  
+United States
 
-Cookies von Matomo verbleiben auf Ihrem Endgerät, bis Sie eine Löschung vornehmen.
+Dieser ist Empfänger Ihrer personenbezogenen Daten. Dies entspricht unserem berechtigten Interesse im Sinne des Art. 6 Abs. 1 S. 1 lit. f DSGVO, selbst keinen Server in unseren Räumlichkeiten vorhalten zu müssen. Serverstandort ist USA.
 
-Das Setzen von Matomo-Cookies erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Als Betreiber dieser Website haben wir ein berechtigtes Interesse an der anonymisierten Analyse des Nutzerverhaltens, um sowohl unser Webangebot und ggf. auch Werbung zu optimieren.
+Weitere Informationen zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber GitHub finden Sie unter: [https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement#github-pages](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement#github-pages)
 
-Es erfolgt keine Weitergabe der im Matomo-Cookie gespeicherten Informationen über die Benutzung dieser Website. Das Setzen von Cookies durch Ihren Webbrowser ist verhinderbar. Einige Funktionen unserer Website könnten dadurch jedoch eingeschränkt werden.
+Sie haben das Recht der Verarbeitung zu widersprechen. Ob der Widerspruch erfolgreich ist, ist im Rahmen einer Interessenabwägung zu ermitteln.
 
-Sie können hier die Speicherung und Nutzung Ihrer Daten deaktivieren. Ihr Browser setzt ein Opt-Out-Cookie, welches die Speicherung von Matomo Nutzungsdaten unterbindet. Wenn Sie Ihre Cookies löschen, wird auch das Matomo Opt-Out-Cookie entfernt. Bei einem erneuten Besuch unserer Website ist das Opt-Out-Cookie zur Unterbindung der Speicherung und Nutzung Ihrer Daten erneut zu setzen.
+Die Daten werden gelöscht, sobald der Zweck der Verarbeitung entfällt.
 
-### Google Web Fonts
+Die Verarbeitung der unter diesem Abschnitt angegebenen Daten ist weder gesetzlich noch vertraglich vorgeschrieben. Die Funktionsfähigkeit der Website ist ohne die Verarbeitung nicht gewährleistet.
 
-Unsere Website verwendet Web Fonts von Google. Anbieter ist die Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.
+GitHub hat Compliance-Maßnahmen für internationale Datenübermittlungen umgesetzt. Diese gelten für alle weltweiten Aktivitäten, bei denen GitHub personenbezogene Daten von natürlichen Personen in der EU verarbeitet. Diese Maßnahmen basieren auf den EU-Standardvertragsklauseln (SCCs). Weitere Informationen finden Sie unter: [https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-data-protection-addendum#attachment-1–the-standard-contractual-clauses-processors](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-data-protection-addendum#attachment-1–the-standard-contractual-clauses-processors)
 
-Durch den Einsatz dieser Web Fonts wird es möglich Ihnen die von uns gewünschte Darstellung unserer Website zu präsentieren, unabhängig davon welche Schriften Ihnen lokal zur Verfügung stehen. Dies erfolgt über den Abruf der Google Web Fonts von einem Server von Google in den USA und der damit verbundenen Weitergabe Ihre Daten an Google. Dabei handelt es sich um Ihre IP-Adresse und welche Seite Sie bei uns besucht haben. Der Einsatz von Google Web Fonts erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Als Betreiber dieser Website haben wir ein berechtigtes Interesse an der optimalen Darstellung und Übertragung unseres Webauftritts.
+## YouTube Videos
 
-Das Unternehmen Google ist für das us-europäische Datenschutzübereinkommen "Privacy Shield" zertifiziert. Dieses Datenschutzübereinkommen soll die Einhaltung des in der EU geltenden Datenschutzniveaus gewährleisten.
+### Art und Umfang der Verarbeitung
 
-Einzelheiten über Google Web Fonts finden Sie unter: https://www.google.com/fonts#AboutPlace:about und weitere Informationen in den Datenschutzbestimmungen von Google: https://policies.google.com/privacy/partners?hl=de
+Wir haben auf unserer Website YouTube Video integriert. YouTube Video ist eine Komponente der Videoplattform der YouTube, LLC, auf der Nutzer Inhalte hochladen, über das Internet teilen und detaillierte Statistiken erhalten können. YouTube Video ermöglicht es uns, Inhalte der Plattform in unsere Website zu integrieren.
 
-### Quelle: 
-Datenschutz-Konfigurator von mein-datenschutzbeauftragter.de
+YouTube Video nutzt Cookies und weitere Browser-Technologien um Nutzerverhalten auszuwerten, Nutzer wiederzuerkennen und Nutzerprofile zu erstellen. Diese Informationen werden unter anderem genutzt, um die Aktivität der angehörten Inhalte zu analysieren und Berichte zu erstellen. Wenn ein Nutzer bei YouTube, LLC registriert ist, kann YouTube Video die abgespielten Videos dem Profil zuordnen.
+
+Wenn Sie auf diese Inhalte zugreifen, stellen Sie eine Verbindung zu Servern der YouTube, LLC, Google Ireland Limited, Gordon House, Barrow Street Dublin 4 Irland her, wobei Ihre IP-Adresse und ggf. Browserdaten wie Ihr User-Agent übermittelt werden.
+
+### Zweck und Rechtsgrundlage
+
+Die Nutzung des Dienstes erfolgt auf Grundlage Ihrer Einwilligung gemäß Art. 6 Abs. 1 lit. a. DSGVO und §25 Abs. 1 TDDDG. Wir beabsichtigen personenbezogenen Daten an Drittländer außerhalb des Europäischen Wirtschaftsraums, insbesondere die USA, zu übermitteln. Die Datenübermittlung in die USA erfolgt nach Art. 45 Abs. 1 DSGVO auf Grundlage des Angemessenheitsbeschluss der Europäischen Kommission. Die beteiligten US-Unternehmen und/oder deren US-Unterauftragnehmer sind nach dem EU-U.S. Data Privacy Framework (EU-U.S. DPF) zertifiziert.
+
+### Speicherdauer
+
+Die konkrete Speicherdauer der verarbeiteten Daten ist nicht durch uns beeinflussbar, sondern wird von YouTube, LLC bestimmt. Weitere Hinweise finden Sie in der Datenschutzerklärung für YouTube Video: [https://policies.google.com/privacy](https://policies.google.com/privacy).
+
+## Google Web Fonts
+
+### Art und Umfang der Verarbeitung
+
+Wir verwenden Google Fonts von Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland, als Dienst zur Bereitstellung von Schriftarten für unser Onlineangebot. Um diese Schriftarten zu beziehen, stellen Sie eine Verbindung zu Servern von Google Ireland Limited her, wobei Ihre IP-Adresse übertragen wird.
+
+### Zweck und Rechtsgrundlage
+
+Der Einsatz von Google Fonts erfolgt auf Grundlage Ihrer Einwilligung gemäß Art. 6 Abs. 1 lit. a. DSGVO und §25 Abs. 1 TDDDG. Wir beabsichtigen personenbezogenen Daten an Drittländer außerhalb des Europäischen Wirtschaftsraums, insbesondere die USA, zu übermitteln. Die Datenübermittlung in die USA erfolgt nach Art. 45 Abs. 1 DSGVO auf Grundlage des Angemessenheitsbeschluss der Europäischen Kommission. Die beteiligten US-Unternehmen und/oder deren US-Unterauftragnehmer sind nach dem EU-U.S. Data Privacy Framework (EU-U.S. DPF) zertifiziert.
+
+### Speicherdauer
+
+Die konkrete Speicherdauer der verarbeiteten Daten ist nicht durch uns beeinflussbar, sondern wird von Google Ireland Limited bestimmt. Weitere Hinweise finden Sie in der Datenschutzerklärung für Google Fonts: [https://policies.google.com/privacy](https://policies.google.com/privacy).
+
+*Quelle: Datenschutz-Konfigurator von [Herold Unternehmensberatung](https://www.hub24.de)*
+
+*Quelle Github Pages Abschnitt: [https://opr.vc/](https://opr.vc/)*
