@@ -10,10 +10,15 @@ title: Datenschutz
 
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
-Initiative HAW-Lanparty  
-Julian Hoffmann  
-Berliner Tor 7  
+**Initiative LAN-Party**
+
+c/o AStA HAW Hamburg 
+
+Berliner Tor 11 
+
 20099 Hamburg
+
+**E-Mail:** lanparty.haw@gmail.com
 
 Die verantwortliche Stelle entscheidet allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, Kontaktdaten o. Ä.).
 

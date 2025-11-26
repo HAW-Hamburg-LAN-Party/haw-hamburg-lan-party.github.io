@@ -6,12 +6,14 @@ title: Impressum
 
 ## Diensteanbieter
 
-**Initiative HAW Hamburg LAN-Party**
-c/o FSR I2E
-Berliner Tor 7
-20099 Hamburg
-Deutschland
+**Initiative LAN-Party**
 
-## Kontaktmöglichkeiten
+c/o AStA HAW Hamburg
+
+Berliner Tor 11
+
+20099 Hamburg
+
+## Kontakt
 
 **E-Mail-Adresse:** lanparty.haw@gmail.com

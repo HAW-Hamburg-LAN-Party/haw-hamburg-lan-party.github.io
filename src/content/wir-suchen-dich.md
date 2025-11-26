@@ -8,10 +8,10 @@ title: Join the team
 
 **Was du dafür können solltest:**
 
-- Git (Github)
+- Git (GitHub)
 - SSH
-- Basic Linux/Debian Kommandozeilen Kenntnisse
-- Basic Kenntnisse in docker & docker-compose
+- Basic Linux/Debian Kommandozeilen-Kenntnisse
+- Basic Kenntnisse in Docker & Docker Compose
 
 **Good to have Erfahrungen:**
 
@@ -41,7 +41,7 @@ title: Join the team
 
 ---
 ## Kontakt
-Du hättest Bock drauf? Dann melde dich gerne über Teams Chat bei **Julian Hoffmann**
+Du hättest Bock drauf? Dann melde dich gerne über Teams bei **Dominik Ciemielewski** oder sende eine E-Mail an **lanparty.haw@gmail.com**
 <br>
 <br>
 

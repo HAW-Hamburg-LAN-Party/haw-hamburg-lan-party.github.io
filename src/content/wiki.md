@@ -224,22 +224,6 @@ Unser Rocket League Turnier ⚽️🚗 wird im spannenden 2v2 KO-System ausgetra
 
 Auf unserer HAW-LAN veranstalten wir ein Tetris-Turnier, das über den Abend kontinuierlich läuft. Teilnehmende können bis spätestens 1 Uhr einen Screenshot ihres Highscores im Discord-Kanal #tetris-highscores posten ([→ Link zum Channel ←](https://discord.com/channels/1308769748602978374/1310650109679112273)). Als offizielle Version muss das Spiel unter [https://tetris.com/play-tetris](https://tetris.com/play-tetris) genutzt werden. Der höchste Highscore wird um 1 Uhr mit einem Pokal prämiert. Bitte spielt fair – viel Spaß und Erfolg!
 
-### Games Lab
-
-![Preview Games Lab](/games-lab.jpeg)
-
-Spiele handgemachte Games aus lokalem Anbau!
-
-Hi, ich bin Larissa, die Solo-Entwicklerin hinter Lapys Games aus Hamburg. Als ausgebildete Designerin und Illustratorin und Studentin der angewandten Informatik fokussiere ich mich auf immersive Geschichten und visuell fesselnde Erlebnisse. Bei meinen Spielen lege ich Wert darauf Design und Illustration mit passendem Gameplay zu verbinden, mit einem besonderen Schwerpunkt auf Visual Novels. Ich habe die Visual Novel Banishing You veröffentlicht, Orpheus' Revenge – ein Arcade-Klicker – ist abgeschlossen, und derzeit arbeite ich an einer zweiten Visual Novel, Out of Water.
-
-Neugierig? Du kannst alle Titel beim Games Lab-Stand umsonst testen!
-
 ## Verpflegung
 
-### Getränke
-
-Wir haben kostenlose Getränke für euch vorbereitet. Ihr findet sie am Orga-Tisch. Nur solange der Vorrat reicht.
-
-### Essen & Snacks
-
-Wir haben Essen für euch bereitgestellt, den Standort findet ihr auf dem [→ Lageplan ←](#lageplan)
+Wir haben kostenlose Getränke sowie Snacks für euch vorbereitet, ihr findet sie gegenüber vom Orga-Tisch. Nur solange der Vorrat reicht.

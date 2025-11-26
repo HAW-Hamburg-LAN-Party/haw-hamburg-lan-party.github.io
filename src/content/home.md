@@ -119,11 +119,11 @@ Schreib uns eine Nachricht auf Instagram. Falls du kein Social Media hast, schre
 <div class="row">
 <div>
 
-##### Essen und Getränke
+##### Snacks und Getränke
 
-Für euer leibliches Wohl ist durch Catering gesorgt. Getränke sind ebenfalls umsonst.
+Snacks & Getränke stellen wir umsonst zur Verfügung.
 
-Du kannst natürlich auch selbst zur LAN-Party an Essen und Getränken mitbringen, was du möchtest, wobei du vom übermäßigen Verzehr von Alkohol absehen solltest.
+Du kannst natürlich auch selbst zur LAN-Party an Essen und Getränken mitbringen oder bestellen, was du möchtest, wobei du vom übermäßigen Verzehr von Alkohol absehen solltest.
 
 ##### Tickets
 
