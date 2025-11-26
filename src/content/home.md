@@ -6,7 +6,7 @@ seoDescription: Willkommen auf der Website der HAW LAN-Party. Hier findet ihr al
 
 <div class="banner">
   <div class="text-2xl sm:text-4xl font-bold">🎟️ Tickets jetzt verfügbar!</div>
-  <a class="button w-full" href="https://youtu.be/dQw4w9WgXcQ">Jetzt Ticket sichern →</a>
+  <a class="button w-full" href="https://haw-lan-14.eventbrite.de">Jetzt Ticket sichern →</a>
 </div>
 <div class="row">
 <p>
