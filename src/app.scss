@@ -106,7 +106,7 @@ code {
 }
 
 .banner {
-	@apply my-8 bg-primary text-secondary relative flex flex-col items-center;
+	@apply my-8 bg-primary text-secondary relative flex flex-col items-center gap-2 text-center;
 	> *:first-child {
 		@apply mt-8;
 	}
@@ -168,14 +168,8 @@ main p {
 
 button,
 a.button {
-	color: #000000;
-	background-color: #ffffff;
-	padding: 1.125rem 4rem;
-	text-align: center;
-	font-weight: 900;
-	text-decoration: none;
-	display: inline-block;
-	&:hover {
-		// background-color: ;
-	}
+	// Base
+	@apply bg-white text-black p-5 text-center font-extrabold no-underline inline-block;
+	// Hover
+	@apply hover:scale-105 active:scale-95 transition-transform duration-150 ease-in-out;
 }

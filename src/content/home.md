@@ -4,6 +4,10 @@ seoTitle: Übersicht - HAW LAN-Party
 seoDescription: Willkommen auf der Website der HAW LAN-Party. Hier findet ihr alle Informationen rund um die Events und Turniere auf der nächsten LAN. Außerdem erfahrt ihr wie und wo ihr euch anmeldet. Viel Spaß beim Zocken!
 ---
 
+<div class="banner">
+  <div class="text-2xl sm:text-4xl font-bold">🎟️ Tickets jetzt verfügbar!</div>
+  <a class="button w-full" href="https://haw-lan-14.eventbrite.de">Jetzt Ticket sichern →</a>
+</div>
 <div class="row">
 <p>
 <img alt="HAW-LAN-Party Impression" src="home-impression.jpg" class="shadow" />
@@ -28,7 +32,8 @@ Berliner Tor 7 in der Mensa (1. OG)
 
 <br/>
 
-<div class="">
+<div class="gap-1 flex flex-col">
+  <a class="button w-full" href="https://haw-lan-14.eventbrite.de">Zu den Tickets →</a>
   <a class="button w-full" href="/wiki">Zum Wiki →</a>
 </div>
 
