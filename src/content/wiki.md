@@ -13,7 +13,7 @@ seoDescription: Hier findet ihr alle Informationen rund um die Events und Turnie
 
 **Mensa - 1. Stock**
 
-![Lageplan Vol. 13](HAW-LAN_Lageplan-Oben.svg)
+![Lageplan Vol. 14](HAW-LAN_Lageplan-Oben.svg)
 
 ## Server
 
