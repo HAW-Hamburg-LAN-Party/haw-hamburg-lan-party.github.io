@@ -34,15 +34,15 @@ seoDescription: Hier findet ihr alle Informationen rund um die Events und Turnie
 
 ## Regeln
 
-### Respektvoller-Umgang
+### Respektvoller Umgang
 
-Wir legen Wert auf eine respektvolle Umgangsweise und eine offene Kommunikation. Dazu gehört, dass wir freundlich zueinander sind und kein verletzendes Verhalten an den Tag legen. Grundsätzlich sind die persönlichen Grenzen und angegebenen Wünsche (z.B. bezüglich der Ansprache und Identität) anderer Personen zu respektieren.
+Eine respektvolle Umgangsweise und offene Kommunikation sind uns sehr wichtig! Dazu gehört, dass wir freundlich zueinander sind und kein verletzendes Verhalten an den Tag legen. Grundsätzlich sind die persönlichen Grenzen und angegebenen Wünsche (z.B. bezüglich der Ansprache und Identität) anderer Personen zu respektieren.
 
 ### Safer Space Policy
 
-Die HAW LAN-Party soll ein sicherer Ort für **ALLE** sein. Diskriminierende Handlungen und Äußerungen werden nicht toleriert. Es wird erwartet, dass sich jede\*r Teilnehmer\*innen gegen - auch ungewollt - diskriminierende & verletzende Aussagen und Verhalten ausspricht, diese ernst nimmt und den betroffenen zur Seite stehen.
+Die LAN-Party soll ein sicherer Ort für **ALLE** sein. Diskriminierende Handlungen und Äußerungen werden nicht toleriert. Es wird erwartet, dass sich alle Teilnehmer\*innen gegen - auch ungewollt - diskriminierende & verletzende Aussagen und Verhalten aussprechen, diese ernst nehmen und den Betroffenen zur Seite stehen.
 
-**FÜR DISKRIMINIERUNG & BELÄSTIGUNG IST AUF DER HAW LAN-PARTY KEIN PLATZ.**
+**FÜR DISKRIMINIERUNG & BELÄSTIGUNG IST AUF DER LAN-PARTY KEIN PLATZ.**
 
 ### Awareness-Team
 
@@ -50,7 +50,7 @@ Bitte sprecht unser Awareness-Team an, wenn ihr euch unwohl fühlt oder etwas be
 
 ### Leih-PCs
 
-Wir haben 14x Leih-PCs, die Ihr nutzen könnt, falls ihr nicht die Möglichkeit habt einen eigenen Rechner mitzubringen. Um einen Leih-PC nutzen zu können, kommt an den Orga-Tisch und meldet euch an. Dort bekommt ihr das Passwort um den Leih-PC zu nutzen.
+Wir haben 14 Leih-PCs, die Ihr nutzen könnt, falls ihr nicht die Möglichkeit habt einen eigenen Rechner mitzubringen. Um einen Leih-PC nutzen zu können, kommt an den Orga-Tisch und meldet euch an. Dort bekommt ihr das Passwort, um den Leih-PC zu nutzen.
 
 ## Turnierplan
 
@@ -76,7 +76,7 @@ Dazu gehören:
 - Halo
 - Bomberman
 - Wii Party
-- Retro Pi(s) mit diversen Spielen
+- RetroPi(s) mit diversen Spielen
 - und vieles mehr!
 
 </div>
@@ -94,13 +94,13 @@ Dazu gehören:
 
 ### Mario Kart 8 Deluxe
 
-Wo?: Nintendo Switch an der Switch Games Station
+Wo?: Nintendo Switch an der Switch Station
 <br/>
 
-Die Mario Kart Meisterschaft findet unten in der Cafeteria im vorderen Teil bei den Switches statt. Alle die teilnehmen wollen können dort sich auch auf dem Whiteboard mit ihrem Namen Eintragen.
+Alle, die teilnehmen wollen, können sich vor Ort auf dem Whiteboard mit ihrem Namen eintragen.
 <br/>
 
-Das Turnier wird als Single-Elimination ausgetragen. Pro Spiel wird mit 4 Teilnehmen ein GrandPrix auf 150cc gespielt. Die besten 2 Spieler kommen in die nächste Runde.
+Das Turnier wird als Single-Elimination ausgetragen. Pro Spiel wird mit 4 Teilnehmen ein Grand Prix auf 150cc gespielt. Die besten 2 Spieler\*innen kommen in die nächste Runde.
 
 </div>
 </div>
@@ -110,13 +110,13 @@ Das Turnier wird als Single-Elimination ausgetragen. Pro Spiel wird mit 4 Teilne
 
 ### Super Smash Bros. Ultimate
 
-Wo?: Nintendo Switch an der Switch Games Station
+Wo?: Nintendo Switch an der Switch Station
 <br/>
 
-Super Smash Bros wird nach dem verlinkten Regelwerk 1vs1 gespielt.
+Super Smash Bros. wird nach dem verlinkten Regelwerk 1vs1 gespielt.
 <br/>
 
-Wie bei Mario Kart könnt ihr euch am Whiteboard in der Cafeteria anmelden.
+Wie bei Mario Kart könnt ihr euch am Whiteboard vor Ort anmelden.
 
 </div>
 <p>
@@ -129,9 +129,9 @@ Wie bei Mario Kart könnt ihr euch am Whiteboard in der Cafeteria anmelden.
 <iframe defer width="560" height="315" src="https://www.youtube-nocookie.com/embed/c80dVYcL69E?si=B8M2fxFf1I_7NB4K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Für: PC
 
-Das Turnier findet in der Mensa statt und wird auf den eigenen Maschinen/Leihrechnern gespielt. Alle, die gerne teilnehmen wollen, können sich auf dem Whiteboard in der Mensa unter "CS2" eintragen. Zeichnet dabei im Lageplan auch ein, wo euer Teamleader sitzt, damit wir euch zur einfacheren Kommunikation und zur technischen Hilfe schnell erreichen können.
+Das Turnier findet in der Mensa statt und wird auf den eigenen Maschinen/Leihrechnern gespielt. Alle, die gerne teilnehmen wollen, können sich auf dem Whiteboard vor Ort unter "CS2" eintragen. Zeichnet dabei im Lageplan auch ein, wo euer Teamleader sitzt, damit wir euch zur einfacheren Kommunikation und zur technischen Hilfe schnell erreichen können.
 
-Für Spielergruppen kleiner als 5 Spieler gibt es auch einen Raum im Discord, wo ihr euch mit anderen Spielern zusammenfinden könnt.
+Für Spielergruppen kleiner als 5 Spieler\*innen gibt es auch einen Raum im Discord, wo ihr euch mit anderen Spielern\*innen zusammenfinden könnt.
 
 Alle Matches werden durch ein Bo1 entschieden, bis auf das Finale; dieses wird als Bo3 ausgetragen.
 
@@ -216,14 +216,15 @@ Auf: PC
 <iframe defer width="560" height="315" src="https://www.youtube-nocookie.com/embed/KE07hpCDllU?si=FkUlrz0e0L-niKH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Für: PC (kostenlos)
 
-Unser Rocket League Turnier ⚽️🚗 wird im spannenden 2v2 KO-System ausgetragen. Gespielt wird im lokalen Multiplayer-Modus, wobei alle Plattformen (PC, PS4 etc.) zugelassen sind. Es können maximale 8 Teams antreten. Vor Turnierbeginn treffen wir uns am Orga-Tisch, und die weitere Kommunikation erfolgt über Discord oder alternativ über TS3.
+Unser Rocket League-Turnier ⚽️🚗 wird im spannenden 2v2 KO-System ausgetragen. Gespielt wird im lokalen Multiplayer-Modus, wobei alle Plattformen (PC, PS4 etc.) zugelassen sind. Es können maximal 8 Teams antreten. Vor Turnierbeginn treffen wir uns am Orga-Tisch, und die weitere Kommunikation erfolgt über Discord oder alternativ über TS3.
 
+<!--
 ### Tetris
 
 ![Tetris Vorschau](/tetris.png)
 
-Auf unserer HAW-LAN veranstalten wir ein Tetris-Turnier, das über den Abend kontinuierlich läuft. Teilnehmende können bis spätestens 1 Uhr einen Screenshot ihres Highscores im Discord-Kanal #tetris-highscores posten ([→ Link zum Channel ←](https://discord.com/channels/1308769748602978374/1310650109679112273)). Als offizielle Version muss das Spiel unter [https://tetris.com/play-tetris](https://tetris.com/play-tetris) genutzt werden. Der höchste Highscore wird um 1 Uhr mit einem Pokal prämiert. Bitte spielt fair – viel Spaß und Erfolg!
-
+Auf unserer LAN-Party veranstalten wir ein Tetris-Turnier, das über den Abend kontinuierlich läuft. Teilnehmende können bis spätestens 1 Uhr einen Screenshot ihres Highscores im Discord-Kanal #tetris-highscores posten ([→ Link zum Channel ←](https://discord.com/channels/1308769748602978374/1310650109679112273)). Als offizielle Version muss das Spiel unter [https://tetris.com/play-tetris](https://tetris.com/play-tetris) genutzt werden. Der höchste Highscore wird um 1 Uhr mit einem Pokal prämiert. Bitte spielt fair – viel Spaß und Erfolg!
+-->
 ## Verpflegung
 
 Wir haben kostenlose Getränke sowie Snacks für euch vorbereitet, ihr findet sie gegenüber vom Orga-Tisch. Nur solange der Vorrat reicht.

@@ -20,7 +20,7 @@ Es ist wieder so weit! Tauche ein in die ultimative Gaming-Erfahrung bei der HAW
 
 <br/>
 
-Dabei gibt es nicht nur PC-Gaming, sondern auch eine Multiplayer Switch Station, Retro-Konsolen, und vieles mehr!
+Dabei gibt es nicht nur PC-Gaming, sondern auch eine Multiplayer Switch Station, (Retro-)Konsolen, klassische Table Games und vieles mehr!
 
 <br>
 
