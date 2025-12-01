@@ -1,3 +1,19 @@
+# HAW-LAN Website
+
+This is the repo for the official [https://haw-lan.de](https://haw-lan.de) website.
+
+## Edit Content
+
+- To edit Site content just go in `/src/content` and edit the files.
+  - To create a new Site, simple create a `.md` file in the directory.
+  - To add images or other assets, add these in `/static` and refer to them by the filename without any prefix.
+
+## Development
+
+This sveltekit github pages is mainly based on the following guide: https://joyofcode.xyz/sveltekit-markdown-blog
+
+Following is the default sveltekit readme section...
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
