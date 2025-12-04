@@ -98,11 +98,15 @@ code {
 		@apply px-3 lg:w-[1024px] lg:mx-auto;
 	}
 	.row {
-		@apply flex flex-col items-center gap-4;
+		@apply flex flex-col md:flex-row gap-8;
 		& > * {
 			@apply flex-1;
 		}
 	}
+}
+
+.badge {
+	@apply bg-lime-700 text-white font-extrabold text-base inline-block px-2 py-1 mb-2 rounded;
 }
 
 .banner {
