@@ -17,12 +17,18 @@ seoDescription: Hier findet ihr alle Informationen rund um die Events und Turnie
 
 ## Server
 
+<div class="row">
+<div>
+
 ### Voice & Co.
 
 - Discord: **[https://discord.gg/Puy2CnyMgQ](https://discord.gg/Puy2CnyMgQ)**
 - Teamspeak3: **ts3.haw.lan**
 - File-Server (Windows): **smb:\\\\files2.haw.lan**
 - File-Server (Linux/macOS): **smb://files2.haw.lan**
+
+</div>
+<div>
 
 ### Gameserver
 
@@ -31,6 +37,9 @@ seoDescription: Hier findet ihr alle Informationen rund um die Events und Turnie
 - Terraria: **terraria.haw.lan**
 - Factorio: **factorio.haw.lan**
 - Counter Strike 2: *siehe Wiki-Eintrag*
+
+</div>
+</div>
 
 ## Regeln
 
@@ -62,6 +71,14 @@ Wir haben 14 Leih-PCs, die Ihr nutzen könnt, falls ihr nicht die Möglichkeit h
 
 <!-- Bei Trailern immer defer hinzufügen, da sonst die Seite langsam lädt -->
 
+Naturülich gibt es wieder viele Turniere und Angebote auf der LAN-Party. Unten findet ihr eine Übersicht über die verschiedenen Spiele und Turniere.
+
+### Free Realm
+
+<div class="badge">Neu!</div>
+
+Im Free Realmn Bereich können Brett- und Kartenspiele gespielt werden. Bringt gerne eure eigenen Spiele mit oder nutzt die vor Ort verfügbaren Spiele.
+
 ### Retro-Ecke
 
 <div class="row">
@@ -78,6 +95,17 @@ Dazu gehören:
 - Wii Party
 - RetroPi(s) mit diversen Spielen
 - und vieles mehr!
+
+
+#### Retro Turnier
+
+<div class="badge">Neu!</div>
+
+Wo?: Retro Ecke
+<br/>
+
+Es wird eine Art Triathlon mit verschiedenen Spielen geben. Die genauen Spiele werden vor Ort bekannt gegeben. Jeder, der teilnehmen möchte, kann sich am Whiteboard eintragen.
+<br/>
 
 </div>
 <p>
@@ -124,97 +152,21 @@ Wie bei Mario Kart könnt ihr euch am Whiteboard vor Ort anmelden.
 </p>
 </div>
 
-### Counter-Strike 2
-
-<iframe defer width="560" height="315" src="https://www.youtube-nocookie.com/embed/c80dVYcL69E?si=B8M2fxFf1I_7NB4K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Für: PC
-
-Das Turnier findet in der Mensa statt und wird auf den eigenen Maschinen/Leihrechnern gespielt. Alle, die gerne teilnehmen wollen, können sich auf dem Whiteboard vor Ort unter "CS2" eintragen. Zeichnet dabei im Lageplan auch ein, wo euer Teamleader sitzt, damit wir euch zur einfacheren Kommunikation und zur technischen Hilfe schnell erreichen können.
-
-Für Spielergruppen kleiner als 5 Spieler\*innen gibt es auch einen Raum im Discord, wo ihr euch mit anderen Spielern\*innen zusammenfinden könnt.
-
-Alle Matches werden durch ein Bo1 entschieden, bis auf das Finale; dieses wird als Bo3 ausgetragen.
-
-#### Turnier-Infos
-
-Vor jeder Runde wird eurem Team über Discord ein Server zugewiesen. Nutzt zum Verbinden einfach diese Links:
-
-<div class="row" style="margin:10px">
-    <div style="display: flex; flex-direction: column">
-        <a class="button" href="steam://connect/10.0.0.18:27015">Server 1</a>
-        <p style="color: #4f4f4f; text-align:center; font-size: 13px">connect cs2-testing.haw.lan:27015</p>
-    </div>
-    <div style="display: flex; flex-direction: column">
-        <a class="button" href="steam://connect/10.0.0.18:27115">Server 2</a>
-        <p style="color: #4f4f4f; text-align:center; font-size: 13px">connect cs2-testing.haw.lan:27115</p>
-    </div>
-</div>
-<div class="row" style="margin:10px">
-    <div style="display: flex; flex-direction: column">
-        <a class="button" href="steam://connect/10.0.0.18:27215">Server 3</a>
-        <p style="color: #4f4f4f; text-align:center; font-size: 13px">connect cs2-testing.haw.lan:27215</p>
-    </div>
-    <div style="display: flex; flex-direction: column">
-        <a class="button" href="steam://connect/10.0.0.18:27315">Server 4</a>
-        <p style="color: #4f4f4f; text-align:center; font-size: 13px">connect cs2-testing.haw.lan:27315</p>
-    </div>
-</div>
-
-Wenn ihr bereit seid, könnt ihr "!ready" in den Counter-Strike 2 **Global-Chat** schreiben (wichtig: nicht den Team-Chat). Mit "!unready" könnt ihr euch wieder als nicht bereit markieren. Sobald alle 10 Spieler bereit sind, endet die Warmup-Phase.
-
-Sollte es während eines Spieles technische Probleme geben, könnt ihr "!pause" in den Global-Chat schreiben, wodurch das Match während der nächsten Freezetime pausiert wird. Das Team, welches pausiert hat, kann durch "!unpause" das Spiel fortsetzen.
-
-Hier eine Übersicht aller Befehle:
-
-<table class="commandTable">
-    <thead>
-        <tr>
-            <th>Command</th>
-            <th>Erklärung</th>
-            <th>Bemerkung</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><code>!ready</code></td>
-            <td>Markiert dich selbst als bereit.</td>
-            <td>Funktioniert nur im Warmup.</td>
-        </tr>
-        <tr>
-            <td><code>!unready</code></td>
-            <td>Markiert dich als noch nicht bereit.</td>
-            <td>Funktioniert nur im Warmup.</td>
-        </tr>
-        <tr>
-            <td><code>!pause</code></td>
-            <td>Pausiert das Spiel.</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td><code>!unpause</code></td>
-            <td>Hebt eine laufende Pause auf.</td>
-            <td>Nur pausierendes Team.</td>
-        </tr>
-        <tr>
-            <td><code>!admin [msg]</code></td>
-            <td>Ruft den Server Admin.</td>
-            <td>[msg] ist optional.</td>
-        </tr>
-    </tbody>
-</table>
-
 ### Coach Games
 
-<iframe defer width="560" height="315" src="https://www.youtube-nocookie.com/embed/tNgCy92QWZY?si=NVWOtAImscWtNPfs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Auf: PC
+Es wird wieder einige Coach-Games geben, bei denen ihr gemeinsam mit anderen Teilnehmenden spielen könnt, wie z.B. Wii Party. Die genauen Spiele werden vor Ort bekannt gegeben.
 
-<iframe defer width="560" height="315" src="https://www.youtube-nocookie.com/embed/U8cnH1nNyrk?si=8w28n5NaGfrEsxIm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Auf: PC
+### League of Legends
+
+Für: PC (kostenlos)
+<br/>
+
+Es wir später am Abend ein League of Legends-Turnier geben. Genaue Informationen werden vor Ort bekannt gegeben.
 
 ### Rocket League
 
-<iframe defer width="560" height="315" src="https://www.youtube-nocookie.com/embed/KE07hpCDllU?si=FkUlrz0e0L-niKH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Für: PC (kostenlos)
+<br/>
 
 Unser Rocket League-Turnier ⚽️🚗 wird im spannenden 2v2 KO-System ausgetragen. Gespielt wird im lokalen Multiplayer-Modus, wobei alle Plattformen (PC, PS4 etc.) zugelassen sind. Es können maximal 8 Teams antreten. Vor Turnierbeginn treffen wir uns am Orga-Tisch, und die weitere Kommunikation erfolgt über Discord oder alternativ über TS3.
 
