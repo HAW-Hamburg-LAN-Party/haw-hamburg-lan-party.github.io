@@ -17,8 +17,8 @@ seoDescription: Hier findet ihr alle Informationen rund um die Events und Turnie
 
 ### Voice & Co.
 
-- Discord: **[https://discord.gg/Puy2CnyMgQ](https://discord.gg/Puy2CnyMgQ)**
-- Teamspeak3: **ts3.haw.lan**
+- Discord: **[https://discord.haw-lan.de](https://discord.haw-lan.de)**
+- Teamspeak 3: **ts3.haw.lan**
 - File-Server (Windows): **smb:\\\\files2.haw.lan**
 - File-Server (Linux/macOS): **smb://files2.haw.lan**
 

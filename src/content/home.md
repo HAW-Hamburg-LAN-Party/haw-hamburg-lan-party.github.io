@@ -108,7 +108,7 @@ Schreib uns eine Nachricht auf Instagram. Falls du kein Social Media hast, schre
 - PC/Laptop
 - Stromkabel
 - LAN-Kabel
-  - ggf. Adapter (das WLAN kann nicht für Spiele genutzt werden)
+  - ggf. LAN-Adapter (das WLAN kann nicht für Spiele genutzt werden)
 - Maus
 - Tastatur
 - Kopfhörer
