@@ -3,22 +3,23 @@ title: Übersicht
 seoTitle: Übersicht - HAW LAN-Party
 seoDescription: Willkommen auf der Website der HAW LAN-Party. Hier findet ihr alle Informationen rund um die Events und Turniere auf der nächsten LAN. Außerdem erfahrt ihr wie und wo ihr euch anmeldet. Viel Spaß beim Zocken!
 ---
-
+<!--
 <div class="banner">
   <div class="text-2xl sm:text-4xl font-bold">🎟️ Tickets jetzt verfügbar!</div>
   <a class="button w-full" href="https://haw-lan-14.eventbrite.de">Jetzt kostenloses Ticket sichern →</a>
 </div>
+-->
 <div class="row">
 <p>
-<img alt="HAW-LAN-Party Impression" src="home-impression.jpg" class="shadow" />
+<img alt="LAN-Party Impression, mehrere Tischreihen mit an PCs spielenden Menschen" src="home-impression.jpg" class="shadow" />
 </p>
 <div>
 
-# Vol. 14 is coming ...
+# Vol. 14 is here!
 
 Es ist wieder so weit! Tauche ein in die ultimative Gaming-Erfahrung bei der HAW Hamburg LAN-Party! Erlebe spannende Turniere, epische Multiplayer-Schlachten und unvergesslichen Spaß. Sei dabei und erlebe Gaming auf einem neuen Level!
 
-<br/>
+<br>
 
 Dabei gibt es nicht nur PC-Gaming, sondern auch eine Multiplayer Switch Station, (Retro-)Konsolen, klassische Table Games und vieles mehr!
 
@@ -39,11 +40,6 @@ Berliner Tor 7 in der Mensa (1. OG)
 
 </div>
 </div>
-
-<!-- <div class="banner">
-  <h2>Hol dir dein kostenloses Ticket hier:</h2>
-  <a class="button" href="https://haw-lan-14.eventbrite.de">Zu Eventbrite →</a>
-</div> -->
 
 ## Ablauf
 
@@ -135,13 +131,13 @@ Die Anzahl der Tickets ist begrenzt. Alle Tickets, die nicht benutzt wurden, ver
 
 ##### Es gibt keine Tickets mehr und ich brauche noch eins, kann ich jetzt nicht mehr kommen?
 
-Falls alle Tickets schon gebucht wurden, hast du ggf. noch die Möglichkeit am LAN-Abend nach 21 Uhr ein Ticket zu buchen. Dies liegt daran, dass um 21 Uhr alle Tickets von nicht eingecheckten Personen storniert werden.
+Falls alle Tickets schon gebucht wurden, hast du ggf. noch die Möglichkeit am LAN-Abend nach 21 Uhr reinzukommen. Dies liegt daran, dass um 21 Uhr alle Tickets von nicht eingecheckten Personen storniert werden.
 
 ## Unterstützt durch
 
 <div class="row">
   <img alt="Sponsor: AStA der HAW Hamburg" src="sponsor-asta.svg" load="lazy" />
-  <img alt="Sponsor: Förderverein Elektrotechnik und Informatik der HAW Hamburg" src="sponsor-fvei.png" load="lazy" />
+  <!--<img alt="Sponsor: Förderverein Elektrotechnik und Informatik der HAW Hamburg" src="sponsor-fvei.png" load="lazy" />-->
 </div>
 
 </div>
