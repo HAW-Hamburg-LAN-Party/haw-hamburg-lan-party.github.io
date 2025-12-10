@@ -27,7 +27,7 @@ seoDescription: Hier findet ihr alle Informationen rund um die Events und Turnie
 
 ### Gameserver
 
-- Minecraft (Java): **minecraft.haw.lan**
+- Minecraft (Java) + WebMap: **minecraft.haw.lan**
 - Minecraft (Bedrock): **bedrock.haw.lan**
 - Terraria: **terraria.haw.lan**
 - Factorio: **factorio.haw.lan**
@@ -64,7 +64,7 @@ Wir haben 14 Leih-PCs, die Ihr nutzen könnt, falls ihr nicht die Möglichkeit h
 
 <!-- Bei Trailern immer defer hinzufügen, da sonst die Seite langsam lädt -->
 
-Naturülich gibt es wieder viele Turniere und Angebote auf der LAN-Party. Unten findet ihr eine Übersicht über die verschiedenen Spiele und Turniere.
+Natürlich gibt es wieder viele Turniere und Angebote auf der LAN-Party. Unten findet ihr eine Übersicht über die verschiedenen Spiele und Turniere.
 
 ### Free Realm
 
