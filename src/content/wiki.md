@@ -4,11 +4,6 @@ seoTitle: Wiki - HAW LAN-Party
 seoDescription: Hier findet ihr alle Informationen rund um die Events und Turniere auf der nächsten LAN. Außerdem erfahrt ihr, wie und wo ihr euch anmeldet. Viel Spaß beim Zocken!
 ---
 
-<div class="w-full bg-red-400 p-4 mb-4 rounded shadow">
-    Die Wiki wird aktuell für die Vol. 14 vorbereitet.
-    Einige Informationen können sich noch ändern.
-</div>
-
 ## Lageplan
 
 **Mensa - 1. Stock**
@@ -63,9 +58,7 @@ Wir haben 14 Leih-PCs, die Ihr nutzen könnt, falls ihr nicht die Möglichkeit h
 
 ## Turnierplan
 
-**Hinweis:** Der Turnierplan ist noch von Vol. 13. Für die Vol. 14 wird er noch aktualisiert.
-
-![Turnierplan Vol. 13](Turnierplan.svg)
+<img alt="Turnierplan Vol. 13" src="Turnierplan.png" load="lazy" />
 
 ## Turnier-Spiele & Angebote
 
