@@ -42,7 +42,7 @@ Berliner Tor 7 in der Mensa (1. OG)
 
 <!-- <div class="banner">
   <h2>Hol dir dein kostenloses Ticket hier:</h2>
-  <a class="button" href="https://haw-lan-13.eventbrite.de">Zu Eventbrite →</a>
+  <a class="button" href="https://haw-lan-14.eventbrite.de">Zu Eventbrite →</a>
 </div> -->
 
 ## Ablauf

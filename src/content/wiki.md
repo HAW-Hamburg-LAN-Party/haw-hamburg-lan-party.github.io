@@ -154,7 +154,7 @@ Es wird wieder einige Coach-Games geben, bei denen ihr gemeinsam mit anderen Tei
 Für: PC (kostenlos)
 <br/>
 
-Es wir später am Abend ein League of Legends-Turnier geben. Genaue Informationen werden vor Ort bekannt gegeben.
+Es wird später am Abend ein League of Legends-Turnier geben. Genaue Informationen werden vor Ort bekannt gegeben.
 
 ### Rocket League
 
