@@ -119,7 +119,7 @@ Es wird eine Art Triathlon mit verschiedenen Spielen geben. Die genauen Spiele w
 **Wo?** Switch Station
 <br>
 
-Das Turnier wird als Single-Elimination ausgetragen. Pro Spiel wird mit 4 Teilnehmen ein Grand Prix auf 150cc gespielt. Die besten 2 Spieler\*innen kommen in die nächste Runde.
+Das Turnier wird als Single-Elimination ausgetragen. Pro Spiel wird mit 12 Teilnehmen ein Grand Prix auf 150cc gespielt. Die besten 6 Spieler\*innen kommen in die nächste Runde.
 
 </div>
 </div>
@@ -158,7 +158,7 @@ Unser Rocket League-Turnier ⚽️🚗 wird im spannenden 2v2 KO-System ausgetra
 **Wo?** Am PC (kostenlos)
 <br>
 
-Auf unserer LAN-Party veranstalten wir ein Tetris-Turnier, das über den Abend kontinuierlich läuft. Teilnehmende können bis spätestens 1 Uhr einen Screenshot ihres Highscores im Discord-Kanal #tetris-highscores posten **([→ Link zum Channel ←](https://discord.com/channels/1308769748602978374/1310650109679112273))**. Als offizielle Version muss das Spiel unter **[https://tetris.com/play-tetris](https://tetris.com/play-tetris)** genutzt werden. Der höchste Highscore wird um 1 Uhr mit einem Pokal prämiert. Bitte spielt fair – viel Spaß und Erfolg!
+Auf unserer LAN-Party veranstalten wir ein Tetris-Turnier, das über den Abend kontinuierlich läuft. Teilnehmende können bis spätestens 2 Uhr einen Screenshot ihres Highscores im Discord-Kanal #tetris-highscores posten **([→ Link zum Channel ←](https://discord.com/channels/1308769748602978374/1310650109679112273))**. Als offizielle Version muss das Spiel unter **[https://tetris.com/play-tetris](https://tetris.com/play-tetris)** genutzt werden. Der höchste Highscore wird um 2 Uhr prämiert. Bitte spielt fair – viel Spaß und Erfolg!
 
 ### Coach Games
 
