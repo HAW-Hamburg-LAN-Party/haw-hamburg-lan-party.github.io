@@ -1,4 +1,7 @@
 ---
+import { Image } from 'astro:assets';
+import logo from '../images/logo.png';
+
 const navLinks = [
 	{ href: '/', label: 'Home' },
 	{ href: '/wiki', label: 'Wiki' },
@@ -17,9 +20,9 @@ const pathname = new URL(Astro.request.url).pathname;
 		>
 			<!-- Logo -->
 			<a href="/" class="logo pl-0 h-full py-3 object-scale-down w-full" id="logo-link">
-				<img
+				<Image
 					class="img-logo h-full w-auto object-cover p-0"
-					src="/logo.png"
+					src={logo}
 					alt="haw-hamburg-lan-party-logo"
 				/>
 			</a>

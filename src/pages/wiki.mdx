@@ -5,11 +5,18 @@ seoTitle: Wiki - HAW LAN-Party
 seoDescription: Hier findet ihr alle Informationen rund um die Events und Turniere auf der nächsten LAN. Außerdem erfahrt ihr, wie und wo ihr euch anmeldet. Viel Spaß beim Zocken!
 ---
 
+import { Image } from 'astro:assets';
+import turnierplan from '../images/Turnierplan.png';
+import retroecke from '../images/retroecke.png';
+import switchImg from '../images/switch.png';
+import regelwerk from '../images/regelwerk-super-smash-bros-ultimate.jpeg';
+import Lageplan from '../images/HAW-LAN_Lageplan-Oben.svg';
+
 ## Lageplan
 
 **Mensa - 1. Stock**
 
-<img alt="Lageplan" src="HAW-LAN_Lageplan-Oben.svg" load="lazy" />
+<Lageplan alt="Lageplan" />
 
 ## Server
 
@@ -19,7 +26,7 @@ seoDescription: Hier findet ihr alle Informationen rund um die Events und Turnie
 ### Voice & Co.
 
 - Discord: **[https://discord.haw-lan.de](https://discord.haw-lan.de)**
-<!--- Teamspeak 3: **ts3.haw.lan**-->
+{/* - Teamspeak 3: **ts3.haw.lan** */}
 - File-Server (Windows): **smb:\\\\files2.haw.lan**
 - File-Server (Linux/macOS): **smb://files2.haw.lan**
 
@@ -32,7 +39,7 @@ seoDescription: Hier findet ihr alle Informationen rund um die Events und Turnie
 - Minecraft (Bedrock): **bedrock.haw.lan**
 - Terraria: **terraria.haw.lan**
 - Factorio: **factorio.haw.lan**
-<!--- Counter Strike 2: *siehe Wiki-Eintrag*-->
+{/* - Counter Strike 2: *siehe Wiki-Eintrag* */}
 
 </div>
 </div>
@@ -59,14 +66,14 @@ Wir haben einige Leih-PCs, die Ihr nutzen könnt, falls ihr nicht die Möglichke
 
 ## Turnierplan
 
-<img alt="Turnierplan" src="Turnierplan.png" load="lazy" />
+<Image alt="Turnierplan" src={turnierplan} loading="lazy" />
 
 ## Turnier-Spiele & Angebote
 
-<!-- Bei Trailern immer defer hinzufügen, da sonst die Seite langsam lädt -->
+{/* Bei Trailern immer defer hinzufügen, da sonst die Seite langsam lädt */}
 
 Natürlich gibt es wieder viele Turniere und Angebote auf der LAN-Party. Unten findet ihr eine Übersicht über die verschiedenen Spiele und Turniere.
-<br>
+<br />
 
 Zum Teilnehmen tragt euch an den bei den jeweiligen Orten stehenden Whiteboards ein.
 
@@ -83,7 +90,7 @@ Bringt gerne eure eigenen Spiele mit oder nutzt die vor Ort verfügbaren Spiele.
 <div>
 
 In der Retro-Ecke können verschiedene klassische Konsolen ausprobiert werden. Von der Xbox 360 über die Nintendo Wii bis hin zum Super Nintendo ist für jeden etwas dabei. Kommt vorbei und erlebt die Klassiker neu!
-<br>
+<br />
 
 Dazu gehören:
 - Mario Kart Double Dash
@@ -97,28 +104,28 @@ Dazu gehören:
 
 ##### Retro Turnier
 <div class="badge">Neu!</div>
-<br>
+<br />
 
 Es wird eine Art Triathlon mit verschiedenen Spielen geben. Die genauen Spiele werden vor Ort bekannt gegeben.
-<br><br>
+<br /><br />
 </div>
 
 <p>
-<img alt="Retro Ecke" src="retroecke.png" load="lazy" class="shadowlight" />
+<Image alt="Retro Ecke" src={retroecke} loading="lazy" class="shadowlight" />
 </p>
 
 </div>
 
 <div class="row">
 <p>
-<img alt="Switch Games Station" src="switch.png" load="lazy" class="shadowlight" />
+<Image alt="Switch Games Station" src={switchImg} loading="lazy" class="shadowlight" />
 </p>
 <div>
 
 ### Mario Kart 8 Deluxe
 
 **Wo?** Switch Station
-<br>
+<br />
 
 Das Turnier wird als Single-Elimination ausgetragen. Pro Spiel wird mit 12 Teilnehmen ein Grand Prix auf 150cc gespielt. Die besten 6 Spieler\*innen kommen in die nächste Runde.
 
@@ -131,33 +138,33 @@ Das Turnier wird als Single-Elimination ausgetragen. Pro Spiel wird mit 12 Teiln
 ### Super Smash Bros. Ultimate
 
 **Wo?** Nintendo Switch an der Switch Station
-<br>
+<br />
 
 Super Smash Bros. wird nach dem verlinkten Regelwerk 1vs1 gespielt.
 </div>
 <p>
-<img alt="Regelwerk Smash Bros" src="regelwerk-super-smash-bros-ultimate.jpeg" load="lazy" class="shadowextremelylight" />
+<Image alt="Regelwerk Smash Bros" src={regelwerk} loading="lazy" class="shadowextremelylight" />
 </p>
 </div>
 
 ### League of Legends
 
 **Wo?** Am PC (kostenlos)
-<br>
+<br />
 
 Es wird später am Abend ein League of Legends-Turnier geben. Genaue Informationen werden vor Ort bekannt gegeben.
 
 ### Rocket League
 
 **Wo?** Am PC (kostenlos)
-<br>
+<br />
 
 Unser Rocket League-Turnier ⚽️🚗 wird im spannenden 2v2 KO-System ausgetragen. Gespielt wird im lokalen Multiplayer-Modus, wobei alle Plattformen (PC, PS4 etc.) zugelassen sind. Es können maximal 8 Teams antreten. Vor Turnierbeginn treffen wir uns am Orga-Tisch, und die weitere Kommunikation erfolgt über Discord oder alternativ über TS3.
 
 ### Tetris
 
 **Wo?** Am PC (kostenlos)
-<br>
+<br />
 
 Auf unserer LAN-Party veranstalten wir ein Tetris-Turnier, das über den Abend kontinuierlich läuft. Teilnehmende können bis spätestens 2 Uhr einen Screenshot ihres Highscores im Discord-Kanal #tetris-highscores posten **([→ Link zum Channel ←](https://discord.com/channels/1308769748602978374/1310650109679112273))**. Als offizielle Version muss das Spiel unter **[https://tetris.com/play-tetris](https://tetris.com/play-tetris)** genutzt werden. Der höchste Highscore wird um 2 Uhr prämiert. Bitte spielt fair – viel Spaß und Erfolg!
 
@@ -165,7 +172,7 @@ Auf unserer LAN-Party veranstalten wir ein Tetris-Turnier, das über den Abend k
 
 Es wird wieder einige Coach Games geben, bei denen ihr entspannt gemeinsam mit anderen Teilnehmenden spielen könnt. Die genauen Spiele werden vor Ort bekannt gegeben.
 
-<!--### Games Lab: DCS World-->
+{/* ### Games Lab: DCS World */}
 
 ## Verpflegung
 
