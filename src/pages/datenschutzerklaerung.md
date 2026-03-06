@@ -90,20 +90,6 @@ Die Nutzung des Dienstes erfolgt auf Grundlage Ihrer Einwilligung gemäß Art. 6
 
 Die konkrete Speicherdauer der verarbeiteten Daten ist nicht durch uns beeinflussbar, sondern wird von YouTube, LLC bestimmt. Weitere Hinweise finden Sie in der Datenschutzerklärung für YouTube Video: [https://policies.google.com/privacy](https://policies.google.com/privacy).
 
-## Google Web Fonts
-
-### Art und Umfang der Verarbeitung
-
-Wir verwenden Google Fonts von Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland, als Dienst zur Bereitstellung von Schriftarten für unser Onlineangebot. Um diese Schriftarten zu beziehen, stellen Sie eine Verbindung zu Servern von Google Ireland Limited her, wobei Ihre IP-Adresse übertragen wird.
-
-### Zweck und Rechtsgrundlage
-
-Der Einsatz von Google Fonts erfolgt auf Grundlage Ihrer Einwilligung gemäß Art. 6 Abs. 1 lit. a. DSGVO und §25 Abs. 1 TDDDG. Wir beabsichtigen personenbezogenen Daten an Drittländer außerhalb des Europäischen Wirtschaftsraums, insbesondere die USA, zu übermitteln. Die Datenübermittlung in die USA erfolgt nach Art. 45 Abs. 1 DSGVO auf Grundlage des Angemessenheitsbeschluss der Europäischen Kommission. Die beteiligten US-Unternehmen und/oder deren US-Unterauftragnehmer sind nach dem EU-U.S. Data Privacy Framework (EU-U.S. DPF) zertifiziert.
-
-### Speicherdauer
-
-Die konkrete Speicherdauer der verarbeiteten Daten ist nicht durch uns beeinflussbar, sondern wird von Google Ireland Limited bestimmt. Weitere Hinweise finden Sie in der Datenschutzerklärung für Google Fonts: [https://policies.google.com/privacy](https://policies.google.com/privacy).
-
 *Quelle: Datenschutz-Konfigurator von [Herold Unternehmensberatung](https://www.hub24.de)*
 
 *Quelle Github Pages Abschnitt: [https://opr.vc/](https://opr.vc/)*
