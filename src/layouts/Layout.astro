@@ -1,0 +1,30 @@
+---
+interface Props {
+	title?: string;
+	seoTitle?: string;
+	seoDescription?: string;
+}
+
+const { title, seoTitle, seoDescription } = Astro.props;
+
+const pageTitle = title ? `${title} - HAW LAN-Party` : 'HAW LAN-Party';
+---
+
+<!doctype html>
+<html lang="de">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="icon" href="/favicon.png" />
+		<link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap-index.xml" />
+		<meta name="generator" content={Astro.generator} />
+		<title>{pageTitle}</title>
+		{seoTitle && <meta property="og:title" content={seoTitle} />}
+		{seoDescription && <meta property="og:description" content={seoDescription} />}
+		{seoDescription && <meta name="description" content={seoDescription} />}
+		<meta property="og:type" content="website" />
+	</head>
+	<body>
+		<slot />
+	</body>
+</html>

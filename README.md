@@ -4,51 +4,21 @@ This is the repo for the official [https://haw-lan.de](https://haw-lan.de) websi
 
 ## Edit Content
 
-- To edit Site content just go in `/src/content` and edit the files.
+- To edit Site content just go in `/src/pages` and edit the files.
   - To create a new Site, simple create a `.md` file in the directory.
-  - To add images or other assets, add these in `/static` and refer to them by the filename without any prefix.
+  - To add images or other assets, add these in `./images` and refer to them by the filename.
 
-## Development
+To learn more about the folder structure of an Astro project, refer to [the guide on project structure](https://docs.astro.build/en/basics/project-structure/).
 
-This sveltekit github pages is mainly based on the following guide: https://joyofcode.xyz/sveltekit-markdown-blog
+## 🧞 Commands
 
-Following is the default sveltekit readme section...
+All commands are run from the root of the project, from a terminal:
 
-# create-svelte
-
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
-
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+| Command                   | Action                                           |
+| :------------------------ | :----------------------------------------------- |
+| `npm install`             | Installs dependencies                            |
+| `npm run dev`             | Starts local dev server at `localhost:4321`      |
+| `npm run build`           | Build your production site to `./dist/`          |
+| `npm run preview`         | Preview your build locally, before deploying     |
+| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
+| `npm run astro -- --help` | Get help using the Astro CLI                     |
