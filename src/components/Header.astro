@@ -1,155 +1,198 @@
 ---
-import { Image } from 'astro:assets';
-import logo from '../images/logo.png';
+import { Image } from "astro:assets";
+import logo from "../images/logo.png";
 
 const navLinks = [
-	{ href: '/', label: 'Home' },
-	{ href: '/wiki', label: 'Wiki' },
-	{ href: 'https://www.instagram.com/hawhamburg_lan_party/', label: 'Instagram', external: true },
-	{ href: 'https://haw-lan-14.eventbrite.de', label: 'Tickets', external: true },
-	{ href: 'https://discord.haw-lan.de', label: 'Discord', external: true },
+    { href: "/", label: "Home" },
+    { href: "/wiki", label: "Wiki" },
+    {
+        href: "https://www.instagram.com/hawhamburg_lan_party/",
+        label: "Instagram",
+        external: true,
+    },
+    {
+        href: "https://haw-lan-14.eventbrite.de",
+        label: "Tickets",
+        external: true,
+    },
+    { href: "https://discord.haw-lan.de", label: "Discord", external: true },
 ];
 
 const pathname = new URL(Astro.request.url).pathname;
 ---
 
 <header class="fixed top-0 left-0 right-0 sm:border-b-[1px] border-border z-20">
-	<div class="flex flex-col sm:flex-row items-center h-16 justify-between bg-page" id="header-inner">
-		<div
-			class="center-content h-full w-full flex flex-row items-center justify-between bg-page max-sm:border-b-[1px] border-border"
-		>
-			<!-- Logo -->
-			<a href="/" class="logo pl-0 h-full py-3 object-scale-down w-full" id="logo-link">
-				<Image
-					class="img-logo h-full w-auto object-cover p-0"
-					src={logo}
-					alt="haw-hamburg-lan-party-logo"
-				/>
-			</a>
+    <div
+        class="flex flex-col sm:flex-row items-center h-16 justify-between bg-page"
+        id="header-inner"
+    >
+        <div
+            class="center-content h-full w-full flex flex-row items-center justify-between bg-page max-sm:border-b-[1px] border-border"
+        >
+            <!-- Logo -->
+            <a
+                href="/"
+                class="logo pl-0 h-full py-3 object-scale-down w-full"
+                id="logo-link"
+            >
+                <Image
+                    class="img-logo h-full w-auto object-cover p-0"
+                    src={logo}
+                    alt="haw-hamburg-lan-party-logo"
+                />
+            </a>
 
-			<!-- Mobile menu toggle button -->
-			<button
-				id="mobile-menu-toggle"
-				class="sm:hidden px-6 m-0 -mr-6 bg-transparent h-full"
-				aria-expanded="false"
-				aria-controls="mobile-menu"
-			>
-				<!-- Hamburger icon (shown when menu is closed) -->
-				<svg
-					id="icon-menu"
-					xmlns="http://www.w3.org/2000/svg"
-					class="fill-primary w-[24px] h-full"
-					viewBox="0 0 24 24"
-				>
-					<title>menu</title>
-					<path d="M3,6H21V8H3V6M3,11H21V13H3V11M3,16H21V18H3V16Z" />
-				</svg>
-				<!-- Close icon (shown when menu is open) -->
-				<svg
-					id="icon-close"
-					xmlns="http://www.w3.org/2000/svg"
-					viewBox="0 0 24 24"
-					class="fill-primary w-[24px] h-full hidden"
-				>
-					<title>close</title>
-					<path
-						d="M19,6.41L17.59,5L12,10.59L6.41,5L5,6.41L10.59,12L5,17.59L6.41,19L12,13.41L17.59,19L19,17.59L13.41,12L19,6.41Z"
-					/>
-				</svg>
-			</button>
+            <!-- Mobile menu toggle button -->
+            <button
+                id="mobile-menu-toggle"
+                class="sm:hidden px-6 m-0 -mr-6 bg-transparent h-full"
+                aria-expanded="false"
+                aria-controls="mobile-menu"
+            >
+                <!-- Hamburger icon (shown when menu is closed) -->
+                <svg
+                    id="icon-menu"
+                    xmlns="http://www.w3.org/2000/svg"
+                    class="fill-primary w-[24px] h-full"
+                    viewBox="0 0 24 24"
+                >
+                    <title>menu</title>
+                    <path d="M3,6H21V8H3V6M3,11H21V13H3V11M3,16H21V18H3V16Z"
+                    ></path>
+                </svg>
+                <!-- Close icon (shown when menu is open) -->
+                <svg
+                    id="icon-close"
+                    xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 24 24"
+                    class="fill-primary w-[24px] h-full hidden"
+                >
+                    <title>close</title>
+                    <path
+                        d="M19,6.41L17.59,5L12,10.59L6.41,5L5,6.41L10.59,12L5,17.59L6.41,19L12,13.41L17.59,19L19,17.59L13.41,12L19,6.41Z"
+                    ></path>
+                </svg>
+            </button>
 
-			<!-- Desktop navigation -->
-			<nav
-				class="hidden sm:flex flex-row items-center justify-between h-full w-full"
-			>
-				<div></div>
-				<p class="flex flex-row h-full">
-					{navLinks.map((link) => (
-						<a
-							href={link.href}
-							aria-current={!link.external && link.href === pathname ? 'page' : undefined}
-							class:list={[
-								'h-full flex items-center py-4 sm:px-4 px-3',
-								{ 'font-black': !link.external && link.href === pathname }
-							]}
-							{...(link.external ? { rel: 'noopener', target: '_blank' } : {})}
-						>
-							{link.label}
-						</a>
-					))}
-				</p>
-			</nav>
-		</div>
+            <!-- Desktop navigation -->
+            <nav
+                class="hidden sm:flex flex-row items-center justify-between h-full w-full"
+            >
+                <div></div>
+                <p class="flex flex-row h-full">
+                    {
+                        navLinks.map((link) => (
+                            <a
+                                href={link.href}
+                                aria-current={
+                                    !link.external && link.href === pathname
+                                        ? "page"
+                                        : undefined
+                                }
+                                class:list={[
+                                    "h-full flex items-center py-4 sm:px-4 px-3",
+                                    {
+                                        "font-black":
+                                            !link.external &&
+                                            link.href === pathname,
+                                    },
+                                ]}
+                                {...(link.external
+                                    ? { rel: "noopener", target: "_blank" }
+                                    : {})}
+                            >
+                                {link.label}
+                            </a>
+                        ))
+                    }
+                </p>
+            </nav>
+        </div>
 
-		<!-- Mobile navigation menu -->
-		<div id="mobile-menu" class="hidden h-full w-full sm:hidden">
-			<nav
-				class="bg-black sm:bg-transparent flex flex-col sm:hidden items-center justify-between w-full"
-			>
-				<p class="flex flex-col w-full">
-					{navLinks.map((link, i) => (
-						<a
-							href={link.href}
-							aria-current={!link.external && link.href === pathname ? 'page' : undefined}
-							class:list={[
-								'h-full flex items-center py-4 px-3 border-border',
-								i === navLinks.length - 1 ? 'border-b-[1px]' : 'border-b-[1px]',
-								{ 'font-black': !link.external && link.href === pathname }
-							]}
-							{...(link.external ? { rel: 'noopener', target: '_blank' } : {})}
-						>
-							{link.label}
-						</a>
-					))}
-				</p>
-			</nav>
-			<!-- Backdrop -->
-			<div
-				id="mobile-backdrop"
-				class="bg-opacity-80 fixed inset-0 bg-black sm:hidden -z-50"
-			></div>
-		</div>
-	</div>
+        <!-- Mobile navigation menu -->
+        <div id="mobile-menu" class="hidden h-full w-full sm:hidden">
+            <nav
+                class="bg-black sm:bg-transparent flex flex-col sm:hidden items-center justify-between w-full"
+            >
+                <p class="flex flex-col w-full">
+                    {
+                        navLinks.map((link, i) => (
+                            <a
+                                href={link.href}
+                                aria-current={
+                                    !link.external && link.href === pathname
+                                        ? "page"
+                                        : undefined
+                                }
+                                class:list={[
+                                    "h-full flex items-center py-4 px-3 border-border",
+                                    i === navLinks.length - 1
+                                        ? "border-b-[1px]"
+                                        : "border-b-[1px]",
+                                    {
+                                        "font-black":
+                                            !link.external &&
+                                            link.href === pathname,
+                                    },
+                                ]}
+                                {...(link.external
+                                    ? { rel: "noopener", target: "_blank" }
+                                    : {})}
+                            >
+                                {link.label}
+                            </a>
+                        ))
+                    }
+                </p>
+            </nav>
+            <!-- Backdrop -->
+            <div
+                id="mobile-backdrop"
+                class="bg-opacity-80 fixed inset-0 bg-black sm:hidden -z-50"
+            >
+            </div>
+        </div>
+    </div>
 </header>
 
 <script>
-	const toggle = document.getElementById('mobile-menu-toggle');
-	const menu = document.getElementById('mobile-menu');
-	const iconMenu = document.getElementById('icon-menu');
-	const iconClose = document.getElementById('icon-close');
-	const backdrop = document.getElementById('mobile-backdrop');
-	const logoLink = document.getElementById('logo-link');
+    const toggle = document.getElementById("mobile-menu-toggle");
+    const menu = document.getElementById("mobile-menu");
+    const iconMenu = document.getElementById("icon-menu");
+    const iconClose = document.getElementById("icon-close");
+    const backdrop = document.getElementById("mobile-backdrop");
+    const logoLink = document.getElementById("logo-link");
 
-	function openMenu() {
-		menu?.classList.remove('hidden');
-		iconMenu?.classList.add('hidden');
-		iconClose?.classList.remove('hidden');
-		toggle?.setAttribute('aria-expanded', 'true');
-	}
+    function openMenu() {
+        menu?.classList.remove("hidden");
+        iconMenu?.classList.add("hidden");
+        iconClose?.classList.remove("hidden");
+        toggle?.setAttribute("aria-expanded", "true");
+    }
 
-	function closeMenu() {
-		menu?.classList.add('hidden');
-		iconMenu?.classList.remove('hidden');
-		iconClose?.classList.add('hidden');
-		toggle?.setAttribute('aria-expanded', 'false');
-	}
+    function closeMenu() {
+        menu?.classList.add("hidden");
+        iconMenu?.classList.remove("hidden");
+        iconClose?.classList.add("hidden");
+        toggle?.setAttribute("aria-expanded", "false");
+    }
 
-	toggle?.addEventListener('click', () => {
-		const isOpen = toggle.getAttribute('aria-expanded') === 'true';
-		isOpen ? closeMenu() : openMenu();
-	});
+    toggle?.addEventListener("click", () => {
+        const isOpen = toggle.getAttribute("aria-expanded") === "true";
+        isOpen ? closeMenu() : openMenu();
+    });
 
-	backdrop?.addEventListener('click', closeMenu);
-	logoLink?.addEventListener('click', closeMenu);
+    backdrop?.addEventListener("click", closeMenu);
+    logoLink?.addEventListener("click", closeMenu);
 
-	// Close on nav link click
-	menu?.querySelectorAll('a').forEach((link) => {
-		link.addEventListener('click', closeMenu);
-	});
+    // Close on nav link click
+    menu?.querySelectorAll("a").forEach((link) => {
+        link.addEventListener("click", closeMenu);
+    });
 </script>
 
 <style>
-	nav p a:last-child {
-		padding-right: 0;
-	}
+    nav p a:last-child {
+        padding-right: 0;
+    }
 </style>
