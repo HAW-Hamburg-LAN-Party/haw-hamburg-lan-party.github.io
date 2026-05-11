@@ -14,11 +14,11 @@ const { title, seoTitle, seoDescription } = Astro.props.frontmatter;
 ---
 
 <Layout title={title} seoTitle={seoTitle} seoDescription={seoDescription}>
-    <Header />
-    <main class="center-content pt-16">
+    <Header transition:animate="none" />
+    <main class="center-content pt-16" transition:animate="slide">
         <slot />
     </main>
-    <Footer />
+    <Footer transition:animate="slide" />
 </Layout>
 
 <style>
