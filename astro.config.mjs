@@ -40,6 +40,9 @@ export default defineConfig({
   experimental: {
     svgo: true,
   },
+  prefetch: {
+    prefetchAll: true,
+  },
   markdown: {
     rehypePlugins: [
       rehypeSlug,
