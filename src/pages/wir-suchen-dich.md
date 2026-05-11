@@ -5,6 +5,14 @@ title: Join the team
 
 # Wir suchen Mitspieler*innen:
 
+## Ganz viele Helfer*innen
+
+**Was du dafür können solltest:**
+- Lust auf die Organisation einer LAN-Party
+- Teamfähigkeit
+- Zuverlässigkeit
+
+
 ## Server Admin
 
 **Was du dafür können solltest:**
@@ -20,16 +28,6 @@ title: Join the team
 - Cloud (Hetzner)
 - Ansible
 - Router Configuration (EdgeMax)
-
-## Discord Admin
-
-**Was du dafür können solltest:**
-
-- Erfahrungen im Aufsetzen eines Community-Servers
-- Moderation eines Servers
-  
-**Good to have Erfahrungen**
-- Discord-Bots Kenntnisse
 
 ## Deko & Design
 
