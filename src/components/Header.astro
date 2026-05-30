@@ -6,16 +6,20 @@ const navLinks = [
     { href: "/", label: "Home" },
     { href: "/wiki", label: "Wiki" },
     {
+        href: "https://haw-lan-15.eventbrite.de",
+        label: "Tickets",
+        external: true,
+    },
+    {
         href: "https://www.instagram.com/hawhamburg_lan_party/",
         label: "Instagram",
         external: true,
     },
     {
-        href: "https://haw-lan-15.eventbrite.de",
-        label: "Tickets",
-        external: true,
+        href: "https://discord.haw-lan.de",
+        label: "Discord",
+        external: true
     },
-    { href: "https://discord.haw-lan.de", label: "Discord", external: true },
 ];
 
 const pathname = new URL(Astro.request.url).pathname;

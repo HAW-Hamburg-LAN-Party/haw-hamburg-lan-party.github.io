@@ -40,9 +40,7 @@ title: Join the team
 
 ---
 ## Kontakt
-Du hättest Bock drauf? Dann melde dich gerne über Teams bei **Dominik Ciemielewski** oder sende eine E-Mail an **lanparty.haw@gmail.com**
-<br>
-<br>
-
+Du hättest Bock drauf? Dann melde dich gerne über Teams bei **Dominik Ciemielewski**, sende eine E-Mail an **[lanparty.haw@gmail.com](mailto:lanparty.haw@gmail.com)** oder schaue auf unserem **[Discord](https://discord.haw-lan.de)** vorbei!
+<br />
+<br />
 <sub>War nichts dabei, aber du hast dennoch richtig Bock ins Team zu kommen und die nächste LAN-Party noch geiler zu machen? Dann melde dich einfach trotzdem 😉.</sub>
-
