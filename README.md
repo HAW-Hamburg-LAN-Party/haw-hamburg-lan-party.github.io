@@ -10,6 +10,16 @@ This is the repo for the official [https://haw-lan.de](https://haw-lan.de) websi
 
 To learn more about the folder structure of an Astro project, refer to [the guide on project structure](https://docs.astro.build/en/basics/project-structure/).
 
+## Adding new archives
+
+1. Copy 'src/content/archive/volumeYY.md` and rename it to `src/content/archive/volumeXX.md`
+1. Create a folder called `src/content/archive/images/volumeXX`
+1. Add the images for the archive in this folder
+1. Run `uv run clean_and_normalize_images.py src/content/archive/images/volumeXX` to clean and normalize the images
+1. Remove the temp_dir folder created by the script in `src/content/archive/images/volumeXX/temp_dir`
+1. Check whether it works by running `npm run dev`
+1. Push everything to the repo and be happy :)
+
 ## 🧞 Commands
 
 All commands are run from the root of the project, from a terminal:
