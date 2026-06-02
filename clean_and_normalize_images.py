@@ -63,7 +63,14 @@ def clean_and_rename_images(directory: str) -> None:
                 pass
 
             # Open image
-            img = Image.open(image_path)
+            img = Image.open(tmp_dir / image_path.name)
+
+            # remove original file to avoid confusion; we have a backup in tmp_originals
+            try:
+                image_path.unlink()
+            except Exception:
+                # non-fatal; continue and still process
+                pass
             
             image_to_save = img.copy()
             exif = img.info.get("exif")
