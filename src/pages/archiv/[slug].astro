@@ -1,0 +1,93 @@
+---
+import { Image } from "astro:assets";
+import { getCollection, type CollectionEntry } from "astro:content";
+import PageLayout from "../../layouts/PageLayout.astro";
+
+type GalleryImage = {
+    path: string;
+    metadata: ImageMetadata;
+};
+
+export async function getStaticPaths() {
+    const archiveEntries = await getCollection("archive");
+    const imageModules = import.meta.glob(
+        "../../content/archive/images/**/*.{avif,gif,jpg,jpeg,png,webp}",
+        {
+            eager: true,
+            import: "default",
+        },
+    ) as Record<string, ImageMetadata>;
+
+    return archiveEntries.map((entry) => {
+        const folderSegment = `/images/${entry.data.folder}/`;
+        const images = Object.entries(imageModules)
+            .filter(([path]) => path.includes(folderSegment))
+            .sort(([a], [b]) => a.localeCompare(b))
+            .map(([path, metadata]) => ({ path, metadata }));
+
+        return {
+            params: { slug: entry.slug },
+            props: {
+                entry,
+                images,
+            },
+        };
+    });
+}
+
+const { entry, images } = Astro.props as {
+    entry: CollectionEntry<"archive">;
+    images: GalleryImage[];
+};
+
+const seoDescription = entry.data.description
+    ? `${entry.data.description} Bildergalerie im Archiv der HAW LAN-Party.`
+    : `Bildergalerie ${entry.data.title} im Archiv der HAW LAN-Party.`;
+---
+
+<PageLayout
+    frontmatter={{
+        title: `${entry.data.title} Archiv`,
+        seoTitle: `${entry.data.title} - Archiv - HAW LAN-Party`,
+        seoDescription,
+    }}
+>
+    <a href="/archiv" class="mt-4 inline-flex items-center gap-2 font-bold no-underline hover:underline">
+        ← Zurück zum Archiv
+    </a>
+
+    <h1>{entry.data.title}</h1>
+    {entry.data.eventDate && <p>{entry.data.eventDate}</p>}
+    {entry.data.description && <p>{entry.data.description}</p>}
+
+    {
+        images.length === 0 ? (
+            <p>
+                Für dieses Volume sind noch keine Bilder im Ordner
+                <strong> {entry.data.folder}</strong> vorhanden.
+            </p>
+        ) : (
+            <div class="mt-6 grid gap-3 sm:grid-cols-2 lg:grid-cols-3 place-items-center">
+                {images.map((image) => (
+                    <figure class="group overflow-hidden border border-border bg-secondary-bg shadow-sm transition-transform duration-150 ease-in-out hover:-translate-y-0.5 hover:shadow-md">
+                        <a
+                            href={image.metadata.src}
+                            target="_blank"
+                            rel="noopener"
+                            aria-label={`Bild in neuem Tab oeffnen: ${image.path.split("/").pop()}`}
+                            title="Bild in neuem Tab oeffnen"
+                            class="block"
+                        >
+                            <Image
+                                src={image.metadata}
+                                alt={`${entry.data.title} - ${image.path.split("/").pop()}`}
+                                loading="lazy"
+                                class=" w-full object-cover transition-transform duration-150 ease-in-out group-hover:scale-105"
+                            />
+                        </a>
+                    </figure>
+                ))}
+            </div>
+        )
+    }
+</PageLayout>

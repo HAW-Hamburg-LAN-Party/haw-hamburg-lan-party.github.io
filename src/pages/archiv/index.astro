@@ -1,0 +1,68 @@
+---
+import { getCollection } from "astro:content";
+import PageLayout from "../../layouts/PageLayout.astro";
+
+const archiveEntries = (await getCollection("archive")).sort((a, b) =>
+    b.slug.localeCompare(a.slug),
+);
+
+const imageModules = import.meta.glob(
+    "../../content/archive/images/**/*.{avif,gif,jpg,jpeg,png,webp}",
+    {
+        eager: true,
+    },
+);
+
+const imageCountByFolder = Object.keys(imageModules).reduce(
+    (acc, path) => {
+        const match = path.match(/\/images\/([^/]+)\//);
+        if (!match) {
+            return acc;
+        }
+
+        const folder = match[1];
+        acc[folder] = (acc[folder] ?? 0) + 1;
+        return acc;
+    },
+    {} as Record<string, number>,
+);
+---
+
+<PageLayout
+    frontmatter={{
+        title: "Archiv",
+        seoTitle: "Archiv - HAW LAN-Party",
+        seoDescription:
+            "Bildergalerien vergangener HAW LAN-Party Volumes.",
+    }}
+>
+    <h1>Archiv</h1>
+    <p>Alle vergangenen Volumes und deren Bildergalerien.</p>
+
+    {
+        archiveEntries.length === 0 ? (
+            <p>Es gibt aktuell noch keine Archiv-Eintraege.</p>
+        ) : (
+            <div class="mt-6 mb-8 grid gap-4 sm:grid-cols-2">
+                {archiveEntries.map((entry) => {
+                    const imageCount = imageCountByFolder[entry.data.folder] ?? 0;
+                    return (
+                        <a
+                            href={`/archiv/${entry.slug}`}
+                            class="block border border-border bg-secondary-bg p-4 no-underline transition-transform duration-150 ease-in-out hover:-translate-y-0.5 hover:shadow-md"
+                        >
+                            <h2 class="mt-0 mb-2">{entry.data.title}</h2>
+                            {entry.data.eventDate && (
+                                <p class="mb-2 opacity-80">{entry.data.eventDate}</p>
+                            )}
+                            {entry.data.description && <p>{entry.data.description}</p>}
+                            <p class="opacity-80">
+                                {imageCount} {imageCount === 1 ? "Bild" : "Bilder"}
+                            </p>
+                        </a>
+                    );
+                })}
+            </div>
+        )
+    }
+</PageLayout>

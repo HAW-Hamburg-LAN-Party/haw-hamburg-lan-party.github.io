@@ -4,6 +4,7 @@ import logo from "../images/logo.png";
 
 const navLinks = [
     { href: "/", label: "Home" },
+    { href: "/archiv", label: "Archiv" },
     { href: "/wiki", label: "Wiki" },
     {
         href: "https://haw-lan-15.eventbrite.de",
@@ -94,7 +95,7 @@ const pathname = new URL(Astro.request.url).pathname;
                                         : undefined
                                 }
                                 class:list={[
-                                    "h-full flex items-center py-4 sm:px-4 px-3",
+                                    "h-full flex items-center py-4 sm:px-4 px-3 text-nowrap",
                                     {
                                         "font-black":
                                             !link.external &&
