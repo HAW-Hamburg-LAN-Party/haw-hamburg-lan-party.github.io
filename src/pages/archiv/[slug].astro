@@ -2,6 +2,7 @@
 import { Image } from "astro:assets";
 import { getCollection, type CollectionEntry } from "astro:content";
 import PageLayout from "../../layouts/PageLayout.astro";
+import ClickableImage from "../../components/ClickableImage.astro";
 
 type GalleryImage = {
     path: string;
@@ -52,7 +53,10 @@ const seoDescription = entry.data.description
         seoDescription,
     }}
 >
-    <a href="/archiv" class="mt-4 inline-flex items-center gap-2 font-bold no-underline hover:underline">
+    <a
+        href="/archiv"
+        class="mt-4 inline-flex items-center gap-2 font-bold no-underline hover:underline"
+    >
         ← Zurück zum Archiv
     </a>
 
@@ -69,25 +73,14 @@ const seoDescription = entry.data.description
         ) : (
             <div class="mt-6 grid gap-3 sm:grid-cols-2 lg:grid-cols-3 place-items-center">
                 {images.map((image) => (
-                    <figure class="group overflow-hidden border border-border bg-secondary-bg shadow-sm transition-transform duration-150 ease-in-out hover:-translate-y-0.5 hover:shadow-md">
-                        <a
-                            href={image.metadata.src}
-                            target="_blank"
-                            rel="noopener"
-                            aria-label={`Bild in neuem Tab oeffnen: ${image.path.split("/").pop()}`}
-                            title="Bild in neuem Tab oeffnen"
-                            class="block"
-                        >
-                            <Image
-                                src={image.metadata}
-                                alt={`${entry.data.title} - ${image.path.split("/").pop()}`}
-                                loading="lazy"
-                                class=" w-full object-cover transition-transform duration-150 ease-in-out group-hover:scale-105"
-                            />
-                        </a>
-                    </figure>
+                    <ClickableImage
+                        src={image.metadata}
+                        alt={`${entry.data.title} - ${image.path.split("/").pop()}`}
+                    />
                 ))}
             </div>
         )
     }
+    ))}
 </PageLayout>
+) }
