@@ -12,7 +12,7 @@ To learn more about the folder structure of an Astro project, refer to [the guid
 
 ## Adding new archives
 
-1. Copy 'src/content/archive/volumeYY.md` and rename it to `src/content/archive/volumeXX.md`
+1. Copy `src/content/archive/volumeYY.md` and rename it to `src/content/archive/volumeXX.md`
 1. Create a folder called `src/content/archive/images/volumeXX`
 1. Add the images for the archive in this folder
 1. Run `uv run clean_and_normalize_images.py src/content/archive/images/volumeXX` to clean and normalize the images
