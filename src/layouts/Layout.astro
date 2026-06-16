@@ -2,9 +2,9 @@
 import { ClientRouter } from "astro:transitions";
 
 interface Props {
-    title?: string;
-    seoTitle?: string;
-    seoDescription?: string;
+  title?: string;
+  seoTitle?: string;
+  seoDescription?: string;
 }
 
 const { title, seoTitle, seoDescription } = Astro.props;
@@ -14,38 +14,40 @@ const pageTitle = title ? `${title} - HAW LAN-Party` : "HAW LAN-Party";
 
 <!doctype html>
 <html lang="de">
-    <head>
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/favicon.png" />
-        <link
-            rel="sitemap"
-            type="application/xml"
-            title="Sitemap"
-            href="/sitemap-index.xml"
-        />
-        <meta name="generator" content={Astro.generator} />
-        <title>{pageTitle}</title>
-        {seoTitle && <meta property="og:title" content={seoTitle} />}
-        {
-            seoDescription && (
-                <meta property="og:description" content={seoDescription} />
-            )
-        }
-        {seoDescription && <meta name="description" content={seoDescription} />}
-        <meta property="og:type" content="website" />
-        <ClientRouter />
-    </head>
-    <body>
-        <div class="banner pt-5">
-            {/*<div class="text-2xl sm:text-4xl font-bold"> 🚧 Volume 15 is coming soon!</div>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="/favicon.png" />
+    <link
+      rel="sitemap"
+      type="application/xml"
+      title="Sitemap"
+      href="/sitemap-index.xml"
+    />
+    <meta name="generator" content={Astro.generator} />
+    <title>{pageTitle}</title>
+    {seoTitle && <meta property="og:title" content={seoTitle} />}
+    {
+      seoDescription && (
+        <meta property="og:description" content={seoDescription} />
+      )
+    }
+    {seoDescription && <meta name="description" content={seoDescription} />}
+    <meta property="og:type" content="website" />
+    <ClientRouter />
+  </head>
+  <body>
+    {
+      /*<div class="banner pt-5">
+            <div class="text-2xl sm:text-4xl font-bold"> 🚧 Volume 15 is coming soon!</div>
             <div class="text-xl sm:text-2xl font-bold"> Alle Infos sind in Vorbereitung!</div>
             <a class="button w-full xl:w-1/2" href="/wir-suchen-dich">Hilf uns es noch besser zu machen!</a>
-            <br />*/}
+            <br />
             <div class="text-2xl sm:text-4xl font-bold">🎟️ Tickets jetzt verfügbar!</div>
             <a class="button w-full xl:w-1/2" href="https://haw-lan-15.eventbrite.de">Jetzt kostenloses Ticket sichern →</a>
-        </div>
+        </div>*/
+    }
 
-        <slot />
-    </body>
+    <slot />
+  </body>
 </html>
