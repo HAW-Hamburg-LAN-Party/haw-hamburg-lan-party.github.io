@@ -7,7 +7,7 @@ title: Impressum
 
 ## Diensteanbieter
 
-**Initiative LAN-Party**
+**HAW Hamburg LAN-Party**
 
 c/o AStA HAW Hamburg
 
